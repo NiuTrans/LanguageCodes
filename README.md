@@ -132,3 +132,11 @@ It is hard to tell the exact number of human languages on this planet because th
 
   ##### CCMatrix	https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix
 ## References
+- https://www.ethnologue.com/guides/how-many-languages
+- https://glottolog.org/glottolog/language
+- https://meta.wikimedia.org/wiki/Template:List_of_language_names_ordered_by_code
+- https://iso639-3.sil.org/
+- https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/
+- https://zh.wikipedia.org/wiki/%E4%BB%A5%E6%AF%8D%E8%AA%9E%E4%BA%BA%E5%8F%A3%E6%8E%92%E5%BA%8F%E7%9A%84%E8%AA%9E%E8%A8%80%E5%88%97%E8%A1%A8
+- http://www.360doc.com/content/17/0302/14/19062466_633344811.shtml
+- https://www.ethnologue.com/language/ata
