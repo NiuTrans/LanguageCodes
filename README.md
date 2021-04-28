@@ -9,7 +9,7 @@ It is hard to tell the exact number of human languages on this planet because th
 | Arabic      | ar        | ara              | ara                                                          | Afro-Asiatic    | Semitic                                                      | 270 million                | 阿拉伯语     |
 | Amharic     | am        | amh              | amh                                                          | Afro-Asiatic    | Semitic                                                      | 32 million                 | 阿姆哈拉语   |
 | Azerbaijani | az        | aze              | [aze](https://www.loc.gov/standards/iso639-2/php/langcodes_name.php?code_ID=39) | Turkic          | Common Turkic                                                | 23 million                 | 阿塞拜疆语   |
-| Ewe         | ee        | ewe              | ewe                                                          | Niger–Congo     | [Atlantic-Congo](https://en.wikipedia.org/wiki/Atlantic-Congo) | 7 million                  |              |
+| Ewe         | ee        | ewe              | ewe          |埃维语                                                | Niger–Congo     | [Atlantic-Congo](https://en.wikipedia.org/wiki/Atlantic-Congo) | 7 million                  |              |
 ## Corpora 
 - ### The open parallel corpus：
 
