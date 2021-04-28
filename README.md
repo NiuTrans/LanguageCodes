@@ -8,7 +8,7 @@ It is hard to tell the exact number of human languages on this planet because th
 | Albanian    | 阿尔巴尼亚语 | sqi                                                          | Indo-European   | Asia&Europe | official        |
 | Arabic      | 阿拉伯语     | ara                                                          | Afro-Asiatic    | Africa&Asia | official        |
 | Arabic      | 阿拉伯语     | ara                                                          | Afro-Asiatic    | Africa&Asia | official        |
-| Azerbaijani | 阿塞拜疆语   | [aze]| Turkic          | Asia        | official        |
+| Azerbaijani | 阿塞拜疆语   | aze| Turkic          | Asia        | official        |
 | Ewe         | 埃维语       | ewe                                                          | Niger–Congo     | Africa      | non-official    |
 ## Corpora 
 - ### The open parallel corpus：
