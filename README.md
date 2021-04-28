@@ -4,13 +4,12 @@ It is hard to tell the exact number of human languages on this planet because th
 
 ## The Language List
 |  Language   | Language Code | Language Family |     Branch     | Native Speakers (million） | Chinese Name | Macro-aera  |
-| :-: | :-:| :-: | :-: | :-: | :-: |
+| :---------: | :-----------: | :-------------: | :------------: | :------------------------: | :----------: | :-----------: |
 |  Albanian   |      sq       |  Indo-European  |    Albanian    |        7.5 million         | 阿尔巴尼亚语 | Asia&Europe |
 |   Arabic    |      ar       |  Afro-Asiatic   |    Semitic     |        270 million         |   阿拉伯语   | Africa&Asia |
 |   Amharic   |      am       |  Afro-Asiatic   |    Semitic     |         32 million         |  阿姆哈拉语  | Africa      |
 | Azerbaijani |      az       |     Turkic      | Common Turkic  |         23 million         |  阿塞拜疆语  | Asia        |
 |     Ewe     |      ee       |   Niger–Congo   | Atlantic-Congo |         7 million          |    埃维语    | Africa      |
-
 ## Corpora 
 - ### The open parallel corpus：
 
