@@ -13,31 +13,31 @@ It is hard to tell the exact number of human languages on this planet because th
 ## Corpora 
 - ### The open parallel corpus：
 
-#####          Opus 	http://opus.nlpl.eu/
+  #####          Opus 	http://opus.nlpl.eu/
 
-#####          LDC	https://www.ldc.upenn.edu/
+  #####          LDC	https://www.ldc.upenn.edu/
 
-#####          Tatoeba Project	http://www.manythings.org/anki/
+  #####          Tatoeba Project	http://www.manythings.org/anki/
 
-#####          Europa	https://data.europa.eu/data/datasets?locale=en&minScoring=0
+  #####          Europa	https://data.europa.eu/data/datasets?locale=en&minScoring=0
 
-#####          BCC  Corpus	http://bcc.blcu.edu.cn/
+  #####          BCC  Corpus	http://bcc.blcu.edu.cn/
 
-#####         Clarin	https://www.clarin.eu/resource-families/parallel-corpora
+  #####         Clarin	https://www.clarin.eu/resource-families/parallel-corpora
 
-#####         XNLI	https://www.nyu.edu/projects/bowman/multinli/
+  #####         XNLI	https://www.nyu.edu/projects/bowman/multinli/
 
 
 
 - ### Data sets shared on github：
 
-##### WikiMatrix	https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix
+  ##### WikiMatrix	https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix
 
-##### PAWS-X	https://github.com/google-research-datasets/paws/tree/master/pawsx
+  ##### PAWS-X	https://github.com/google-research-datasets/paws/tree/master/pawsx
 
-##### EVBCorpus	https://github.com/qhungngo/EVBCorpus
+  ##### EVBCorpus	https://github.com/qhungngo/EVBCorpus
 
-##### CCMatrix	https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix
+  ##### CCMatrix	https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix
 ## References
 - https://www.ethnologue.com/guides/how-many-languages
 - https://glottolog.org/glottolog/language
