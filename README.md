@@ -3,13 +3,14 @@
 It is hard to tell the exact number of human languages on this planet because the definition of "language" varies depending on how one defines the distinction between languages and dialects. E.g., some languages can be grouped into a language family, and show small differences from others. For a general definition of language, the number of living languages is over 7,000 but most of them are non-digitized (Ref:https://www.ethnologue.com/guides/how-many-languages). Here we list 304 languages with their codes, families, regions and etc. This list covers most of the majority languages in the world and a large number of minority languages. Also, we collect links to sites of multi-lingual corpora. They might help when one studies these languages and/or develop multi-lingual natural language processing (NLP) systems.
 
 ## The Language List
-| Language    | ISO 639-1 | ISO 639-2        | ISO 639-3                                                    | Language family | Branch                                                       | Native speakers (million） | Chinese name |
-| ----------- | --------- | ---------------- | ------------------------------------------------------------ | --------------- | ------------------------------------------------------------ | -------------------------- | ------------ |
-| Albanian    | sq        | alb (B), sqi (T) | sqi                                                          | Indo-European   | Albanian                                                     | 7.5 million                | 阿尔巴尼亚语 |
-| Arabic      | ar        | ara              | ara                                                          | Afro-Asiatic    | Semitic                                                      | 270 million                | 阿拉伯语     |
-| Amharic     | am        | amh              | amh                                                          | Afro-Asiatic    | Semitic                                                      | 32 million                 | 阿姆哈拉语   |
-| Azerbaijani | az        | aze              | aze | Turkic          | Common Turkic                                                | 23 million                 | 阿塞拜疆语   |
-| Ewe         | ee        | ewe              | ewe                                                          | Niger–Congo     | Atlantic-Congo | 7 million                  | 埃维语       |
+| Language    | Language Code  | Language Family | Branch | Native Speakers (million） | Chinese Name |
+| :-: | :-:| :-: | :-: | :-: | :-: |
+| Albanian    | sq       | Indo-European   | Albanian                                | 7.5 million                | 阿尔巴尼亚语 |
+| Arabic      | ar       | Afro-Asiatic    | Semitic                                                      | 270 million                | 阿拉伯语     |
+| Amharic     | am       | Afro-Asiatic    | Semitic                                                      | 32 million                 | 阿姆哈拉语   |
+| Azerbaijani | az       | Turkic          | Common Turkic                                                | 23 million                 | 阿塞拜疆语   |
+| Ewe         | ee       | Niger–Congo     | Atlantic-Congo | 7 million                  | 埃维语       |
+
 ## Corpora 
 - ### The open parallel corpus：
 
