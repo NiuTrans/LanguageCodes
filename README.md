@@ -10,6 +10,13 @@ It is hard to tell the exact number of human languages on this planet because th
 | Amharic     | am       | Afro-Asiatic    | Semitic                                                      | 32 million                 | Africa | 阿姆哈拉语 |
 | Azerbaijani | az       | Turkic          | Common Turkic                                                | 23 million                 | Asia | 阿塞拜疆语 |
 | Ewe         | ee       | Niger–Congo     | Atlantic-Congo | 7 million                  | Africa | 埃维语 |
+
+## Notes
+
+ 1. ISO 639 is a standardized nomenclature used to classify languages. Each language is assigned a two-letter (639-1) and three-letter (639-2 and 639-3) lowercase abbreviation, amended in later versions of the nomenclature.(上标数字2）
+2.For several minority languages without official Chinese name, we consult to other reliable sources (上标数字3)or use its transliteration name.
+
+
 ## Corpora 
 - ### The open parallel corpus：
 
