@@ -43,7 +43,7 @@ It is hard to tell the exact number of human languages on this planet because th
 
 
 
-- ### Multi-lingual Date Shared on Github：
+- ### Multi-lingual Data Shared on Github：
 
   ##### [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix)	a dataset of parallel sentences in the textual content of Wikipedia for all possible language pairs 
 
