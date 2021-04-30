@@ -25,7 +25,7 @@ It is hard to tell the exact number of human languages on this planet because th
 
 
 ## Corpora 
-- ### The open parallel corpus：
+- ### Multi-lingual Data Rrojects：
 
   #####          [Opus](http://opus.nlpl.eu/)	the biggest collection of openly available parallel corpora
 
@@ -43,7 +43,7 @@ It is hard to tell the exact number of human languages on this planet because th
 
 
 
-- ### Data sets shared on github：
+- ### Multi-lingual Date Shared on Github：
 
   ##### [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix)	a dataset of parallel sentences in the textual content of Wikipedia for all possible language pairs 
 
