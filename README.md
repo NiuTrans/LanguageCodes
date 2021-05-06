@@ -12,7 +12,7 @@ It is hard to tell the exact number of human languages on this planet because th
         <th rowspan='2' align='center' nowrap="nowrap">Branch</th>
         <th rowspan='2' align='center' nowrap="nowrap">Writing system</th>
         <th rowspan='2' align='center' nowrap="nowrap">Macro-area</th>
-        <th rowspan='2' align='center' nowrap="nowrap">Native speakers(million)</th>
+        <th rowspan='2' align='center' nowrap="nowrap">Native speakers</th>
         <th rowspan='2' align='center' nowrap="nowrap">Chinese name of Language</th>
     </tr>
     <tr>
@@ -29,7 +29,7 @@ It is hard to tell the exact number of human languages on this planet because th
         <td nowrap="nowrap">Albanian</td>
         <td nowrap="nowrap">Latin<br>Albanian Braille</td>
         <td nowrap="nowrap">Asia<br>Europe</td>
-        <td nowrap="nowrap" align='center'>7.5</td>
+        <td nowrap="nowrap" align='center'>7.5 million</td>
         <td nowrap="nowrap">阿尔巴尼亚语</td>
     </tr>
     <tr>
@@ -41,7 +41,7 @@ It is hard to tell the exact number of human languages on this planet because th
         <td nowrap="nowrap">Semitic</td>
         <td nowrap="nowrap">Arabic<br>Arabic Braille<br>Arabizi</td>
         <td nowrap="nowrap">Africa<br>Asia</td>
-        <td nowrap="nowrap" align='center'>270</td>
+        <td nowrap="nowrap" align='center'>270 million</td>
         <td nowrap="nowrap">阿拉伯语</td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@ It is hard to tell the exact number of human languages on this planet because th
         <td nowrap="nowrap">Semitic</td>
         <td nowrap="nowrap">Geʽez<br>Ge'ez Braille</td>
         <td nowrap="nowrap">Africa</td>
-        <td nowrap="nowrap" align='center'>32</td>
+        <td nowrap="nowrap" align='center'>32 million</td>
         <td nowrap="nowrap">阿姆哈拉语</td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ It is hard to tell the exact number of human languages on this planet because th
         <td nowrap="nowrap">Common Turkic</td>
         <td nowrap="nowrap">Latin<br>Perso-Arabic<br>Cyrillic<br>Georgian</td>
         <td nowrap="nowrap">Asia</td>
-        <td nowrap="nowrap" align='center'>23</td>
+        <td nowrap="nowrap" align='center'>23 million</td>
         <td nowrap="nowrap">阿塞拜疆语</td>
     </tr>
      <tr>
@@ -77,7 +77,7 @@ It is hard to tell the exact number of human languages on this planet because th
         <td nowrap="nowrap">Atlantic-Congo</td>
         <td nowrap="nowrap">Latin<br>Ewe Braille</td>
         <td nowrap="nowrap">Africa</td>
-        <td nowrap="nowrap" align='center'>7</td>
+        <td nowrap="nowrap" align='center'>7 million</td>
         <td nowrap="nowrap">埃维语</td>
     </tr>
 </table>
