@@ -91,7 +91,7 @@ It is hard to tell the exact number of human languages on this planet because th
 
   #####          [LDC](https://www.ldc.upenn.edu/)	 A consortium of member organizations that pool resources to support language-related research, education and technology development. Its corpora are sorted by release year, containing 964 corpora updated from 1993 to 2021. Most corpora are multilingual, with Chinese, English, French, Japanes and Arabic as the core.
 
-  #####          [Tatoeba Project](http://www.manythings.org/anki/)	A free collaborative online database of example sentences geared towards foreign language learners. Its  bilingual sentence pairs tab-delimited, which contains 9,598,742 sentences in 401 languages.
+  #####          [Tatoeba Project](http://www.manythings.org/anki/)	A free collaborative online database of example sentences geared towards foreign language learners. Its  bilingual sentence pairs are tab-delimited, which contains 9,598,742 sentences in 401 languages.
 
   #####          [Europa](https://data.europa.eu/data/datasets?locale=en&minScoring=0)	It collects a very wide variety of high-value open data across EU policy domains, including the economy, employment, science, environment and education, which contains 1,125,030 datasets of 81 catalogues. 
 
