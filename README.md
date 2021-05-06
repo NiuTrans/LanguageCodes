@@ -87,7 +87,7 @@ It is hard to tell the exact number of human languages on this planet because th
 ## Corpora 
 - ### Multi-lingual Data Rrojects：
 
-  #####          [Opus](http://opus.nlpl.eu/)	the biggest collection of openly available parallel corpora
+  #####          [Opus](http://opus.nlpl.eu/)	the biggest collection of openly available parallel corpora, which covers over 200 languages and language variants with a total of about 3.2 billion sentences and sentence fragments containing over 28 billion tokens. The collection contains data from various sources and domains and each sub-corpus is provided in common data formats to make it easy to integrate them in research and development.
 
   #####          [LDC](https://www.ldc.upenn.edu/)	 A consortium of member organizations that pool resources to support language-related research, education and technology development. Its corpora are sorted by release year, containing 964 corpora updated from 1993 to 2021. Most corpora are multilingual, with Chinese, English, French, Japanses and Arabic as the core.
 
