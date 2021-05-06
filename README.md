@@ -7,7 +7,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <table>
     <tr>
         <th rowspan='2' align='center' nowrap="nowrap">Language</th>
-        <th colspan='3' align='center' nowrap="nowrap">IOS 639</th>
+        <th colspan='3' align='center' nowrap="nowrap">ISO 639</th>
         <th rowspan='2' align='center' nowrap="nowrap">Language family</th>
         <th rowspan='2' align='center' nowrap="nowrap">Branch</th>
         <th rowspan='2' align='center' nowrap="nowrap">Writing system</th>
