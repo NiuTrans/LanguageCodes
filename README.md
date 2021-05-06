@@ -12,7 +12,7 @@ It is hard to tell the exact number of human languages on this planet because th
 
 ## The Language List
 
-<div class="table-responsive">
+<div>
     <table class="table" style="overflow: hidden">
     <tr>
         <th align='center' rowspan='2' nowrap="nowrap">Language</th>
