@@ -93,31 +93,30 @@ It is hard to tell the exact number of human languages on this planet because th
 
   #####          [Tatoeba Project](http://www.manythings.org/anki/)	Tab-delimited Bilingual Sentence Pairs, which contains 9,598,742 sentences in 401 languages.
 
-  #####          [Europa](https://data.europa.eu/data/datasets?locale=en&minScoring=0)	a parallel corpus for statistical machine translation
+  #####          [Europa](https://data.europa.eu/data/datasets?locale=en&minScoring=0)	It collects a very wide variety of high-value open data across EU policy domains, including the economy, employment, science, environment and education, which contains 1,125,030 datasets of 81 catalogues. 
 
-  #####          [BCC  Corpus](http://bcc.blcu.edu.cn/)	a contemporary Chinese corpus of 15 billion characters
+  #####          [BCC  Corpus](http://bcc.blcu.edu.cn/)	 A contemporary Chinese corpus of 15 billion characters in the field of journal (2 billion), literature (3 bilion), Weibo (3 billion), science (3 billion), ancient Chinese (2 billion) and other fields.
 
-  #####         [Clarin](https://www.clarin.eu/resource-families/parallel-corpora)	a European Research Infrastructure for Language Resources and Technology
+  #####         [Clarin](https://www.clarin.eu/resource-families/parallel-corpora)	a European Research Infrastructure for Language Resources and Technology, 47 bilingual corpora, mostly containing European language pairs but also non-European languages such as Hindi, Tamil, and Vietnamese. 39 corpora are multilingual, with 5 containing texts in more than 50 languages. Almost half of the corpora are sentence-aligned. 
 
-  #####         [XNLI](https://www.nyu.edu/projects/bowman/multinli/)	the cross-lingual natural language inference dataset
+  #####         [XNLI](https://cims.nyu.edu/~sbowman/xnli/)	An evaluation corpus for language transfer and cross-lingual sentence classification in 15 languages. It collects 5,000 test and 2,500 dev pairs for the MultiNLI corpus. The pairs are annotated with textual entailment and translated into 14 languages: French, Spanish, German, Greek, Bulgarian, Russian, Turkish, Arabic, Vietnamese, Thai, Chinese, Hindi, Swahili and Urdu. This results in 112,500 annotated pairs. Each premise can be associated with the corresponding hypothesis in the 15 languages, summing up to more than 1.5 million combinations. 
 
 
 
 - ### Multi-lingual Data Shared on Github：
 
-  ##### [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix)	a dataset of parallel sentences in the textual content of Wikipedia for all possible language pairs 
+  ##### [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix)	A dataset of parallel sentences in the textual content of Wikipedia for all possible language pairs in 85 languages. It extracts 135 million parallel sentences for 1620 different language pairs, out of which only 34 million are aligned with English.  
 
-  ##### [PAWS-X](https://github.com/google-research-datasets/paws/tree/master/pawsx)	a cross-lingual adversarial dataset for paraphrase identification
+  ##### [PAWS-X](https://github.com/google-research-datasets/paws/tree/master/pawsx)	A cross-lingual adversarial dataset for paraphrase identification. It contains 23,659 human translated PAWS evaluation pairs and 296,406 machine translated training pairs in six typologically distinct languages: French, Spanish, German, Chinese, Japanese, and Korean. All translated pairs are sourced from examples in PAWS-Wiki.  
 
-  ##### [EVBCorpus](https://github.com/qhungngo/EVBCorpus)	a multi-layer English-Vietnamese bilingual corpus for studying tasks in comparative linguistics
+  ##### [EVBCorpus](https://github.com/qhungngo/EVBCorpus)	A multi-layer English-Vietnamese bilingual corpus for studying tasks in comparative linguistics. It contains over 20 million words from 15 bilingual books, 100 parallel English-Vietnamese/Vietnamese-English texts, 250 parallel law and ordinance texts, 5,000 news articles, and 2,000 film subtitles. 
 
-  ##### [CCMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix)	a billion-scale bitext data set for training translation models
 ## References
 - [↑](#4) <a id="1">[How many languages are there in the world](https://www.ethnologue.com/guides/how-many-languages). Ethnologue: Languages of the World. Retrieved 29 April 2021.</a>
 - [↑](#5) <a id="2">[List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes). Wikipedia.org. Retrieved 29 April 2021.</a>
 - [↑](#6) <a id="3">[Numeral Systems of the World's Languages](https://mpi-lingweb.shh.mpg.de/numeral/)  Retrieved June 2020.</a>
-- [World language and its name, language family, writing systems and the number and distribution of its native speakers](https://en.wikipedia.org/wiki/Index_of_language_articles). Wikipedia.org. Retrieved March 21, 2020.
-- [Glottolog report for language families](https://glottolog.org/glottolog/language). Glottolog.org. Retrieved July 21, 2020.
-- [World Continents classification](https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/) Retrieved October 21, 2020.
-- [SIL report for language and its codes](https://iso639-3.sil.org/). Retrieved March 20, 2021.
+- [World language and its name, language family, writing systems and the number and distribution of its native speakers](https://iso639-3.sil.org/). Wikipedia.org. Retrieved March 21, 2020.
+- [Glottolog report for language families](https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/). Glottolog.org. Retrieved July 21, 2020.
+- [World Continents classification](https://zh.wikipedia.org/wiki/%E4%BB%A5%E6%AF%8D%E8%AA%9E%E4%BA%BA%E5%8F%A3%E6%8E%92%E5%BA%8F%E7%9A%84%E8%AA%9E%E8%A8%80%E5%88%97%E8%A1%A8) Retrieved October 21, 2020.
+- [SIL report for language and its codes](http://www.360doc.com/content/17/0302/14/19062466_633344811.shtml). Retrieved March 20, 2021.
 - [Ethnologue report for language names, codes, writing systems and etc](https://www.ethnologue.com/language/ata). Retrieved October 11, 2020.
