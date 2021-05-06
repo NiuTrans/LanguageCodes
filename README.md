@@ -7,13 +7,18 @@
 
 <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+<script>
+    #table1{
+        overflow: hidden
+    }
+</script>
 
 It is hard to tell the exact number of human languages on this planet because the definition of "language" varies depending on how one defines the distinction between languages and dialects. E.g., some languages can be grouped into a language family, and show small differences from others. For a general definition of language, the number of living languages is over 7,000<sup><a id="4">[[1]](#1)</a></sup> but most of them are non-digitized. Here we list 304 languages with their codes, families, regions and etc. This list covers most of the majority languages in the world and a large number of minority languages. Also, we collect links to sites of multi-lingual corpora. They might help when one studies these languages and/or develop multi-lingual natural language processing (NLP) systems.
 
 ## The Language List
 
 <div>
-    <table class="table" style="overflow: hidden">
+    <table id="table1" class="table" style="overflow: hidden">
     <tr>
         <th align='center' rowspan='2' nowrap="nowrap">Language</th>
         <th align='center' colspan='3' nowrap="nowrap">ISO 639</th>
