@@ -9,11 +9,11 @@ It is hard to tell the exact number of human languages on this planet because th
     <tr>
         <th align='center' rowspan='2' nowrap="nowrap">Language</th>
         <th align='center' colspan='3' nowrap="nowrap">ISO 639</th>
-        <th align='center' rowspan='2' nowrap="nowrap">Language family<br>Branch</th>
+        <th align='center' rowspan='2' nowrap="nowrap">Language family/<br>Branch</th>
         <th align='center' rowspan='2' nowrap="nowrap">Writing system</th>
         <th align='center' rowspan='2' nowrap="nowrap">Macro-area</th>
-        <th align='center' rowspan='2' nowrap="nowrap">Native speakers</th>
-        <!-- <th align='center' rowspan='2' nowrap="nowrap">Chinese name</th> -->
+        <!-- <th align='center' rowspan='2' nowrap="nowrap">Native speakers </th> -->
+        <th align='center' rowspan='2' nowrap="nowrap">Chinese name</th>
     </tr>
     <tr>
         <td align='center' nowrap="nowrap">1</td>
@@ -25,55 +25,55 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap="nowrap">sq</td>
         <td align='center' nowrap="nowrap">alb (B)<br>sqi (T)</td>
         <td align='center' nowrap="nowrap">sqi</td>
-        <td align='center' nowrap="nowrap" align='center'>Indo-European<br>Albanian</td>
+        <td align='center' nowrap="nowrap" align='center'>Indo-European/<br>Albanian</td>
         <td align='center' nowrap="nowrap">Latin<br>Albanian Braille</td>
         <td align='center' nowrap="nowrap">Asia<br>Europe</td>
-        <td align='center' nowrap="nowrap" align='center'>7.5 million</td>
-        <!-- <td align='center' nowrap="nowrap">阿尔巴尼亚语</td> -->
+        <!-- <td align='center' nowrap="nowrap" align='center'>7.5 million</td> -->
+        <td align='center' nowrap="nowrap">阿尔巴尼亚语</td>
     </tr>
     <tr>
         <td align='center' nowrap="nowrap">Arabic</td>
         <td align='center' nowrap="nowrap">ar</td>
         <td align='center' nowrap="nowrap">ara</td>
         <td align='center' nowrap="nowrap">ara</td>
-        <td align='center' nowrap="nowrap" align='center'>Afro-Asiatic<br>Semitic</td>
+        <td align='center' nowrap="nowrap" align='center'>Afro-Asiatic/<br>Semitic</td>
         <td align='center' nowrap="nowrap">Arabic<br>Arabic Braille<br>Arabizi</td>
         <td align='center' nowrap="nowrap">Africa<br>Asia</td>
-        <td align='center' nowrap="nowrap" align='center'>270 million</td>
-        <!-- <td align='center' nowrap="nowrap">阿拉伯语</td> -->
+        <!-- <td align='center' nowrap="nowrap" align='center'>270 million</td> -->
+        <td align='center' nowrap="nowrap">阿拉伯语</td>
     </tr>
     <tr>
         <td align='center' nowrap="nowrap">Amharic</td>
         <td align='center' nowrap="nowrap">am</td>
         <td align='center' nowrap="nowrap">amh</td>
         <td align='center' nowrap="nowrap">amh</td>
-        <td align='center' nowrap="nowrap">Afro-Asiatic<br>Semitic</td>
+        <td align='center' nowrap="nowrap">Afro-Asiatic/<br>Semitic</td>
         <td align='center' nowrap="nowrap">Ge'ez<br>Ge'ez Braille</td>
         <td align='center' nowrap="nowrap">Africa</td>
-        <td align='center' nowrap="nowrap">32 million</td>
-        <!-- <td align='center' nowrap="nowrap">阿姆哈拉语</td> -->
+        <!-- <td align='center' nowrap="nowrap">32 million</td> -->
+        <td align='center' nowrap="nowrap">阿姆哈拉语</td>
     </tr>
     <tr>
         <td align='center' nowrap="nowrap">Azerbaijani</td>
         <td align='center' nowrap="nowrap">az</td>
         <td align='center' nowrap="nowrap">aze</td>
         <td align='center' nowrap="nowrap">aze</td>
-        <td align='center' nowrap="nowrap">Turkic<br>Common Turkic</td>
+        <td align='center' nowrap="nowrap">Turkic/<br>Common Turkic</td>
         <td align='center' nowrap="nowrap">Latin<br>Perso-Arabic<br>Cyrillic<br>Georgian</td>
         <td align='center' nowrap="nowrap">Asia</td>
-        <td align='center' nowrap="nowrap">23 million</td>
-        <!-- <td align='center' nowrap="nowrap">阿塞拜疆语</td> -->
+        <!-- <td align='center' nowrap="nowrap">23 million</td> -->
+        <td align='center' nowrap="nowrap">阿塞拜疆语</td>
     </tr>
      <tr>
         <td align='center' nowrap="nowrap">Ewe</td>
         <td align='center' nowrap="nowrap">ee</td>
         <td align='center' nowrap="nowrap">ewe</td>
         <td align='center' nowrap="nowrap">ewe</td>
-        <td align='center' nowrap="nowrap">Niger–Congo<br>Atlantic-Congo</td>
+        <td align='center' nowrap="nowrap">Niger–Congo/<br>Atlantic-Congo</td>
         <td align='center' nowrap="nowrap">Latin<br>Ewe Braille</td>
         <td align='center' nowrap="nowrap">Africa</td>
-        <td align='center' nowrap="nowrap">7 million</td>
-        <!-- <td align='center' nowrap="nowrap">埃维语</td> -->
+        <!-- <td align='center' nowrap="nowrap">7 million</td> -->
+        <td align='center' nowrap="nowrap">埃维语</td>
     </tr>
 </table>
 
