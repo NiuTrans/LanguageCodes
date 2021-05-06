@@ -1,11 +1,19 @@
 # Language Codes
+<!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+
+<!-- 可选的 Bootstrap 主题文件（一般不用引入） -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
+
+<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
 
 It is hard to tell the exact number of human languages on this planet because the definition of "language" varies depending on how one defines the distinction between languages and dialects. E.g., some languages can be grouped into a language family, and show small differences from others. For a general definition of language, the number of living languages is over 7,000<sup><a id="4">[[1]](#1)</a></sup> but most of them are non-digitized. Here we list 304 languages with their codes, families, regions and etc. This list covers most of the majority languages in the world and a large number of minority languages. Also, we collect links to sites of multi-lingual corpora. They might help when one studies these languages and/or develop multi-lingual natural language processing (NLP) systems.
 
 ## The Language List
 
-
-<table>
+<div class="table-responsive">
+    <table class="table" style="overflow: hidden">
     <tr>
         <th align='center' rowspan='2' nowrap="nowrap">Language</th>
         <th align='center' colspan='3' nowrap="nowrap">ISO 639</th>
@@ -76,6 +84,9 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap="nowrap">埃维语</td>
     </tr>
 </table>
+
+</div>
+
 
 
 ## Notes
