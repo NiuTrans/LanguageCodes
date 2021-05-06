@@ -3,20 +3,84 @@
 It is hard to tell the exact number of human languages on this planet because the definition of "language" varies depending on how one defines the distinction between languages and dialects. E.g., some languages can be grouped into a language family, and show small differences from others. For a general definition of language, the number of living languages is over 7,000<sup><a id="4">[[1]](#1)</a></sup> but most of them are non-digitized. Here we list 304 languages with their codes, families, regions and etc. This list covers most of the majority languages in the world and a large number of minority languages. Also, we collect links to sites of multi-lingual corpora. They might help when one studies these languages and/or develop multi-lingual natural language processing (NLP) systems.
 
 ## The Language List
-|   Language  | ios 639-1 |    ios 639-2    | ios 639-3 | Language family |     Branch     |             Writing system            |  Macro-area | Native speakers(million） | Chinese name of Language |
-|:-----------:|:---------:|:---------------:|:---------:|:---------------:|:--------------:|:-------------------------------------:|:-----------:|:-------------------------:|:------------------------:|
-| Albanian    | sq        | alb (B)<br>sqi (T) | sqi       | Indo-European   | Albanian    | Latin<br>Albanian Braille             | Asia<br>Europe |            7.5            | 阿尔巴尼亚语             |
-| Arabic      | ar        | ara             | ara       | Afro-Asiatic    | Semitic        | Arabic<br>Arabic Braille<br>Arabizi   | Africa<br>Asia |            270            | 阿拉伯语                 |
-| Amharic     | am        | amh             | amh       | Afro-Asiatic    | Semitic        | Geʽez<br>Ge'ez Braille                   | Africa      |                        32 | 阿姆哈拉语               |
-| Azerbaijani | az        | aze             | aze       | Turkic          | Common Turkic  | Latin<br>Perso-Arabic<br>Cyrillic<br>Georgian | Asia   |             23            | 阿塞拜疆语               |
-| Ewe         | ee        | ewe             | ewe       | Niger–Congo     | Atlantic-Congo | Latin<br>Ewe Braille                     | Africa      |             7             | 埃维语                   |
-<!-- | Language    | Language Code  | Language Family | Branch | Native Speakers (million） | Chinese Name | Macro-aera |
-| :---------: | :-----------: | :-------------: | :------------: | :------------------------: | :----------: | :-----------: |
-| Albanian    | sq       | Indo-European   | Albanian                                | 7.5 million                | Asia&Europe | 阿尔巴尼亚语 |
-| Arabic      | ar       | Afro-Asiatic    | Semitic                                                      | 270 million                | Africa&Asia | 阿拉伯语 |
-| Amharic     | am       | Afro-Asiatic    | Semitic                                                      | 32 million                 | Africa | 阿姆哈拉语 |
-| Azerbaijani | az       | Turkic          | Common Turkic                                                | 23 million                 | Asia | 阿塞拜疆语 |
-| Ewe         | ee       | Niger–Congo     | Atlantic-Congo | 7 million                  | Africa | 埃维语 | -->
+
+<table>
+    <tr>
+        <th rowspan='2'>Language</th>
+        <th colspan='3'>IOS 639</th>
+        <th rowspan='2'>Language family</th>
+        <th rowspan='2'>Branch</th>
+        <th rowspan='2'>Writing system</th>
+        <th rowspan='2'>Macro-area</th>
+        <th rowspan='2'>Native speakers(million)</th>
+        <th rowspan='2'>Chinese name of Language</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Albanian</td>
+        <td>sq</td>
+        <td>alb (B)<br>sqi (T)</td>
+        <td>sqi</td>
+        <td>Indo-European</td>
+        <td>Albanian</td>
+        <td>Latin<br>Albanian Braille</td>
+        <td>Asia<br>Europe</td>
+        <td>7.5</td>
+        <td>阿尔巴尼亚语</td>
+    </tr>
+    <tr>
+        <td>Arabic</td>
+        <td>ar</td>
+        <td>ara</td>
+        <td>ara</td>
+        <td>Afro-Asiatic</td>
+        <td>Semitic</td>
+        <td>Arabic<br>Arabic Braille<br>Arabizi</td>
+        <td>Africa<br>Asia</td>
+        <td>270</td>
+        <td>阿拉伯语</td>
+    </tr>
+    <tr>
+        <td>Amharic</td>
+        <td>am</td>
+        <td>amh</td>
+        <td>amh</td>
+        <td>Afro-Asiatic</td>
+        <td>Semitic</td>
+        <td>Geʽez<br>Ge'ez Braille</td>
+        <td>Africa</td>
+        <td>32</td>
+        <td>阿姆哈拉语</td>
+    </tr>
+    <tr>
+        <td>Azerbaijani</td>
+        <td>az</td>
+        <td>aze</td>
+        <td>aze</td>
+        <td>Turkic</td>
+        <td>Common Turkic</td>
+        <td>Latin<br>Perso-Arabic<br>Cyrillic<br>Georgian</td>
+        <td>Asia</td>
+        <td>23</td>
+        <td>阿塞拜疆语</td>
+    </tr>
+     <tr>
+        <td>Ewe</td>
+        <td>ee</td>
+        <td>ewe</td>
+        <td>ewe</td>
+        <td>Niger–Congo</td>
+        <td>Atlantic-Congo</td>
+        <td>Latin<br>Ewe Braille</td>
+        <td>Africa</td>
+        <td>7</td>
+        <td>埃维语</td>
+    </tr>
+</table>
 
 ## Notes
 
@@ -25,7 +89,7 @@ It is hard to tell the exact number of human languages on this planet because th
 
 
 ## Corpora 
-- ### Multi-lingual Data Projects：
+- ### Multi-lingual Data Rrojects：
 
   #####          [Opus](http://opus.nlpl.eu/)	the biggest collection of openly available parallel corpora
 
