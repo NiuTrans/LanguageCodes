@@ -48,7 +48,7 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap="nowrap">amh</td>
         <td align='center' nowrap="nowrap">amh</td>
         <td align='center' nowrap="nowrap">Afro-Asiatic<br>Semitic</td>
-        <td align='center' nowrap="nowrap">Geʽez<br>Ge'ez Braille</td>
+        <td align='center' nowrap="nowrap">Ge'ez<br>Ge'ez Braille</td>
         <td align='center' nowrap="nowrap">Africa</td>
         <td align='center' nowrap="nowrap">32 million</td>
         <!-- <td align='center' nowrap="nowrap">阿姆哈拉语</td> -->
