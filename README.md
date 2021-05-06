@@ -91,7 +91,7 @@ It is hard to tell the exact number of human languages on this planet because th
 
   #####          [LDC](https://www.ldc.upenn.edu/)	an open consortium of universities, libraries, corporations and government research laboratories
 
-  #####          [Tatoeba Project](http://www.manythings.org/anki/)	a multilingual corpus of sentence equivalents
+  #####          [Tatoeba Project](http://www.manythings.org/anki/)	Tab-delimited Bilingual Sentence Pairs, which contains 9,598,742 sentences in 401 languages.
 
   #####          [Europa](https://data.europa.eu/data/datasets?locale=en&minScoring=0)	a parallel corpus for statistical machine translation
 
