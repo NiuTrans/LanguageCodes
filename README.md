@@ -13,7 +13,7 @@ It is hard to tell the exact number of human languages on this planet because th
         <th align='center' rowspan='2' nowrap="nowrap">Writing System</th>
         <th align='center' rowspan='2' nowrap="nowrap">Macro-area</th>
         <!-- <th align='center' rowspan='2' nowrap="nowrap">Native speakers </th> -->
-        <th align='center' rowspan='2' nowrap="nowrap">Chinese ame<br>of Language</th>
+        <th align='center' rowspan='2' nowrap="nowrap">Chinese Name<br>of Language</th>
     </tr>
     <tr>
         <td align='center' nowrap="nowrap">1</td>
