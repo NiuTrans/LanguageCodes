@@ -89,7 +89,7 @@ It is hard to tell the exact number of human languages on this planet because th
 
   #####          [Opus](http://opus.nlpl.eu/)	the biggest collection of openly available parallel corpora
 
-  #####          [LDC](https://www.ldc.upenn.edu/)	an open consortium of universities, libraries, corporations and government research laboratories
+  #####          [LDC](https://www.ldc.upenn.edu/)	 A consortium of member organizations that pool resources to support language-related research, education and technology development. Its corpora are sorted by release year, containing 964 corpora updated from 1993 to 2021. Most corpora are multilingual, with Chinese, English, French, Japanses and Arabic as the core.
 
   #####          [Tatoeba Project](http://www.manythings.org/anki/)	Tab-delimited Bilingual Sentence Pairs, which contains 9,598,742 sentences in 401 languages.
 
@@ -97,7 +97,7 @@ It is hard to tell the exact number of human languages on this planet because th
 
   #####          [BCC  Corpus](http://bcc.blcu.edu.cn/)	 A contemporary Chinese corpus of 15 billion characters in the field of journal (2 billion), literature (3 bilion), Weibo (3 billion), science (3 billion), ancient Chinese (2 billion) and other fields.
 
-  #####         [Clarin](https://www.clarin.eu/resource-families/parallel-corpora)	a European Research Infrastructure for Language Resources and Technology, 47 bilingual corpora, mostly containing European language pairs but also non-European languages such as Hindi, Tamil, and Vietnamese. 39 corpora are multilingual, with 5 containing texts in more than 50 languages. Almost half of the corpora are sentence-aligned. 
+  #####         [Clarin](https://www.clarin.eu/resource-families/parallel-corpora)	A European Research Infrastructure for Language Resources and Technology, 47 bilingual corpora, mostly containing European language pairs but also non-European languages such as Hindi, Tamil, and Vietnamese. 39 corpora are multilingual, with 5 containing texts in more than 50 languages. Almost half of the corpora are sentence-aligned. 
 
   #####         [XNLI](https://cims.nyu.edu/~sbowman/xnli/)	An evaluation corpus for language transfer and cross-lingual sentence classification in 15 languages. It collects 5,000 test and 2,500 dev pairs for the MultiNLI corpus. The pairs are annotated with textual entailment and translated into 14 languages: French, Spanish, German, Greek, Bulgarian, Russian, Turkish, Arabic, Vietnamese, Thai, Chinese, Hindi, Swahili and Urdu. This results in 112,500 annotated pairs. Each premise can be associated with the corresponding hypothesis in the 15 languages, summing up to more than 1.5 million combinations. 
 
