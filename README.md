@@ -85,7 +85,7 @@ It is hard to tell the exact number of human languages on this planet because th
 
 
 ## Corpora 
-- ### Multi-lingual Data Rrojects：
+- ### Multi-lingual Data Projects：
 
   #####          [Opus](http://opus.nlpl.eu/)	The biggest collection of openly available parallel corpora, which covers over 200 languages and language variants with a total of about 3.2 billion sentences and sentence fragments containing over 28 billion tokens. The collection contains data from various sources and domains and each sub-corpus is provided in common data formats to make it easy to integrate them in research and development.
 
