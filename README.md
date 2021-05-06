@@ -6,79 +6,79 @@ It is hard to tell the exact number of human languages on this planet because th
 
 <table>
     <tr>
-        <th rowspan='2'>Language</th>
-        <th colspan='3'>IOS 639</th>
-        <th rowspan='2'>Language family</th>
-        <th rowspan='2'>Branch</th>
-        <th rowspan='2'>Writing system</th>
-        <th rowspan='2'>Macro-area</th>
-        <th rowspan='2'>Native speakers(million)</th>
-        <th rowspan='2'>Chinese name of Language</th>
+        <th rowspan='2' align='center' nowrap="nowrap">Language</th>
+        <th colspan='3' align='center' nowrap="nowrap">IOS 639</th>
+        <th rowspan='2' align='center' nowrap="nowrap">Language family</th>
+        <th rowspan='2' align='center' nowrap="nowrap">Branch</th>
+        <th rowspan='2' align='center' nowrap="nowrap">Writing system</th>
+        <th rowspan='2' align='center' nowrap="nowrap">Macro-area</th>
+        <th rowspan='2' align='center' nowrap="nowrap">Native speakers(million)</th>
+        <th rowspan='2' align='center' nowrap="nowrap">Chinese name of Language</th>
     </tr>
     <tr>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
+        <td align='center' nowrap="nowrap">1</td>
+        <td align='center' nowrap="nowrap">2</td>
+        <td align='center' nowrap="nowrap">3</td>
     </tr>
     <tr>
-        <td>Albanian</td>
-        <td>sq</td>
-        <td>alb (B)<br>sqi (T)</td>
-        <td>sqi</td>
-        <td>Indo-European</td>
-        <td>Albanian</td>
-        <td>Latin<br>Albanian Braille</td>
-        <td>Asia<br>Europe</td>
-        <td>7.5</td>
-        <td>阿尔巴尼亚语</td>
+        <td nowrap="nowrap">Albanian</td>
+        <td nowrap="nowrap">sq</td>
+        <td nowrap="nowrap">alb (B)<br>sqi (T)</td>
+        <td nowrap="nowrap">sqi</td>
+        <td nowrap="nowrap">Indo-European</td>
+        <td nowrap="nowrap">Albanian</td>
+        <td nowrap="nowrap">Latin<br>Albanian Braille</td>
+        <td nowrap="nowrap">Asia<br>Europe</td>
+        <td nowrap="nowrap" align='center'>7.5</td>
+        <td nowrap="nowrap">阿尔巴尼亚语</td>
     </tr>
     <tr>
-        <td>Arabic</td>
-        <td>ar</td>
-        <td>ara</td>
-        <td>ara</td>
-        <td>Afro-Asiatic</td>
-        <td>Semitic</td>
-        <td>Arabic<br>Arabic Braille<br>Arabizi</td>
-        <td>Africa<br>Asia</td>
-        <td>270</td>
-        <td>阿拉伯语</td>
+        <td nowrap="nowrap">Arabic</td>
+        <td nowrap="nowrap">ar</td>
+        <td nowrap="nowrap">ara</td>
+        <td nowrap="nowrap">ara</td>
+        <td nowrap="nowrap">Afro-Asiatic</td>
+        <td nowrap="nowrap">Semitic</td>
+        <td nowrap="nowrap">Arabic<br>Arabic Braille<br>Arabizi</td>
+        <td nowrap="nowrap">Africa<br>Asia</td>
+        <td nowrap="nowrap" align='center'>270</td>
+        <td nowrap="nowrap">阿拉伯语</td>
     </tr>
     <tr>
-        <td>Amharic</td>
-        <td>am</td>
-        <td>amh</td>
-        <td>amh</td>
-        <td>Afro-Asiatic</td>
-        <td>Semitic</td>
-        <td>Geʽez<br>Ge'ez Braille</td>
-        <td>Africa</td>
-        <td>32</td>
-        <td>阿姆哈拉语</td>
+        <td nowrap="nowrap">Amharic</td>
+        <td nowrap="nowrap">am</td>
+        <td nowrap="nowrap">amh</td>
+        <td nowrap="nowrap">amh</td>
+        <td nowrap="nowrap">Afro-Asiatic</td>
+        <td nowrap="nowrap">Semitic</td>
+        <td nowrap="nowrap">Geʽez<br>Ge'ez Braille</td>
+        <td nowrap="nowrap">Africa</td>
+        <td nowrap="nowrap" align='center'>32</td>
+        <td nowrap="nowrap">阿姆哈拉语</td>
     </tr>
     <tr>
-        <td>Azerbaijani</td>
-        <td>az</td>
-        <td>aze</td>
-        <td>aze</td>
-        <td>Turkic</td>
-        <td>Common Turkic</td>
-        <td>Latin<br>Perso-Arabic<br>Cyrillic<br>Georgian</td>
-        <td>Asia</td>
-        <td>23</td>
-        <td>阿塞拜疆语</td>
+        <td nowrap="nowrap">Azerbaijani</td>
+        <td nowrap="nowrap">az</td>
+        <td nowrap="nowrap">aze</td>
+        <td nowrap="nowrap">aze</td>
+        <td nowrap="nowrap">Turkic</td>
+        <td nowrap="nowrap">Common Turkic</td>
+        <td nowrap="nowrap">Latin<br>Perso-Arabic<br>Cyrillic<br>Georgian</td>
+        <td nowrap="nowrap">Asia</td>
+        <td nowrap="nowrap" align='center'>23</td>
+        <td nowrap="nowrap">阿塞拜疆语</td>
     </tr>
      <tr>
-        <td>Ewe</td>
-        <td>ee</td>
-        <td>ewe</td>
-        <td>ewe</td>
-        <td>Niger–Congo</td>
-        <td>Atlantic-Congo</td>
-        <td>Latin<br>Ewe Braille</td>
-        <td>Africa</td>
-        <td>7</td>
-        <td>埃维语</td>
+        <td nowrap="nowrap">Ewe</td>
+        <td nowrap="nowrap">ee</td>
+        <td nowrap="nowrap">ewe</td>
+        <td nowrap="nowrap">ewe</td>
+        <td nowrap="nowrap">Niger–Congo</td>
+        <td nowrap="nowrap">Atlantic-Congo</td>
+        <td nowrap="nowrap">Latin<br>Ewe Braille</td>
+        <td nowrap="nowrap">Africa</td>
+        <td nowrap="nowrap" align='center'>7</td>
+        <td nowrap="nowrap">埃维语</td>
     </tr>
 </table>
 
