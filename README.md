@@ -3,14 +3,20 @@
 It is hard to tell the exact number of human languages on this planet because the definition of "language" varies depending on how one defines the distinction between languages and dialects. E.g., some languages can be grouped into a language family, and show small differences from others. For a general definition of language, the number of living languages is over 7,000<sup><a id="4">[[1]](#1)</a></sup> but most of them are non-digitized. Here we list 304 languages with their codes, families, regions and etc. This list covers most of the majority languages in the world and a large number of minority languages. Also, we collect links to sites of multi-lingual corpora. They might help when one studies these languages and/or develop multi-lingual natural language processing (NLP) systems.
 
 ## The Language List
-|Language     | ios 639-1 |    ios 639-2    | ios 639-3 | Language family |     Branch     |             Writing system            |  Macro-area | Native speakers(million）| Chinese name of Language |
+<!-- |Language     | ios 639-1 |    ios 639-2    | ios 639-3 | Language family |     Branch     |             Writing system            |  Macro-area | Native speakers(million）| Chinese name of Language |
 |:-----------:|:---------:|:---------------:|:---------:|:---------------:|:--------------:|:-------------------------------------:|:-----------:|:------------------------:|:------------------------:|
-|<div style="width: 80pt">Albanian</div>| <div style="width: 60pt">sq</div>        | <div style="width: 60pt">alb (B)<br>sqi (T)</div> | <div style="width: 60pt">sqi</div>    | <div style="width: 100pt">Indo-European</div>   | <div style="width: 90pt">Albanian</div>       | <div style="width: 90pt">Latin<br>Albanian Braille</div>             | <div style="width: 80pt">Asia<br>Europe</div> |            <div style="width: 150pt">7.5</div>            | <div style="width: 180pt">阿尔巴尼亚语</div>          |
+| Albanian    | sq        | alb (B)<br>sqi (T) | sqi    | Indo-European   | Albanian       | Latin<br>Albanian Braille             | Asia<br>Europe |            7.5            | 阿尔巴尼亚语          |
 | Arabic      | ar        | ara             | ara       | Afro-Asiatic    | Semitic        | Arabic<br>Arabic Braille<br>Arabizi   | Africa<br>Asia |            270            | 阿拉伯语              |
 | Amharic     | am        | amh             | amh       | Afro-Asiatic    | Semitic        | Geʽez<br>Ge'ez Braille                   | Africa      |             32            | 阿姆哈拉语            |
 | Azerbaijani | az        | aze             | aze       | Turkic          | Common Turkic  | Latin<br>Perso-Arabic<br>Cyrillic<br>Georgian | Asia   |             23            | 阿塞拜疆语            |
-| Ewe         | ee        | ewe             | ewe       | Niger–Congo     | Atlantic-Congo | Latin<br>Ewe Braille                  | Africa         |             7             | 埃维语                |
-
+| Ewe         | ee        | ewe             | ewe       | Niger–Congo     | Atlantic-Congo | Latin<br>Ewe Braille                  | Africa         |             7             | 埃维语                | -->
+| Language    | Language Code  | Language Family | Branch | Native Speakers (million） | Chinese Name | Macro-aera |
+| :---------: | :-----------: | :-------------: | :------------: | :------------------------: | :----------: | :-----------: |
+| Albanian    | sq       | Indo-European   | Albanian                                | 7.5 million                | Asia&Europe | 阿尔巴尼亚语 |
+| Arabic      | ar       | Afro-Asiatic    | Semitic                                                      | 270 million                | Africa&Asia | 阿拉伯语 |
+| Amharic     | am       | Afro-Asiatic    | Semitic                                                      | 32 million                 | Africa | 阿姆哈拉语 |
+| Azerbaijani | az       | Turkic          | Common Turkic                                                | 23 million                 | Asia | 阿塞拜疆语 |
+| Ewe         | ee       | Niger–Congo     | Atlantic-Congo | 7 million                  | Africa | 埃维语 |
 
 ## Notes
 
