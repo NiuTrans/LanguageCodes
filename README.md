@@ -1486,7 +1486,7 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>quc</td>
-        <td align='center' nowrap='nowrap'>Mayan ›<br>Eastern Qʼanjobalan–Chujean</td>
+        <td align='center' nowrap='nowrap'>Mayan ›<br>Eastern Qʼanjobalan–<br>Chujean</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
     </tr>
