@@ -9,7 +9,7 @@ It is hard to tell the exact number of human languages on this planet because th
     <tr>
         <th align='center' rowspan='2' nowrap="nowrap">Language ›<br>Chinese Name</th>
         <th align='center' colspan='3' nowrap="nowrap">ISO 639</th>
-        <th align='center' rowspan='2' nowrap="nowrap">Language Family›<br>Branch</th>
+        <th align='center' rowspan='2' nowrap="nowrap">Language Family ›<br>Branch</th>
         <th align='center' rowspan='2' nowrap="nowrap">Writing System</th>
         <th align='center' rowspan='2' nowrap="nowrap">Macro-area</th>
     </tr>
