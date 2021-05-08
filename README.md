@@ -59,5 +59,5 @@ It is hard to tell the exact number of human languages on this planet because th
 - [World language and its name, language family, writing systems and the number and distribution of its native speakers](https://iso639-3.sil.org/). Wikipedia.org. Retrieved March 21, 2020.
 - [Glottolog report for language families](https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/). Glottolog.org. Retrieved July 21, 2020.
 - [World Continents classification](https://zh.wikipedia.org/wiki/%E4%BB%A5%E6%AF%8D%E8%AA%9E%E4%BA%BA%E5%8F%A3%E6%8E%92%E5%BA%8F%E7%9A%84%E8%AA%9E%E8%A8%80%E5%88%97%E8%A1%A8) Retrieved October 21, 2020.
-- [SIL report for language and its codes](http://www.360doc.com/content/17/0302/14/19062466_633344811.shtml). Retrieved March 20, 2021.
+- [SIL report for language and its codes](https://iso639-3.sil.org/). Retrieved March 20, 2021.
 - [Ethnologue report for language names, codes, writing systems and etc](https://www.ethnologue.com/language/ata). Retrieved October 11, 2020.
