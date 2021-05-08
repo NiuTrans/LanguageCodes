@@ -9,10 +9,9 @@ It is hard to tell the exact number of human languages on this planet because th
     <tr>
         <th align='center' rowspan='2' nowrap="nowrap">Language</th>
         <th align='center' colspan='3' nowrap="nowrap">ISO 639</th>
-        <th align='center' rowspan='2' nowrap="nowrap">Language Family/<br>Branch</th>
+        <th align='center' rowspan='2' nowrap="nowrap">Language Family›Branch</th>
         <th align='center' rowspan='2' nowrap="nowrap">Writing System</th>
         <th align='center' rowspan='2' nowrap="nowrap">Macro-area</th>
-        <!-- <th align='center' rowspan='2' nowrap="nowrap">Native speakers </th> -->
         <th align='center' rowspan='2' nowrap="nowrap">Chinese Name<br>of Language</th>
     </tr>
     <tr>
@@ -25,10 +24,9 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap="nowrap">sq</td>
         <td align='center' nowrap="nowrap">alb (B)<br>sqi (T)</td>
         <td align='center' nowrap="nowrap">sqi</td>
-        <td align='center' nowrap="nowrap" align='center'>Indo-European/<br>Albanian</td>
+        <td align='center' nowrap="nowrap">Indo-European/<br>Albanian</td>
         <td align='center' nowrap="nowrap">Latin<br>Albanian Braille</td>
         <td align='center' nowrap="nowrap">Asia<br>Europe</td>
-        <!-- <td align='center' nowrap="nowrap" align='center'>7.5 million</td> -->
         <td align='center' nowrap="nowrap">阿尔巴尼亚语</td>
     </tr>
     <tr>
@@ -36,10 +34,9 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap="nowrap">ar</td>
         <td align='center' nowrap="nowrap">ara</td>
         <td align='center' nowrap="nowrap">ara</td>
-        <td align='center' nowrap="nowrap" align='center'>Afro-Asiatic/<br>Semitic</td>
+        <td align='center' nowrap="nowrap">Afro-Asiatic/<br>Semitic</td>
         <td align='center' nowrap="nowrap">Arabic<br>Arabic Braille<br>Arabizi</td>
         <td align='center' nowrap="nowrap">Africa<br>Asia</td>
-        <!-- <td align='center' nowrap="nowrap" align='center'>270 million</td> -->
         <td align='center' nowrap="nowrap">阿拉伯语</td>
     </tr>
     <tr>
@@ -50,7 +47,6 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap="nowrap">Afro-Asiatic/<br>Semitic</td>
         <td align='center' nowrap="nowrap">Ge'ez<br>Ge'ez Braille</td>
         <td align='center' nowrap="nowrap">Africa</td>
-        <!-- <td align='center' nowrap="nowrap">32 million</td> -->
         <td align='center' nowrap="nowrap">阿姆哈拉语</td>
     </tr>
     <tr>
@@ -61,7 +57,6 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap="nowrap">Turkic/<br>Common Turkic</td>
         <td align='center' nowrap="nowrap">Latin<br>Perso-Arabic<br>Cyrillic<br>Georgian</td>
         <td align='center' nowrap="nowrap">Asia</td>
-        <!-- <td align='center' nowrap="nowrap">23 million</td> -->
         <td align='center' nowrap="nowrap">阿塞拜疆语</td>
     </tr>
      <tr>
@@ -72,7 +67,6 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap="nowrap">Niger–Congo/<br>Atlantic-Congo</td>
         <td align='center' nowrap="nowrap">Latin<br>Ewe Braille</td>
         <td align='center' nowrap="nowrap">Africa</td>
-        <!-- <td align='center' nowrap="nowrap">7 million</td> -->
         <td align='center' nowrap="nowrap">埃维语</td>
     </tr>
 </table>
@@ -112,12 +106,14 @@ It is hard to tell the exact number of human languages on this planet because th
   ##### [EVBCorpus](https://github.com/qhungngo/EVBCorpus)	A multi-layer English-Vietnamese bilingual corpus for studying tasks in comparative linguistics. It contains over 20 million words from 15 bilingual books, 100 parallel English-Vietnamese/Vietnamese-English texts, 250 parallel law and ordinance texts, 5,000 news articles, and 2,000 film subtitles. 
 
 ## References
-- [↑](#4) <a id="1">[How many languages are there in the world](https://www.ethnologue.com/guides/how-many-languages). Ethnologue: Languages of the World. Retrieved 29 April 2021.</a>
+- [↑](#4) <a id="1">["How many languages are there in the world"](https://www.ethnologue.com/guides/how-many-languages). Ethnologue: Languages of the World. Retrieved 29 April 2021.</a>
 - [↑](#5) <a id="2">[List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes). Wikipedia.org. Retrieved 29 April 2021.</a>
 - [↑](#6) <a id="3">[Numeral Systems of the World's Languages](https://mpi-lingweb.shh.mpg.de/numeral/)  Retrieved June 2020.</a>
-- [World language and its name, language family, writing systems and the number and distribution of its native speakers](https://en.wikipedia.org/wiki/Index_of_language_articles). Wikipedia.org. Retrieved March 21, 2020.
-- [Glottolog report for language families](https://glottolog.org/glottolog/language). Glottolog.org. Retrieved July 21, 2020.
-- [World Continents classification](https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/) Retrieved October 21, 2020.
-- [SIL report for language and its codes](https://iso639-3.sil.org/). Retrieved March 20, 2021.
-- [Ethnologue report for language names, codes, writing systems and etc](https://www.ethnologue.com/browse/names). Retrieved October 11, 2020.
-- [Writing systems and etc](https://scriptsource.org/cms/scripts/page.php). Retrieved October 11, 2020.
+- [World language and its name, language family, writing systems and the number and distribution of its native speakers](https://iso639-3.sil.org/). Wikipedia.org. Retrieved March 21, 2020.
+- [Glottolog report for language families](https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/). Glottolog.org. Retrieved July 21, 2020.
+- [World Continents classification](https://zh.wikipedia.org/wiki/%E4%BB%A5%E6%AF%8D%E8%AA%9E%E4%BA%BA%E5%8F%A3%E6%8E%92%E5%BA%8F%E7%9A%84%E8%AA%9E%E8%A8%80%E5%88%97%E8%A1%A8) Retrieved October 21, 2020.
+- [SIL report for language and its codes](http://www.360doc.com/content/17/0302/14/19062466_633344811.shtml). Retrieved March 20, 2021.
+- [Ethnologue report for language names, codes, writing systems and etc](https://www.ethnologue.com/language/ata). Retrieved October 11, 2020.
+- [Wikidata report for language codes and writing systems](https://www.wikidata.org/). Retrieved May 10, 2021.
+- [Omniglot report on writing systems by language](https://omniglot.com/writing/langalph.htm#latin). Retrieved May 10, 2021.
+- [Scriptsource report on language features, writing systems, spoken countries and its status](https://scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=dop). 11.Retrieved May 10, 2021.
