@@ -5,14 +5,13 @@ It is hard to tell the exact number of human languages on this planet because th
 ## The Language List
 
 
-<table>
+<!-- <table>
     <tr>
-        <th align='center' rowspan='2' nowrap="nowrap">Language</th>
+        <th align='center' rowspan='2' nowrap="nowrap">Language ›<br>Chinese Name</th>
         <th align='center' colspan='3' nowrap="nowrap">ISO 639</th>
         <th align='center' rowspan='2' nowrap="nowrap">Language Family›<br>Branch</th>
         <th align='center' rowspan='2' nowrap="nowrap">Writing System</th>
         <th align='center' rowspan='2' nowrap="nowrap">Macro-area</th>
-        <th align='center' rowspan='2' nowrap="nowrap">Chinese Name<br>of Language</th>
     </tr>
     <tr>
         <td align='center' nowrap="nowrap">1</td>
@@ -20,3613 +19,3320 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap="nowrap">3</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Albanian</td>
+        <td align='center' nowrap='nowrap'>Albanian ›<br>阿尔巴尼亚语</td>
         <td align='center' nowrap='nowrap'>sq</td>
         <td align='center' nowrap='nowrap'>alb(B)<br>sqi(T)</td>
         <td align='center' nowrap='nowrap'>sqi</td>
         <td align='center' nowrap='nowrap'>Indo-European›<br>Albanian</td>
         <td align='center' nowrap='nowrap'>Latin<br>Albanian Braille</td>
         <td align='center' nowrap='nowrap'>Asia<br>Europe</td>
-        <td align='center' nowrap='nowrap'>阿尔巴尼亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Arabic</td>
+        <td align='center' nowrap="nowrap">Arabic ›<br>阿拉伯语</td>
+        <td align='center' nowrap="nowrap">ar</td>
+        <td align='center' nowrap="nowrap">ara</td>
+        <td align='center' nowrap="nowrap">ara</td>
+        <td align='center' nowrap="nowrap">Afro-Asiatic›<br>Semitic</td>
+        <td align='center' nowrap="nowrap">Arabic<br>Arabic Braille<br>Arabizi</td>
+        <td align='center' nowrap="nowrap">Africa<br>Asia</td>
+    </tr>
+    <tr>
+        <td align='center' nowrap="nowrap">Amharic ›<br>阿姆哈拉语</td>
+        <td align='center' nowrap="nowrap">am</td>
+        <td align='center' nowrap="nowrap">amh</td>
+        <td align='center' nowrap="nowrap">amh</td>
+        <td align='center' nowrap="nowrap">Afro-Asiatic›<br>Semitic</td>
+        <td align='center' nowrap="nowrap">Ge'ez<br>Ge'ez Braille</td>
+        <td align='center' nowrap="nowrap">Africa</td>
+    </tr>
+    <tr>
+        <td align='center' nowrap="nowrap">Azerbaijani ›<br>阿塞拜疆语</td>
+        <td align='center' nowrap="nowrap">az</td>
+        <td align='center' nowrap="nowrap">aze</td>
+        <td align='center' nowrap="nowrap">aze</td>
+        <td align='center' nowrap="nowrap">Turkic›<br>Common Turkic</td>
+        <td align='center' nowrap="nowrap">Latin<br>Perso-Arabic<br>Cyrillic<br>Georgian</td>
+        <td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+     <tr>
+        <td align='center' nowrap="nowrap">Ewe ›<br>埃维语</td>
+        <td align='center' nowrap="nowrap">ee</td>
+        <td align='center' nowrap="nowrap">ewe</td>
+        <td align='center' nowrap="nowrap">ewe</td>
+        <td align='center' nowrap="nowrap">Niger–Congo›<br>Atlantic-Congo</td>
+        <td align='center' nowrap="nowrap">Latin<br>Ewe Braille</td>
+        <td align='center' nowrap="nowrap">Africa</td>
+    </tr>
+</table> -->
+
+<table>
+    <tr>
+        <th align='center' rowspan='2' nowrap="nowrap">Language ›<br>Chinese Name</th>
+        <th align='center' colspan='3' nowrap="nowrap">ISO 639</th>
+        <th align='center' rowspan='2' nowrap="nowrap">Language Family›<br>Branch</th>
+        <th align='center' rowspan='2' nowrap="nowrap">Writing System</th>
+        <th align='center' rowspan='2' nowrap="nowrap">Macro-area</th>
+    </tr>
+    <tr>
+        <td align='center' nowrap="nowrap">1</td>
+        <td align='center' nowrap="nowrap">2</td>
+        <td align='center' nowrap="nowrap">3</td>
+    </tr>
+        <tr>
+        <td align='center' nowrap='nowrap'>Albanian ›<br>阿尔巴尼亚语</td>
+        <td align='center' nowrap='nowrap'>sq</td>
+        <td align='center' nowrap='nowrap'>alb(B)<br>sqi(T)</td>
+        <td align='center' nowrap='nowrap'>sqi</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Albanian</td>
+        <td align='center' nowrap='nowrap'>Latin<br>Albanian Braille</td>
+        <td align='center' nowrap='nowrap'>Asia<br>Europe</td>
+    </tr>
+    <tr>
+        <td align='center' nowrap='nowrap'>Arabic ›<br>阿拉伯语</td>
         <td align='center' nowrap='nowrap'>ar</td>
         <td align='center' nowrap='nowrap'>ara</td>
         <td align='center' nowrap='nowrap'>ara</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Semitic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Semitic</td>
         <td align='center' nowrap='nowrap'>Arabic<br>Arabic Braille<br>Arabizi</td>
         <td align='center' nowrap='nowrap'>Africa<br>Asia</td>
-        <td align='center' nowrap='nowrap'>阿拉伯语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Amharic</td>
+        <td align='center' nowrap='nowrap'>Amharic ›<br>阿姆哈拉语</td>
         <td align='center' nowrap='nowrap'>am</td>
         <td align='center' nowrap='nowrap'>amh</td>
         <td align='center' nowrap='nowrap'>amh</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Semitic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Semitic</td>
         <td align='center' nowrap='nowrap'>Geʽez<br>Ge'ez Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>阿姆哈拉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Azerbaijani</td>
+        <td align='center' nowrap='nowrap'>Azerbaijani ›<br>阿塞拜疆语</td>
         <td align='center' nowrap='nowrap'>az</td>
         <td align='center' nowrap='nowrap'>aze</td>
         <td align='center' nowrap='nowrap'>aze</td>
-        <td align='center' nowrap='nowrap'>Turkic›<br>Common Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Perso-Arabic<br>Cyrillic <br>Georgian</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>阿塞拜疆语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Ewe</td>
+        <td align='center' nowrap='nowrap'>Ewe ›<br>埃维语</td>
         <td align='center' nowrap='nowrap'>ee</td>
         <td align='center' nowrap='nowrap'>ewe</td>
         <td align='center' nowrap='nowrap'>ewe</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic-Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic-Congo</td>
         <td align='center' nowrap='nowrap'>Latin<br>Ewe Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>埃维语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Irish</td>
+        <td align='center' nowrap='nowrap'>Irish ›<br>爱尔兰语</td>
         <td align='center' nowrap='nowrap'>ga</td>
         <td align='center' nowrap='nowrap'>gle</td>
         <td align='center' nowrap='nowrap'>gle</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Celtic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Celtic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Irish Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>爱尔兰语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Estonian</td>
+        <td align='center' nowrap='nowrap'>Estonian ›<br>爱沙尼亚语</td>
         <td align='center' nowrap='nowrap'>et</td>
         <td align='center' nowrap='nowrap'>est</td>
         <td align='center' nowrap='nowrap'>est</td>
-        <td align='center' nowrap='nowrap'>Uralic›<br>Finnic</td>
+        <td align='center' nowrap='nowrap'>Uralic ›<br>Finnic</td>
         <td align='center' nowrap='nowrap'>Latin <br>Estonian Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>爱沙尼亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Oromoo</td>
+        <td align='center' nowrap='nowrap'>Oromoo ›<br>奥罗莫语</td>
         <td align='center' nowrap='nowrap'>om</td>
         <td align='center' nowrap='nowrap'>orm</td>
         <td align='center' nowrap='nowrap'>orm</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Cushitic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Cushitic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>奥罗莫语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Ossetic</td>
+        <td align='center' nowrap='nowrap'>Ossetic ›<br>奥赛梯语</td>
         <td align='center' nowrap='nowrap'>os</td>
         <td align='center' nowrap='nowrap'>oss</td>
         <td align='center' nowrap='nowrap'>oss</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Cyrillic<br>Georgian<br>Latin</td>
         <td align='center' nowrap='nowrap'>Europe<br>Asia</td>
-        <td align='center' nowrap='nowrap'>奥赛梯语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tok Pisin</td>
+        <td align='center' nowrap='nowrap'>Tok Pisin ›<br>巴布亚皮钦语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>tpi</td>
         <td align='center' nowrap='nowrap'>tpi</td>
-        <td align='center' nowrap='nowrap'>English Creole›<br>Pacific</td>
+        <td align='center' nowrap='nowrap'>English Creole ›<br>Pacific</td>
         <td align='center' nowrap='nowrap'>Latin <br>Pidgin Braille</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>巴布亚皮钦语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bashkir</td>
+        <td align='center' nowrap='nowrap'>Bashkir ›<br>巴什基尔语</td>
         <td align='center' nowrap='nowrap'>ba</td>
         <td align='center' nowrap='nowrap'>bak</td>
         <td align='center' nowrap='nowrap'>bak</td>
-        <td align='center' nowrap='nowrap'>Turkic›<br>Common Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Cyrillic</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>巴什基尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Basque</td>
+        <td align='center' nowrap='nowrap'>Basque ›<br>巴斯克语</td>
         <td align='center' nowrap='nowrap'>eu</td>
         <td align='center' nowrap='nowrap'>baq</td>
         <td align='center' nowrap='nowrap'>eus</td>
         <td align='center' nowrap='nowrap'>Language isolate</td>
         <td align='center' nowrap='nowrap'>Basque <br>Basque Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>巴斯克语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Belarusian</td>
+        <td align='center' nowrap='nowrap'>Belarusian ›<br>白俄罗斯语</td>
         <td align='center' nowrap='nowrap'>be</td>
         <td align='center' nowrap='nowrap'>bel</td>
         <td align='center' nowrap='nowrap'>bel</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Cyrillic<br>Belarusian Braille<br>Belarusian Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>白俄罗斯语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Hmong</td>
+        <td align='center' nowrap='nowrap'>Hmong ›<br>白苗文</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>hmn</td>
         <td align='center' nowrap='nowrap'>mww</td>
-        <td align='center' nowrap='nowrap'>Hmong–Mien›<br>Hmongic</td>
+        <td align='center' nowrap='nowrap'>Hmong–Mien ›<br>Hmongic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Pahawh Hmong<br>Pollard</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>白苗文</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bulgarian</td>
+        <td align='center' nowrap='nowrap'>Bulgarian ›<br>保加利亚语</td>
         <td align='center' nowrap='nowrap'>bg</td>
         <td align='center' nowrap='nowrap'>bul</td>
         <td align='center' nowrap='nowrap'>bul</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Cyrillic<br>Bulgarian Braille<br>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>保加利亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bislama</td>
+        <td align='center' nowrap='nowrap'>Bislama ›<br>比斯拉马语</td>
         <td align='center' nowrap='nowrap'>bi</td>
         <td align='center' nowrap='nowrap'>bis</td>
         <td align='center' nowrap='nowrap'>bis</td>
-        <td align='center' nowrap='nowrap'>English Creole›<br>Pacific</td>
+        <td align='center' nowrap='nowrap'>English Creole ›<br>Pacific</td>
         <td align='center' nowrap='nowrap'>Latin<br>Avoiuli</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>比斯拉马语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bemba</td>
+        <td align='center' nowrap='nowrap'>Bemba ›<br>别姆巴语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>bem</td>
         <td align='center' nowrap='nowrap'>bem</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin <br>Bemba Braille</td>
         <td align='center' nowrap='nowrap'>Africa<br>Asia</td>
-        <td align='center' nowrap='nowrap'>别姆巴语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Icelandic</td>
+        <td align='center' nowrap='nowrap'>Icelandic ›<br>冰岛语</td>
         <td align='center' nowrap='nowrap'>is</td>
         <td align='center' nowrap='nowrap'>ice(B)<br>isl(T)</td>
         <td align='center' nowrap='nowrap'>isl</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin <br>Icelandic Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>冰岛语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Polish</td>
+        <td align='center' nowrap='nowrap'>Polish ›<br>波兰语</td>
         <td align='center' nowrap='nowrap'>pl</td>
         <td align='center' nowrap='nowrap'>pol</td>
         <td align='center' nowrap='nowrap'>pol</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Polish Braille</td>
         <td align='center' nowrap='nowrap'>Africa<br>Europe</td>
-        <td align='center' nowrap='nowrap'>波兰语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bosnian</td>
+        <td align='center' nowrap='nowrap'>Bosnian ›<br>波斯尼亚语</td>
         <td align='center' nowrap='nowrap'>bs</td>
         <td align='center' nowrap='nowrap'>bos</td>
         <td align='center' nowrap='nowrap'>bos</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Latin <br>Cyrillic
-    <br>Yugoslav Braille
-    <br>Arabic
-    <br>Bosnian Cyrillic</td>
+<br>Yugoslav Braille
+<br>Arabic
+<br>Bosnian Cyrillic</td>
         <td align='center' nowrap='nowrap'>Europe<br>Asia</td>
-        <td align='center' nowrap='nowrap'>波斯尼亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Persian</td>
+        <td align='center' nowrap='nowrap'>Persian ›<br>波斯语</td>
         <td align='center' nowrap='nowrap'>fa</td>
         <td align='center' nowrap='nowrap'>per(B)<br>fas(T)</td>
         <td align='center' nowrap='nowrap'>fas</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Persian<br>Tajik<br>Hebrew<br>Persian Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>波斯语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tibetan</td>
+        <td align='center' nowrap='nowrap'>Tibetan ›<br>藏语</td>
         <td align='center' nowrap='nowrap'>bo</td>
         <td align='center' nowrap='nowrap'>tib(B)<br>bod(T)</td>
         <td align='center' nowrap='nowrap'>bod</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Tibeto-Burman</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Tibeto-Burman</td>
         <td align='center' nowrap='nowrap'>Tibetan</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>藏语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tswana</td>
+        <td align='center' nowrap='nowrap'>Tswana ›<br>茨瓦纳语</td>
         <td align='center' nowrap='nowrap'>tn</td>
         <td align='center' nowrap='nowrap'>tsn</td>
         <td align='center' nowrap='nowrap'>tsn</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin 
-    <br>Tswana Braille</td>
+<br>Tswana Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>茨瓦纳语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Xitsonga</td>
+        <td align='center' nowrap='nowrap'>Xitsonga ›<br>聪加语</td>
         <td align='center' nowrap='nowrap'>ts</td>
         <td align='center' nowrap='nowrap'>tso</td>
         <td align='center' nowrap='nowrap'>tso</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin<br>Tsonga Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>聪加语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tatar</td>
+        <td align='center' nowrap='nowrap'>Tatar ›<br>鞑靼语</td>
         <td align='center' nowrap='nowrap'>tt</td>
         <td align='center' nowrap='nowrap'>tat</td>
         <td align='center' nowrap='nowrap'>tat</td>
-        <td align='center' nowrap='nowrap'>Turkic›<br>Common Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Tatar</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>鞑靼语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Danish</td>
+        <td align='center' nowrap='nowrap'>Danish ›<br>丹麦语</td>
         <td align='center' nowrap='nowrap'>da</td>
         <td align='center' nowrap='nowrap'>dan</td>
         <td align='center' nowrap='nowrap'>dan</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Dano-Norwegian<br>Danish orthography<br>Danish Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>丹麦语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>German</td>
+        <td align='center' nowrap='nowrap'>German ›<br>德语</td>
         <td align='center' nowrap='nowrap'>de</td>
         <td align='center' nowrap='nowrap'>ger(B)<br>deu(T)</td>
         <td align='center' nowrap='nowrap'>deu</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin<br>German Braille</td>
         <td align='center' nowrap='nowrap'>North America<br>Africa<br>Europe<br>Asia</td>
-        <td align='center' nowrap='nowrap'>德语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Russian</td>
+        <td align='center' nowrap='nowrap'>Russian ›<br>俄语</td>
         <td align='center' nowrap='nowrap'>ru</td>
         <td align='center' nowrap='nowrap'>rus</td>
         <td align='center' nowrap='nowrap'>rus</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Cyrillic
-    <br>Russian Braille</td>
+<br>Russian Braille</td>
         <td align='center' nowrap='nowrap'>Europe<br>Asia</td>
-        <td align='center' nowrap='nowrap'>俄语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>French</td>
+        <td align='center' nowrap='nowrap'>French ›<br>法语</td>
         <td align='center' nowrap='nowrap'>fr</td>
         <td align='center' nowrap='nowrap'>fre(B)<br>fra(T)</td>
         <td align='center' nowrap='nowrap'>fra</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Signed French</td>
         <td align='center' nowrap='nowrap'>North America<br>Oceania<br>Africa<br>Europe<br>Asia</td>
-        <td align='center' nowrap='nowrap'>法语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Filipino</td>
+        <td align='center' nowrap='nowrap'>Filipino ›<br>菲律宾语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>fil</td>
         <td align='center' nowrap='nowrap'>fil</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Philippine Braille</td>
+<br>Philippine Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>菲律宾语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Fijian</td>
+        <td align='center' nowrap='nowrap'>Fijian ›<br>斐济语</td>
         <td align='center' nowrap='nowrap'>fj</td>
         <td align='center' nowrap='nowrap'>fij</td>
         <td align='center' nowrap='nowrap'>fij</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin-based</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>斐济语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Finnish</td>
+        <td align='center' nowrap='nowrap'>Finnish ›<br>芬兰语</td>
         <td align='center' nowrap='nowrap'>fi</td>
         <td align='center' nowrap='nowrap'>fin</td>
         <td align='center' nowrap='nowrap'>fin</td>
-        <td align='center' nowrap='nowrap'>Uralic›<br>Finnic</td>
+        <td align='center' nowrap='nowrap'>Uralic ›<br>Finnic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Finnish Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>芬兰语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Frisian</td>
+        <td align='center' nowrap='nowrap'>Frisian ›<br>弗里西语</td>
         <td align='center' nowrap='nowrap'>fy</td>
         <td align='center' nowrap='nowrap'>fry</td>
         <td align='center' nowrap='nowrap'>fry</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>弗里西语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kikongo</td>
+        <td align='center' nowrap='nowrap'>Kikongo ›<br>刚果语</td>
         <td align='center' nowrap='nowrap'>kg</td>
         <td align='center' nowrap='nowrap'>kon</td>
         <td align='center' nowrap='nowrap'>kon</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin<br>Mandombe</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>刚果语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Khmer</td>
+        <td align='center' nowrap='nowrap'>Khmer ›<br>高棉语</td>
         <td align='center' nowrap='nowrap'>km</td>
         <td align='center' nowrap='nowrap'>khm</td>
         <td align='center' nowrap='nowrap'>khm</td>
-        <td align='center' nowrap='nowrap'>Austroasiatic›<br>Proto-Mon-Khmer</td>
+        <td align='center' nowrap='nowrap'>Austroasiatic ›<br>Proto-Mon-Khmer</td>
         <td align='center' nowrap='nowrap'>Khmer<br>Khmer Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>高棉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Georgian</td>
+        <td align='center' nowrap='nowrap'>Georgian ›<br>格鲁吉亚语</td>
         <td align='center' nowrap='nowrap'>ka</td>
         <td align='center' nowrap='nowrap'>geo(B)<br>kat(T)</td>
         <td align='center' nowrap='nowrap'>kat</td>
-        <td align='center' nowrap='nowrap'>Kartvelian›<br>Karto-Zan</td>
+        <td align='center' nowrap='nowrap'>Kartvelian ›<br>Karto-Zan</td>
         <td align='center' nowrap='nowrap'>Georgian<br>Georgian Braille</td>
         <td align='center' nowrap='nowrap'>Europe<br>Asia</td>
-        <td align='center' nowrap='nowrap'>格鲁吉亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Gujarati</td>
+        <td align='center' nowrap='nowrap'>Gujarati ›<br>古吉拉特语</td>
         <td align='center' nowrap='nowrap'>gu</td>
         <td align='center' nowrap='nowrap'>guj</td>
         <td align='center' nowrap='nowrap'>guj</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Gujarati
-    <br>Gujarati Braille
-    <br>Devanagari</td>
+<br>Gujarati Braille
+<br>Devanagari</td>
         <td align='center' nowrap='nowrap'>Africa<br>Asia</td>
-        <td align='center' nowrap='nowrap'>古吉拉特语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kazakh</td>
+        <td align='center' nowrap='nowrap'>Kazakh ›<br>哈萨克语</td>
         <td align='center' nowrap='nowrap'>kk</td>
         <td align='center' nowrap='nowrap'>kaz</td>
         <td align='center' nowrap='nowrap'>kaz</td>
-        <td align='center' nowrap='nowrap'>Turkic›<br>Common Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Arabic</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>哈萨克语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kazakh(Cyrillic)</td>
+        <td align='center' nowrap='nowrap'>Kazakh(Cyrillic) ›<br>哈萨克语(西里尔)</td>
         <td align='center' nowrap='nowrap'>kk</td>
         <td align='center' nowrap='nowrap'>kaz</td>
         <td align='center' nowrap='nowrap'>kaz</td>
-        <td align='center' nowrap='nowrap'>Turkic›<br>Common Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Cyrillic<br>Kazakh Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>哈萨克语(西里尔)</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Haitian Creole</td>
+        <td align='center' nowrap='nowrap'>Haitian Creole ›<br>海地克里奥尔语</td>
         <td align='center' nowrap='nowrap'>ht</td>
         <td align='center' nowrap='nowrap'>hat</td>
         <td align='center' nowrap='nowrap'>hat</td>
         <td align='center' nowrap='nowrap'>French Creole</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>海地克里奥尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Korean</td>
+        <td align='center' nowrap='nowrap'>Korean ›<br>韩语</td>
         <td align='center' nowrap='nowrap'>ko</td>
         <td align='center' nowrap='nowrap'>kor</td>
         <td align='center' nowrap='nowrap'>kor</td>
         <td align='center' nowrap='nowrap'>Koreanic</td>
         <td align='center' nowrap='nowrap'>Hangul<br>Hanja<br>Korean Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>韩语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Hausa</td>
+        <td align='center' nowrap='nowrap'>Hausa ›<br>豪萨语</td>
         <td align='center' nowrap='nowrap'>ha</td>
         <td align='center' nowrap='nowrap'>hau</td>
         <td align='center' nowrap='nowrap'>hau</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Chadic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Chadic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Arabic<br>Hausa Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>豪萨语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Dutch</td>
+        <td align='center' nowrap='nowrap'>Dutch ›<br>荷兰语</td>
         <td align='center' nowrap='nowrap'>nl</td>
         <td align='center' nowrap='nowrap'>dut(B)<br>nld(T)</td>
         <td align='center' nowrap='nowrap'>nld</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Dutch Braille</td>
         <td align='center' nowrap='nowrap'>Africa<br>South America</td>
-        <td align='center' nowrap='nowrap'>荷兰语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kyrgyz</td>
+        <td align='center' nowrap='nowrap'>Kyrgyz ›<br>吉尔吉斯语</td>
         <td align='center' nowrap='nowrap'>ky</td>
         <td align='center' nowrap='nowrap'>kir</td>
         <td align='center' nowrap='nowrap'>kir</td>
-        <td align='center' nowrap='nowrap'>Turkic›<br>Common Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Cyrillic<br>Perso-Arabic<br>formerly Latin<br>Kyrgyz Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>吉尔吉斯语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Galician</td>
+        <td align='center' nowrap='nowrap'>Galician ›<br>加利西亚语</td>
         <td align='center' nowrap='nowrap'>gl</td>
         <td align='center' nowrap='nowrap'>glg</td>
         <td align='center' nowrap='nowrap'>glg</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Galician Braille</td>
+<br>Galician Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>加利西亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Catalan</td>
+        <td align='center' nowrap='nowrap'>Catalan ›<br>加泰罗尼亚语</td>
         <td align='center' nowrap='nowrap'>ca</td>
         <td align='center' nowrap='nowrap'>cat</td>
         <td align='center' nowrap='nowrap'>cat</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Catalan Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>加泰罗尼亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Czech</td>
+        <td align='center' nowrap='nowrap'>Czech ›<br>捷克语</td>
         <td align='center' nowrap='nowrap'>cs</td>
         <td align='center' nowrap='nowrap'>cze(B)<br>ces(T)</td>
         <td align='center' nowrap='nowrap'>ces</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Czech Braille</td>
+<br>Czech Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>捷克语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kannada</td>
+        <td align='center' nowrap='nowrap'>Kannada ›<br>卡纳达语</td>
         <td align='center' nowrap='nowrap'>kn</td>
         <td align='center' nowrap='nowrap'>kan</td>
         <td align='center' nowrap='nowrap'>kan</td>
         <td align='center' nowrap='nowrap'>Dravidian</td>
         <td align='center' nowrap='nowrap'>Kannada<br>Kannada Braille
-    <br>Tigalari</td>
+<br>Tigalari</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>卡纳达语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Qeqchi</td>
+        <td align='center' nowrap='nowrap'>Qeqchi ›<br>凯克其语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>kek</td>
-        <td align='center' nowrap='nowrap'>Mayan›<br>Quichean–Mamean</td>
+        <td align='center' nowrap='nowrap'>Mayan ›<br>Quichean–Mamean</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America<br>Europe</td>
-        <td align='center' nowrap='nowrap'>凯克其语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Corsican</td>
+        <td align='center' nowrap='nowrap'>Corsican ›<br>科西嘉语</td>
         <td align='center' nowrap='nowrap'>co</td>
         <td align='center' nowrap='nowrap'>cos</td>
         <td align='center' nowrap='nowrap'>cos</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>科西嘉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Queretaro Otomi</td>
+        <td align='center' nowrap='nowrap'>Queretaro Otomi ›<br>克雷塔罗奥托米语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>otq</td>
-        <td align='center' nowrap='nowrap'>Oto-Manguean›<br>Oto-Pamean</td>
+        <td align='center' nowrap='nowrap'>Oto-Manguean ›<br>Oto-Pamean</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>克雷塔罗奥托米语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Croatian</td>
+        <td align='center' nowrap='nowrap'>Croatian ›<br>克罗地亚语</td>
         <td align='center' nowrap='nowrap'>hr</td>
         <td align='center' nowrap='nowrap'>hrv</td>
         <td align='center' nowrap='nowrap'>hrv</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Yugoslav Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>克罗地亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kurdish</td>
+        <td align='center' nowrap='nowrap'>Kurdish ›<br>库尔德语</td>
         <td align='center' nowrap='nowrap'>ku</td>
         <td align='center' nowrap='nowrap'>kur</td>
         <td align='center' nowrap='nowrap'>kur</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Hawar <br>Sorani<br>Cyrillic<br>Armenian</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>库尔德语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Latin</td>
+        <td align='center' nowrap='nowrap'>Latin ›<br>拉丁语</td>
         <td align='center' nowrap='nowrap'>la</td>
         <td align='center' nowrap='nowrap'>lat</td>
         <td align='center' nowrap='nowrap'>lat</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>拉丁语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Latvian</td>
+        <td align='center' nowrap='nowrap'>Latvian ›<br>拉脱维亚语</td>
         <td align='center' nowrap='nowrap'>lv</td>
         <td align='center' nowrap='nowrap'>lav</td>
         <td align='center' nowrap='nowrap'>lav</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Latvian Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>拉脱维亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Lao</td>
+        <td align='center' nowrap='nowrap'>Lao ›<br>老挝语</td>
         <td align='center' nowrap='nowrap'>lo</td>
         <td align='center' nowrap='nowrap'>lao</td>
         <td align='center' nowrap='nowrap'>lao</td>
-        <td align='center' nowrap='nowrap'>Kra–Dai›<br>Tai</td>
+        <td align='center' nowrap='nowrap'>Kra–Dai ›<br>Tai</td>
         <td align='center' nowrap='nowrap'>Lao<br>Thai<br>Thai and Lao Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>老挝语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Lithuanian</td>
+        <td align='center' nowrap='nowrap'>Lithuanian ›<br>立陶宛语</td>
         <td align='center' nowrap='nowrap'>lt</td>
         <td align='center' nowrap='nowrap'>lit</td>
         <td align='center' nowrap='nowrap'>lit</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Lithuanian Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>立陶宛语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Lingala</td>
+        <td align='center' nowrap='nowrap'>Lingala ›<br>林加拉语</td>
         <td align='center' nowrap='nowrap'>ln</td>
         <td align='center' nowrap='nowrap'>lin</td>
         <td align='center' nowrap='nowrap'>lin</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin<br>Mandombe</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>林加拉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kirundi</td>
+        <td align='center' nowrap='nowrap'>Kirundi ›<br>隆迪语</td>
         <td align='center' nowrap='nowrap'>rn</td>
         <td align='center' nowrap='nowrap'>run</td>
         <td align='center' nowrap='nowrap'>run</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>隆迪语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Luganda</td>
+        <td align='center' nowrap='nowrap'>Luganda ›<br>卢干达语</td>
         <td align='center' nowrap='nowrap'>lg</td>
         <td align='center' nowrap='nowrap'>lug</td>
         <td align='center' nowrap='nowrap'>lug</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin<br>Ganda Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>卢干达语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Luxembourgish</td>
+        <td align='center' nowrap='nowrap'>Luxembourgish ›<br>卢森堡语</td>
         <td align='center' nowrap='nowrap'>lb</td>
         <td align='center' nowrap='nowrap'>ltz</td>
         <td align='center' nowrap='nowrap'>ltz</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Luxembourgish Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>卢森堡语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kinyarwanda</td>
+        <td align='center' nowrap='nowrap'>Kinyarwanda ›<br>卢旺达语</td>
         <td align='center' nowrap='nowrap'>rw</td>
         <td align='center' nowrap='nowrap'>kin</td>
         <td align='center' nowrap='nowrap'>kin</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Arabic</td>
+<br>Arabic</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>卢旺达语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Romanian</td>
+        <td align='center' nowrap='nowrap'>Romanian ›<br>罗马尼亚语</td>
         <td align='center' nowrap='nowrap'>ro</td>
         <td align='center' nowrap='nowrap'>rum(B)<br>ron(T)</td>
         <td align='center' nowrap='nowrap'>ron</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Cyrillic
-    <br>Romanian Braille</td>
+<br>Romanian Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>罗马尼亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Malagasy</td>
+        <td align='center' nowrap='nowrap'>Malagasy ›<br>马尔加什语</td>
         <td align='center' nowrap='nowrap'>mg</td>
         <td align='center' nowrap='nowrap'>mlg</td>
         <td align='center' nowrap='nowrap'>mlg</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin<br>Malagasy Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>马尔加什语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Maltese</td>
+        <td align='center' nowrap='nowrap'>Maltese ›<br>马耳他语</td>
         <td align='center' nowrap='nowrap'>mt</td>
         <td align='center' nowrap='nowrap'>mlt</td>
         <td align='center' nowrap='nowrap'>mlt</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Semitic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Semitic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Maltese Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>马耳他语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Marathi</td>
+        <td align='center' nowrap='nowrap'>Marathi ›<br>马拉地语</td>
         <td align='center' nowrap='nowrap'>mr</td>
         <td align='center' nowrap='nowrap'>mar</td>
         <td align='center' nowrap='nowrap'>mar</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Devanagari
-    <br>Devanagari Braille
-    <br>Modi</td>
+<br>Devanagari Braille
+<br>Modi</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>马拉地语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Malayalam</td>
+        <td align='center' nowrap='nowrap'>Malayalam ›<br>马拉雅拉姆语</td>
         <td align='center' nowrap='nowrap'>ml</td>
         <td align='center' nowrap='nowrap'>mal</td>
         <td align='center' nowrap='nowrap'>mal</td>
         <td align='center' nowrap='nowrap'>Dravidian</td>
         <td align='center' nowrap='nowrap'>Malayalam
-    <br>Malayalam Braille</td>
+<br>Malayalam Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>马拉雅拉姆语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Malay</td>
+        <td align='center' nowrap='nowrap'>Malay ›<br>马来语</td>
         <td align='center' nowrap='nowrap'>ms</td>
         <td align='center' nowrap='nowrap'>may(B)<br>msa(T)</td>
         <td align='center' nowrap='nowrap'>msa</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin<br>Arabic<br>Thai<br>Malay Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>马来语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Mari</td>
+        <td align='center' nowrap='nowrap'>Mari ›<br>马里语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>chm</td>
         <td align='center' nowrap='nowrap'>mhr</td>
-        <td align='center' nowrap='nowrap'>Uralic›<br>Finno-Permic</td>
+        <td align='center' nowrap='nowrap'>Uralic ›<br>Finno-Permic</td>
         <td align='center' nowrap='nowrap'>Mari<br>Cyrillic</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>马里语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Macedonian</td>
+        <td align='center' nowrap='nowrap'>Macedonian ›<br>马其顿语</td>
         <td align='center' nowrap='nowrap'>mk</td>
         <td align='center' nowrap='nowrap'>mac(B)<br>mkd(T)</td>
         <td align='center' nowrap='nowrap'>mkd</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Cyrillic
-    <br>Macedonian Braille</td>
+<br>Macedonian Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>马其顿语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Maori</td>
+        <td align='center' nowrap='nowrap'>Maori ›<br>毛利语</td>
         <td align='center' nowrap='nowrap'>mi</td>
         <td align='center' nowrap='nowrap'>mao(B)<br>mri(T)</td>
         <td align='center' nowrap='nowrap'>mri</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin<br>Māori Braille</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>毛利语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Mongolian(Cyrillic)</td>
+        <td align='center' nowrap='nowrap'>Mongolian(Cyrillic) ›<br>蒙古语(西里尔)</td>
         <td align='center' nowrap='nowrap'>mn</td>
         <td align='center' nowrap='nowrap'>mon</td>
         <td align='center' nowrap='nowrap'>mon</td>
         <td align='center' nowrap='nowrap'>Mongolic</td>
         <td align='center' nowrap='nowrap'>Cyrillic<br>Mongolian Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>蒙古语(西里尔)</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bengali</td>
+        <td align='center' nowrap='nowrap'>Bengali ›<br>孟加拉语</td>
         <td align='center' nowrap='nowrap'>bn</td>
         <td align='center' nowrap='nowrap'>ben</td>
         <td align='center' nowrap='nowrap'>ben</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Bengali-Assamese
-    <br>Bengali Braille</td>
+<br>Bengali Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>孟加拉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Burmese</td>
+        <td align='center' nowrap='nowrap'>Burmese ›<br>缅甸语</td>
         <td align='center' nowrap='nowrap'>my</td>
         <td align='center' nowrap='nowrap'>bur(B)<br>mya(T)</td>
         <td align='center' nowrap='nowrap'>mya</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Lolo-Burmese</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Lolo-Burmese</td>
         <td align='center' nowrap='nowrap'>Burmese<br>Burmese Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>缅甸语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Afrikaans</td>
+        <td align='center' nowrap='nowrap'>Afrikaans ›<br>南非荷兰语</td>
         <td align='center' nowrap='nowrap'>af</td>
         <td align='center' nowrap='nowrap'>afr</td>
         <td align='center' nowrap='nowrap'>afr</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin using Afrikaans<br>Arabic<br>Afrikaans Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>南非荷兰语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Xhosa</td>
+        <td align='center' nowrap='nowrap'>Xhosa ›<br>南非科萨语</td>
         <td align='center' nowrap='nowrap'>xh</td>
         <td align='center' nowrap='nowrap'>xho</td>
         <td align='center' nowrap='nowrap'>xho</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Xhosa Braille</td>
+<br>Xhosa Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>南非科萨语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Zulu</td>
+        <td align='center' nowrap='nowrap'>Zulu ›<br>南非祖鲁语</td>
         <td align='center' nowrap='nowrap'>zu</td>
         <td align='center' nowrap='nowrap'>zul</td>
         <td align='center' nowrap='nowrap'>zul</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Zulu Braille</td>
+<br>Zulu Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>南非祖鲁语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Nepali</td>
+        <td align='center' nowrap='nowrap'>Nepali ›<br>尼泊尔语</td>
         <td align='center' nowrap='nowrap'>ne</td>
         <td align='center' nowrap='nowrap'>nep</td>
         <td align='center' nowrap='nowrap'>nep</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Devanagari
-    <br>Devanagari Braille</td>
+<br>Devanagari Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>尼泊尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Norwegian</td>
+        <td align='center' nowrap='nowrap'>Norwegian ›<br>挪威语</td>
         <td align='center' nowrap='nowrap'>no</td>
         <td align='center' nowrap='nowrap'>nor</td>
         <td align='center' nowrap='nowrap'>nor</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Norwegian Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>挪威语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Papiamento</td>
+        <td align='center' nowrap='nowrap'>Papiamento ›<br>帕皮阿门托语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>pap</td>
         <td align='center' nowrap='nowrap'>pap</td>
         <td align='center' nowrap='nowrap'>Portuguese Creole</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>帕皮阿门托语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Punjabi</td>
+        <td align='center' nowrap='nowrap'>Punjabi ›<br>旁遮普语</td>
         <td align='center' nowrap='nowrap'>pa</td>
         <td align='center' nowrap='nowrap'>pan</td>
         <td align='center' nowrap='nowrap'>pan</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Gurmukhī<br>Perso-Arabic<br>Punjabi Braille<br>Laṇḍā<br>Mahajani</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>旁遮普语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Portuguese</td>
+        <td align='center' nowrap='nowrap'>Portuguese ›<br>葡萄牙语</td>
         <td align='center' nowrap='nowrap'>pt</td>
         <td align='center' nowrap='nowrap'>por</td>
         <td align='center' nowrap='nowrap'>por</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Portuguese Braille</td>
+<br>Portuguese Braille</td>
         <td align='center' nowrap='nowrap'>Africa<br>South America<br>Europe<br>Asia</td>
-        <td align='center' nowrap='nowrap'>葡萄牙语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Pashto</td>
+        <td align='center' nowrap='nowrap'>Pashto ›<br>普什图语</td>
         <td align='center' nowrap='nowrap'>ps</td>
         <td align='center' nowrap='nowrap'>pus</td>
         <td align='center' nowrap='nowrap'>pus</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Perso-Arabic</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>普什图语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Chewa</td>
+        <td align='center' nowrap='nowrap'>Chewa ›<br>齐切瓦语</td>
         <td align='center' nowrap='nowrap'>ny</td>
         <td align='center' nowrap='nowrap'>nya</td>
         <td align='center' nowrap='nowrap'>nya</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Mwangwego
-    <br>Chewa Braille</td>
+<br>Mwangwego
+<br>Chewa Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>齐切瓦语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Twi</td>
+        <td align='center' nowrap='nowrap'>Twi ›<br>契维语</td>
         <td align='center' nowrap='nowrap'>tw</td>
         <td align='center' nowrap='nowrap'>twi</td>
         <td align='center' nowrap='nowrap'>twi</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>契维语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Japanese</td>
+        <td align='center' nowrap='nowrap'>Japanese ›<br>日语</td>
         <td align='center' nowrap='nowrap'>ja</td>
         <td align='center' nowrap='nowrap'>jpn</td>
         <td align='center' nowrap='nowrap'>jpn</td>
         <td align='center' nowrap='nowrap'>Japonic</td>
         <td align='center' nowrap='nowrap'>Mixed scripts of Kanji and Kana
-    <br>Japanese Braille</td>
+<br>Japanese Braille</td>
         <td align='center' nowrap='nowrap'>Oceania<br>Asia</td>
-        <td align='center' nowrap='nowrap'>日语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Swedish</td>
+        <td align='center' nowrap='nowrap'>Swedish ›<br>瑞典语</td>
         <td align='center' nowrap='nowrap'>sv</td>
         <td align='center' nowrap='nowrap'>swe</td>
         <td align='center' nowrap='nowrap'>swe</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Swedish Braille</td>
+<br>Swedish Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>瑞典语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Samoan</td>
+        <td align='center' nowrap='nowrap'>Samoan ›<br>萨摩亚语</td>
         <td align='center' nowrap='nowrap'>sm</td>
         <td align='center' nowrap='nowrap'>smo</td>
         <td align='center' nowrap='nowrap'>smo</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Samoan Braille</td>
+<br>Samoan Braille</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>萨摩亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Serbian</td>
+        <td align='center' nowrap='nowrap'>Serbian ›<br>塞尔维亚语</td>
         <td align='center' nowrap='nowrap'>sr</td>
         <td align='center' nowrap='nowrap'>srp</td>
         <td align='center' nowrap='nowrap'>srp</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Serbian Cyrillic
-    <br>Serbian Latin
-    <br>Yugoslav Braille</td>
+<br>Serbian Latin
+<br>Yugoslav Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>塞尔维亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Seychelles Creole</td>
+        <td align='center' nowrap='nowrap'>Seychelles Creole ›<br>塞舌尔克里奥尔语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>crs</td>
-        <td align='center' nowrap='nowrap'>French Creole›<br>Bourbonnais Creoles</td>
+        <td align='center' nowrap='nowrap'>French Creole ›<br>Bourbonnais Creoles</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>塞舌尔克里奥尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Sesotho</td>
+        <td align='center' nowrap='nowrap'>Sesotho ›<br>塞索托语</td>
         <td align='center' nowrap='nowrap'>st</td>
         <td align='center' nowrap='nowrap'>sot</td>
         <td align='center' nowrap='nowrap'>sot</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Sotho Braille</td>
+<br>Sotho Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>塞索托语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Sango</td>
+        <td align='center' nowrap='nowrap'>Sango ›<br>桑戈语</td>
         <td align='center' nowrap='nowrap'>sg</td>
         <td align='center' nowrap='nowrap'>sag</td>
         <td align='center' nowrap='nowrap'>sag</td>
         <td align='center' nowrap='nowrap'>Creole</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>桑戈语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Sinhalese</td>
+        <td align='center' nowrap='nowrap'>Sinhalese ›<br>僧伽罗语</td>
         <td align='center' nowrap='nowrap'>si</td>
         <td align='center' nowrap='nowrap'>sin</td>
         <td align='center' nowrap='nowrap'>sin</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Sinhala<br>Sinhala Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>僧伽罗语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Hill Mari</td>
+        <td align='center' nowrap='nowrap'>Hill Mari ›<br>山地马里语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>mrj</td>
-        <td align='center' nowrap='nowrap'>Uralic›<br>Finno-Ugric</td>
+        <td align='center' nowrap='nowrap'>Uralic ›<br>Finno-Ugric</td>
         <td align='center' nowrap='nowrap'>Cyrillic</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>山地马里语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Slovak</td>
+        <td align='center' nowrap='nowrap'>Slovak ›<br>斯洛伐克语</td>
         <td align='center' nowrap='nowrap'>sk</td>
         <td align='center' nowrap='nowrap'>slo(B)
-    <br>slk(T)</td>
+<br>slk(T)</td>
         <td align='center' nowrap='nowrap'>slk</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Slovak Braille</td>
+<br>Slovak Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>斯洛伐克语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Slovenian</td>
+        <td align='center' nowrap='nowrap'>Slovenian ›<br>斯洛文尼亚语</td>
         <td align='center' nowrap='nowrap'>sl</td>
         <td align='center' nowrap='nowrap'>slv</td>
         <td align='center' nowrap='nowrap'>slv</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Slovene Braille</td>
+<br>Slovene Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>斯洛文尼亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Swahili</td>
+        <td align='center' nowrap='nowrap'>Swahili ›<br>斯瓦希里语</td>
         <td align='center' nowrap='nowrap'>sw</td>
         <td align='center' nowrap='nowrap'>swa</td>
         <td align='center' nowrap='nowrap'>swa</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Arabic
-    <br>Swahili Braille</td>
+<br>Arabic
+<br>Swahili Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>斯瓦希里语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Scottish Gaelic</td>
+        <td align='center' nowrap='nowrap'>Scottish Gaelic ›<br>苏格兰盖尔语</td>
         <td align='center' nowrap='nowrap'>gd</td>
         <td align='center' nowrap='nowrap'>gla</td>
         <td align='center' nowrap='nowrap'>gla</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Celtic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Celtic</td>
         <td align='center' nowrap='nowrap'>Scottish Gaelic</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>苏格兰盖尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Somali</td>
+        <td align='center' nowrap='nowrap'>Somali ›<br>索马里语</td>
         <td align='center' nowrap='nowrap'>so</td>
         <td align='center' nowrap='nowrap'>som</td>
         <td align='center' nowrap='nowrap'>som</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Cushitic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Cushitic</td>
         <td align='center' nowrap='nowrap'>Somali Latin<br>Wadaad writing<br>Osmanya<br>Borama<br>Kaddare</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>索马里语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tajik</td>
+        <td align='center' nowrap='nowrap'>Tajik ›<br>塔吉克语</td>
         <td align='center' nowrap='nowrap'>tg</td>
         <td align='center' nowrap='nowrap'>tgk</td>
         <td align='center' nowrap='nowrap'>tgk</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Cyrillic<br>Latin<br>Persian<br>Tajik Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>塔吉克语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tahitian</td>
+        <td align='center' nowrap='nowrap'>Tahitian ›<br>塔希提语</td>
         <td align='center' nowrap='nowrap'>ty</td>
         <td align='center' nowrap='nowrap'>tah</td>
         <td align='center' nowrap='nowrap'>tah</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>塔希提语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Telugu</td>
+        <td align='center' nowrap='nowrap'>Telugu ›<br>泰卢固语</td>
         <td align='center' nowrap='nowrap'>te</td>
         <td align='center' nowrap='nowrap'>tel</td>
         <td align='center' nowrap='nowrap'>tel</td>
-        <td align='center' nowrap='nowrap'>Dravidian›<br>South-Central</td>
+        <td align='center' nowrap='nowrap'>Dravidian ›<br>South-Central</td>
         <td align='center' nowrap='nowrap'>Telugu
-    <br>Telugu Braille</td>
+<br>Telugu Braille</td>
         <td align='center' nowrap='nowrap'>Africa<br>Asia</td>
-        <td align='center' nowrap='nowrap'>泰卢固语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tamil</td>
+        <td align='center' nowrap='nowrap'>Tamil ›<br>泰米尔语</td>
         <td align='center' nowrap='nowrap'>ta</td>
         <td align='center' nowrap='nowrap'>tam</td>
         <td align='center' nowrap='nowrap'>tam</td>
-        <td align='center' nowrap='nowrap'>Dravidian›<br>Southern</td>
+        <td align='center' nowrap='nowrap'>Dravidian ›<br>Southern</td>
         <td align='center' nowrap='nowrap'>Tamil<br>Tamil-Brahmi<br>Grantha<br>Vatteluttu<br>Pallava<br>Kolezhuthu<br>Arwi<br>Tamil Braille<br>Latin</td>
         <td align='center' nowrap='nowrap'>North America<br>Africa<br>Asia</td>
-        <td align='center' nowrap='nowrap'>泰米尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Thai</td>
+        <td align='center' nowrap='nowrap'>Thai ›<br>泰语</td>
         <td align='center' nowrap='nowrap'>th</td>
         <td align='center' nowrap='nowrap'>tha</td>
         <td align='center' nowrap='nowrap'>tha</td>
         <td align='center' nowrap='nowrap'>Kra–Dai</td>
         <td align='center' nowrap='nowrap'>Thai
-    <br>Thai Braille</td>
+<br>Thai Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>泰语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tongan</td>
+        <td align='center' nowrap='nowrap'>Tongan ›<br>汤加语</td>
         <td align='center' nowrap='nowrap'>to</td>
         <td align='center' nowrap='nowrap'>ton</td>
         <td align='center' nowrap='nowrap'>ton</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania<br>Africa</td>
-        <td align='center' nowrap='nowrap'>汤加语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tigre</td>
+        <td align='center' nowrap='nowrap'>Tigre ›<br>提格雷语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>tig</td>
         <td align='center' nowrap='nowrap'>tig</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Semitic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Semitic</td>
         <td align='center' nowrap='nowrap'>Tigre<br>Arabic</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>提格雷语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Turkish</td>
+        <td align='center' nowrap='nowrap'>Turkish ›<br>土耳其语</td>
         <td align='center' nowrap='nowrap'>tr</td>
         <td align='center' nowrap='nowrap'>tur</td>
         <td align='center' nowrap='nowrap'>tur</td>
-        <td align='center' nowrap='nowrap'>Turkic›<br>Common Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Turkish Braille</td>
         <td align='center' nowrap='nowrap'>Europe<br>Asia</td>
-        <td align='center' nowrap='nowrap'>土耳其语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Turkmen</td>
+        <td align='center' nowrap='nowrap'>Turkmen ›<br>土库曼语</td>
         <td align='center' nowrap='nowrap'>tk</td>
         <td align='center' nowrap='nowrap'>tuk</td>
         <td align='center' nowrap='nowrap'>tuk</td>
-        <td align='center' nowrap='nowrap'>Turkic›<br>Common Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Cyrillic<br>Arabic<br>Turkmen Braille</td>
         <td align='center' nowrap='nowrap'>Europe<br>Asia</td>
-        <td align='center' nowrap='nowrap'>土库曼语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Waray</td>
+        <td align='center' nowrap='nowrap'>Waray ›<br>瓦瑞语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>war</td>
         <td align='center' nowrap='nowrap'>war</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>瓦瑞语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Welsh</td>
+        <td align='center' nowrap='nowrap'>Welsh ›<br>威尔士语</td>
         <td align='center' nowrap='nowrap'>cy</td>
         <td align='center' nowrap='nowrap'>wel(B)
-    <br>cym(T)</td>
+<br>cym(T)</td>
         <td align='center' nowrap='nowrap'>cym</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Celtic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Celtic</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Welsh Braille</td>
+<br>Welsh Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>威尔士语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Uyghur</td>
+        <td align='center' nowrap='nowrap'>Uyghur ›<br>维吾尔语</td>
         <td align='center' nowrap='nowrap'>ug</td>
         <td align='center' nowrap='nowrap'>uig</td>
         <td align='center' nowrap='nowrap'>uig</td>
-        <td align='center' nowrap='nowrap'>Turkic›<br>Common Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Uyghur<br>Uyghur Perso-Arabic<br>Uyghur Cyrillic<br>Uyghur Latin<br>Uyghur New</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>维吾尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Udmurt</td>
+        <td align='center' nowrap='nowrap'>Udmurt ›<br>乌德穆尔特语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>udm</td>
         <td align='center' nowrap='nowrap'>udm</td>
-        <td align='center' nowrap='nowrap'>Uralic›<br>Finno-Ugric</td>
+        <td align='center' nowrap='nowrap'>Uralic ›<br>Finno-Ugric</td>
         <td align='center' nowrap='nowrap'>Latin<br>Cyrillic</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>乌德穆尔特语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Urdu</td>
+        <td align='center' nowrap='nowrap'>Urdu ›<br>乌尔都语</td>
         <td align='center' nowrap='nowrap'>ur</td>
         <td align='center' nowrap='nowrap'>urd</td>
         <td align='center' nowrap='nowrap'>urd</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Perso-Arabic<br>Roman Urdu<br>Urdu Braille</td>
         <td align='center' nowrap='nowrap'>Africa<br>Asia</td>
-        <td align='center' nowrap='nowrap'>乌尔都语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Ukrainian</td>
+        <td align='center' nowrap='nowrap'>Ukrainian ›<br>乌克兰语</td>
         <td align='center' nowrap='nowrap'>uk</td>
         <td align='center' nowrap='nowrap'>ukr</td>
         <td align='center' nowrap='nowrap'>ukr</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Cyrillic
-    <br>Ukrainian Braille
-    <br>Ukrainian Latin</td>
+<br>Ukrainian Braille
+<br>Ukrainian Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>乌克兰语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Uzbek</td>
+        <td align='center' nowrap='nowrap'>Uzbek ›<br>乌兹别克语</td>
         <td align='center' nowrap='nowrap'>uz</td>
         <td align='center' nowrap='nowrap'>uzb</td>
         <td align='center' nowrap='nowrap'>uzb</td>
-        <td align='center' nowrap='nowrap'>Turkic›<br>Common Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Cyrillic<br>Perso-Arabic<br>Uzbek Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>乌兹别克语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Spanish</td>
+        <td align='center' nowrap='nowrap'>Spanish ›<br>西班牙语</td>
         <td align='center' nowrap='nowrap'>es</td>
         <td align='center' nowrap='nowrap'>spa</td>
         <td align='center' nowrap='nowrap'>spa</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Spanish Braille</td>
+<br>Spanish Braille</td>
         <td align='center' nowrap='nowrap'>North America<br>Africa<br>South America<br>Europe</td>
-        <td align='center' nowrap='nowrap'>西班牙语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Hebrew</td>
+        <td align='center' nowrap='nowrap'>Hebrew ›<br>希伯来语</td>
         <td align='center' nowrap='nowrap'>he</td>
         <td align='center' nowrap='nowrap'>heb</td>
         <td align='center' nowrap='nowrap'>heb</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Semitic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Semitic</td>
         <td align='center' nowrap='nowrap'>Hebrew<br>Hebrew Braille<br>Paleo-Hebrew<br>Imperial Aramaic</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>希伯来语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Greek</td>
+        <td align='center' nowrap='nowrap'>Greek ›<br>希腊语</td>
         <td align='center' nowrap='nowrap'>el</td>
         <td align='center' nowrap='nowrap'>gre(B)
-    <br>ell(T)</td>
+<br>ell(T)</td>
         <td align='center' nowrap='nowrap'>ell</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Hellenic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Hellenic</td>
         <td align='center' nowrap='nowrap'>Greek</td>
         <td align='center' nowrap='nowrap'>Africa<br>Europe</td>
-        <td align='center' nowrap='nowrap'>希腊语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Hawaiian</td>
+        <td align='center' nowrap='nowrap'>Hawaiian ›<br>夏威夷语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>haw</td>
         <td align='center' nowrap='nowrap'>haw</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Hawaiian Braille</td>
+<br>Hawaiian Braille</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>夏威夷语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Sindhi</td>
+        <td align='center' nowrap='nowrap'>Sindhi ›<br>信德语</td>
         <td align='center' nowrap='nowrap'>sd</td>
         <td align='center' nowrap='nowrap'>snd</td>
         <td align='center' nowrap='nowrap'>snd</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Arabic<br>Devanagari<br>Roman Sindhi</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>信德语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Hungarian</td>
+        <td align='center' nowrap='nowrap'>Hungarian ›<br>匈牙利语</td>
         <td align='center' nowrap='nowrap'>hu</td>
         <td align='center' nowrap='nowrap'>hun</td>
         <td align='center' nowrap='nowrap'>hun</td>
-        <td align='center' nowrap='nowrap'>Uralic›<br>Finno-Ugric</td>
+        <td align='center' nowrap='nowrap'>Uralic ›<br>Finno-Ugric</td>
         <td align='center' nowrap='nowrap'>Latin<br>Hungarian Braille<br>Old Hungarian</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>匈牙利语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Shona</td>
+        <td align='center' nowrap='nowrap'>Shona ›<br>修纳语</td>
         <td align='center' nowrap='nowrap'>sn</td>
         <td align='center' nowrap='nowrap'>sna</td>
         <td align='center' nowrap='nowrap'>sna</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin<br>Arabic<br>Shona Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>修纳语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Cebuano</td>
+        <td align='center' nowrap='nowrap'>Cebuano ›<br>宿务语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ceb</td>
         <td align='center' nowrap='nowrap'>ceb</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin<br>Philippine Braille<br>Baybayin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>宿务语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Armenian</td>
+        <td align='center' nowrap='nowrap'>Armenian ›<br>亚美尼亚语</td>
         <td align='center' nowrap='nowrap'>hy</td>
         <td align='center' nowrap='nowrap'>arm(B)
-    <br>hye(T)</td>
+<br>hye(T)</td>
         <td align='center' nowrap='nowrap'>hye<br>hyw</td>
         <td align='center' nowrap='nowrap'>Indo-European</td>
         <td align='center' nowrap='nowrap'>Armenian
-    <br>Armenian Braille</td>
+<br>Armenian Braille</td>
         <td align='center' nowrap='nowrap'>Europe<br>Asia</td>
-        <td align='center' nowrap='nowrap'>亚美尼亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Igbo</td>
+        <td align='center' nowrap='nowrap'>Igbo ›<br>伊博语</td>
         <td align='center' nowrap='nowrap'>ig</td>
         <td align='center' nowrap='nowrap'>ibo</td>
         <td align='center' nowrap='nowrap'>ibo</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Nwagu Aneke
-    <br>Igbo Braille</td>
+<br>Nwagu Aneke
+<br>Igbo Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>伊博语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Italian</td>
+        <td align='center' nowrap='nowrap'>Italian ›<br>意大利语</td>
         <td align='center' nowrap='nowrap'>it</td>
         <td align='center' nowrap='nowrap'>ita</td>
         <td align='center' nowrap='nowrap'>ita</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Italian Braille</td>
+<br>Italian Braille</td>
         <td align='center' nowrap='nowrap'>Africa<br>Europe</td>
-        <td align='center' nowrap='nowrap'>意大利语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Yiddish</td>
+        <td align='center' nowrap='nowrap'>Yiddish ›<br>意第绪语</td>
         <td align='center' nowrap='nowrap'>yi</td>
         <td align='center' nowrap='nowrap'>yid</td>
         <td align='center' nowrap='nowrap'>yid</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Hebrew
-    <br>Latin</td>
+<br>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>意第绪语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Hindi</td>
+        <td align='center' nowrap='nowrap'>Hindi ›<br>印地语</td>
         <td align='center' nowrap='nowrap'>hi</td>
         <td align='center' nowrap='nowrap'>hin</td>
         <td align='center' nowrap='nowrap'>hin</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Devanagari<br>Kaithi<br>Roman<br>Devanagari Braille</td>
         <td align='center' nowrap='nowrap'>Africa<br>Asia</td>
-        <td align='center' nowrap='nowrap'>印地语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Sundanese</td>
+        <td align='center' nowrap='nowrap'>Sundanese ›<br>印尼巽他语</td>
         <td align='center' nowrap='nowrap'>su</td>
         <td align='center' nowrap='nowrap'>sun</td>
         <td align='center' nowrap='nowrap'>sun</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Sundanese
-    <br>Old Sundanese
-    <br>Sundanese Cacarakan
-    <br>Sundanese Pégon
-    <br>Buda
-    <br>Kawi
-    <br>Pallava
-    <br>Pranagari
-    <br>Vatteluttu</td>
+<br>Sundanese
+<br>Old Sundanese
+<br>Sundanese Cacarakan
+<br>Sundanese Pégon
+<br>Buda
+<br>Kawi
+<br>Pallava
+<br>Pranagari
+<br>Vatteluttu</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>印尼巽他语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Indonesian</td>
+        <td align='center' nowrap='nowrap'>Indonesian ›<br>印尼语</td>
         <td align='center' nowrap='nowrap'>id</td>
         <td align='center' nowrap='nowrap'>ind</td>
         <td align='center' nowrap='nowrap'>ind</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Indonesian Braille</td>
+<br>Indonesian Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>印尼语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Javanese</td>
+        <td align='center' nowrap='nowrap'>Javanese ›<br>印尼爪哇语</td>
         <td align='center' nowrap='nowrap'>jv</td>
         <td align='center' nowrap='nowrap'>jav</td>
         <td align='center' nowrap='nowrap'>jav</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Javanese
-    <br>Pegon</td>
+<br>Javanese
+<br>Pegon</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>印尼爪哇语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>English</td>
+        <td align='center' nowrap='nowrap'>English ›<br>英语</td>
         <td align='center' nowrap='nowrap'>en</td>
         <td align='center' nowrap='nowrap'>eng</td>
         <td align='center' nowrap='nowrap'>eng</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Anglo Saxon runes<br>English Braille<br>Unified English Braille</td>
         <td align='center' nowrap='nowrap'>North America<br>Oceania<br>Africa<br>South America<br>Europe<br>Asia</td>
-        <td align='center' nowrap='nowrap'>英语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Yucatec Maya</td>
+        <td align='center' nowrap='nowrap'>Yucatec Maya ›<br>尤卡坦玛雅语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>yua</td>
         <td align='center' nowrap='nowrap'>Mayan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>尤卡坦玛雅语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Yoruba</td>
+        <td align='center' nowrap='nowrap'>Yoruba ›<br>约鲁巴语</td>
         <td align='center' nowrap='nowrap'>yo</td>
         <td align='center' nowrap='nowrap'>yor</td>
         <td align='center' nowrap='nowrap'>yor</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin<br>Yoruba Braille<br>Arabic</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>约鲁巴语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Vietnamese</td>
+        <td align='center' nowrap='nowrap'>Vietnamese ›<br>越南语</td>
         <td align='center' nowrap='nowrap'>vi</td>
         <td align='center' nowrap='nowrap'>vie</td>
         <td align='center' nowrap='nowrap'>vie</td>
         <td align='center' nowrap='nowrap'>Austroasiatic</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Vietnamese Braille
-    <br>Chữ Hán and Chữ Nôm</td>
+<br>Vietnamese Braille
+<br>Chữ Hán and Chữ Nôm</td>
         <td align='center' nowrap='nowrap'>Europe<br>Asia</td>
-        <td align='center' nowrap='nowrap'>越南语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Cantonese</td>
+        <td align='center' nowrap='nowrap'>Cantonese ›<br>粤语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>yue</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Sinitic</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Sinitic</td>
         <td align='center' nowrap='nowrap'>Written Cantonese
-    <br>Cantonese Braille
-    <br>Written Chinese</td>
+<br>Cantonese Braille
+<br>Written Chinese</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>粤语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Chinese (Traditional)</td>
+        <td align='center' nowrap='nowrap'>Chinese (Traditional) ›<br>中文(繁体)</td>
         <td align='center' nowrap='nowrap'>zh</td>
         <td align='center' nowrap='nowrap'>zho(T)<br>chi(B)</td>
         <td align='center' nowrap='nowrap'>zho</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Sinitic</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Sinitic</td>
         <td align='center' nowrap='nowrap'>Traditional Chinese</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>中文(繁体)</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Chinese (Simplified)</td>
+        <td align='center' nowrap='nowrap'>Chinese (Simplified) ›<br>中文(简体)</td>
         <td align='center' nowrap='nowrap'>zh</td>
         <td align='center' nowrap='nowrap'>zho(T)<br>chi(B)</td>
         <td align='center' nowrap='nowrap'>zho</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Sinitic</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Sinitic</td>
         <td align='center' nowrap='nowrap'>Simplified Chinese</td>
         <td align='center' nowrap='nowrap'>North America<br>Africa<br>Asia</td>
-        <td align='center' nowrap='nowrap'>中文(简体)</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Venda</td>
+        <td align='center' nowrap='nowrap'>Venda ›<br>文达语</td>
         <td align='center' nowrap='nowrap'>ve</td>
         <td align='center' nowrap='nowrap'>ven</td>
         <td align='center' nowrap='nowrap'>ven</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin<br>Venda Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>文达语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Achuar</td>
+        <td align='center' nowrap='nowrap'>Achuar ›<br>阿丘雅语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>acu</td>
         <td align='center' nowrap='nowrap'>Jivaroan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>阿丘雅语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Aguaruna</td>
+        <td align='center' nowrap='nowrap'>Aguaruna ›<br>阿瓜鲁纳语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>agr</td>
         <td align='center' nowrap='nowrap'>Chicham</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>阿瓜鲁纳语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Akawaio</td>
+        <td align='center' nowrap='nowrap'>Akawaio ›<br>阿卡瓦伊语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ake</td>
-        <td align='center' nowrap='nowrap'>Cariban›<br>Venezuelan Carib</td>
+        <td align='center' nowrap='nowrap'>Cariban ›<br>Venezuelan Carib</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>阿卡瓦伊语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Amuzgo</td>
+        <td align='center' nowrap='nowrap'>Amuzgo ›<br>阿穆斯戈语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>amu</td>
-        <td align='center' nowrap='nowrap'>Oto-Manguean›<br>Eastern Otomanguean</td>
+        <td align='center' nowrap='nowrap'>Oto-Manguean ›<br>Eastern Otomanguean</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>阿穆斯戈语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Ndyuka</td>
+        <td align='center' nowrap='nowrap'>Ndyuka ›<br>恩都卡语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>djk</td>
         <td align='center' nowrap='nowrap'>English Creole</td>
         <td align='center' nowrap='nowrap'>Afaka<br>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>恩都卡语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Barasana</td>
+        <td align='center' nowrap='nowrap'>Barasana ›<br>巴拉萨纳语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>bsn</td>
-        <td align='center' nowrap='nowrap'>Tucanoan›<br>Eastern Tucanoan</td>
+        <td align='center' nowrap='nowrap'>Tucanoan ›<br>Eastern Tucanoan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>巴拉萨纳语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Cabecar</td>
+        <td align='center' nowrap='nowrap'>Cabecar ›<br>卡韦卡尔语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>cjp</td>
-        <td align='center' nowrap='nowrap'>Chibchan›<br>Core-Chibchan</td>
+        <td align='center' nowrap='nowrap'>Chibchan ›<br>Core-Chibchan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>卡韦卡尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Cakchiquel</td>
+        <td align='center' nowrap='nowrap'>Cakchiquel ›<br>卡克奇克尔语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>cak</td>
-        <td align='center' nowrap='nowrap'>Mayan›<br>Quichean–Mamean</td>
+        <td align='center' nowrap='nowrap'>Mayan ›<br>Quichean–Mamean</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>卡克奇克尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Campa</td>
+        <td align='center' nowrap='nowrap'>Campa ›<br>坎帕语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>cni</td>
-        <td align='center' nowrap='nowrap'>Maipurean›<br>Southern Maipurean</td>
+        <td align='center' nowrap='nowrap'>Maipurean ›<br>Southern Maipurean</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>坎帕语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Camsa</td>
+        <td align='center' nowrap='nowrap'>Camsa ›<br>科奇语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>kbh</td>
         <td align='center' nowrap='nowrap'>Language isolate</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>科奇语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Chamorro</td>
+        <td align='center' nowrap='nowrap'>Chamorro ›<br>查莫罗语</td>
         <td align='center' nowrap='nowrap'>ch</td>
         <td align='center' nowrap='nowrap'>cha</td>
         <td align='center' nowrap='nowrap'>cha</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>查莫罗语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Cherokee</td>
+        <td align='center' nowrap='nowrap'>Cherokee ›<br>切诺基语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>chr</td>
         <td align='center' nowrap='nowrap'>chr</td>
-        <td align='center' nowrap='nowrap'>Iroquoian›<br>Southern Iroquoian</td>
+        <td align='center' nowrap='nowrap'>Iroquoian ›<br>Southern Iroquoian</td>
         <td align='center' nowrap='nowrap'>Cherokee <br>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>切诺基语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Chinantec</td>
+        <td align='center' nowrap='nowrap'>Chinantec ›<br>奇南特克语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>chq</td>
-        <td align='center' nowrap='nowrap'>Oto-Manguean›<br>Western Oto-Mangue</td>
+        <td align='center' nowrap='nowrap'>Oto-Manguean ›<br>Western Oto-Mangue</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>奇南特克语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Coptic</td>
+        <td align='center' nowrap='nowrap'>Coptic ›<br>科普特语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>cop</td>
         <td align='center' nowrap='nowrap'>cop</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Egyptian</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Egyptian</td>
         <td align='center' nowrap='nowrap'>Coptic</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>科普特语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Dinka</td>
+        <td align='center' nowrap='nowrap'>Dinka ›<br>丁卡语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>din</td>
         <td align='center' nowrap='nowrap'>dik</td>
-        <td align='center' nowrap='nowrap'>Nilo-Saharan›<br>Eastern Sudanic</td>
+        <td align='center' nowrap='nowrap'>Nilo-Saharan ›<br>Eastern Sudanic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>丁卡语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Galela</td>
+        <td align='center' nowrap='nowrap'>Galela ›<br>加莱拉语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>gbi</td>
-        <td align='center' nowrap='nowrap'>West Papuan›<br>North Halmahera</td>
+        <td align='center' nowrap='nowrap'>West Papuan ›<br>North Halmahera</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>加莱拉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Jakalteko</td>
+        <td align='center' nowrap='nowrap'>Jakalteko ›<br>雅加达语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>jac</td>
-        <td align='center' nowrap='nowrap'>Mayan›<br>Qʼanjobalan–Chujean</td>
+        <td align='center' nowrap='nowrap'>Mayan ›<br>Qʼanjobalan–Chujean</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>雅加达语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kiche</td>
+        <td align='center' nowrap='nowrap'>Kiche ›<br>基切语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>quc</td>
-        <td align='center' nowrap='nowrap'>Mayan›<br>Eastern Qʼanjobalan–Chujean</td>
+        <td align='center' nowrap='nowrap'>Mayan ›<br>Eastern Qʼanjobalan–Chujean</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>基切语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kabyle</td>
+        <td align='center' nowrap='nowrap'>Kabyle ›<br>卡拜尔语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>kab</td>
         <td align='center' nowrap='nowrap'>kab</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Berber</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Berber</td>
         <td align='center' nowrap='nowrap'>Latin<br>Tifinagh</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>卡拜尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Lukpa</td>
+        <td align='center' nowrap='nowrap'>Lukpa ›<br>卢克帕语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>dop</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>卢克帕语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Mam</td>
+        <td align='center' nowrap='nowrap'>Mam ›<br>马姆语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>mam</td>
-        <td align='center' nowrap='nowrap'>Mayan›<br>Eastern Mayan</td>
+        <td align='center' nowrap='nowrap'>Mayan ›<br>Eastern Mayan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>马姆语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Manx</td>
+        <td align='center' nowrap='nowrap'>Manx ›<br>马恩岛语</td>
         <td align='center' nowrap='nowrap'>gv</td>
         <td align='center' nowrap='nowrap'>glv</td>
         <td align='center' nowrap='nowrap'>glv</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Celtic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Celtic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>马恩岛语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Nahuatl</td>
+        <td align='center' nowrap='nowrap'>Nahuatl ›<br>纳瓦特尔语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>nah</td>
         <td align='center' nowrap='nowrap'>nhg</td>
-        <td align='center' nowrap='nowrap'>Uto-Aztecan›<br>Southern Uto-Aztecan</td>
+        <td align='center' nowrap='nowrap'>Uto-Aztecan ›<br>Southern Uto-Aztecan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>纳瓦特尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Ojibwa</td>
+        <td align='center' nowrap='nowrap'>Ojibwa ›<br>奥吉布瓦语</td>
         <td align='center' nowrap='nowrap'>oj</td>
         <td align='center' nowrap='nowrap'>oji</td>
         <td align='center' nowrap='nowrap'>ojb</td>
-        <td align='center' nowrap='nowrap'>Algic›<br>Algonquian</td>
+        <td align='center' nowrap='nowrap'>Algic ›<br>Algonquian</td>
         <td align='center' nowrap='nowrap'>Latin<br>Ojibwe<br>Great Lakes Algonquian</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>奥吉布瓦语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Paite</td>
+        <td align='center' nowrap='nowrap'>Paite ›<br>派特语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>pck</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Kuki-Chin-Naga</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Kuki-Chin-Naga</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>派特语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Potawatomi</td>
+        <td align='center' nowrap='nowrap'>Potawatomi ›<br>波塔瓦托米语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>pot</td>
-        <td align='center' nowrap='nowrap'>Algic›<br>Algonquian</td>
+        <td align='center' nowrap='nowrap'>Algic ›<br>Algonquian</td>
         <td align='center' nowrap='nowrap'>Latin<br>Great Lakes Algonquian</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>波塔瓦托米语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Quichua</td>
+        <td align='center' nowrap='nowrap'>Quichua ›<br>盖丘亚语</td>
         <td align='center' nowrap='nowrap'>qu</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>quw</td>
         <td align='center' nowrap='nowrap'>Quechuan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>盖丘亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Romani</td>
+        <td align='center' nowrap='nowrap'>Romani ›<br>罗姆语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>rom</td>
         <td align='center' nowrap='nowrap'>rmn</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>罗姆语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Shuar</td>
+        <td align='center' nowrap='nowrap'>Shuar ›<br>舒阿尔语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>jiv</td>
         <td align='center' nowrap='nowrap'>Chicham</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>舒阿尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Syriac</td>
+        <td align='center' nowrap='nowrap'>Syriac ›<br>叙利亚语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>syc</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Semitic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Semitic</td>
         <td align='center' nowrap='nowrap'>Syriac</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>叙利亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Berber</td>
+        <td align='center' nowrap='nowrap'>Berber ›<br>柏柏尔语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ber</td>
         <td align='center' nowrap='nowrap'>ber</td>
         <td align='center' nowrap='nowrap'>Afro-Asiatic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>柏柏尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tachelhit</td>
+        <td align='center' nowrap='nowrap'>Tachelhit ›<br>希尔哈语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>shi</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>North Afroasiatic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>North Afroasiatic</td>
         <td align='center' nowrap='nowrap'>Arabic<br>Latin<br>Tifinagh</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>希尔哈语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tamajaq</td>
+        <td align='center' nowrap='nowrap'>Tamajaq ›<br>图阿雷格语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>tmh</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Berber</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Berber</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>图阿雷格语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Uma</td>
+        <td align='center' nowrap='nowrap'>Uma ›<br>乌玛语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ppk</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>乌玛语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Uspanteco</td>
+        <td align='center' nowrap='nowrap'>Uspanteco ›<br>乌斯潘坦语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>usp</td>
-        <td align='center' nowrap='nowrap'>Mayan›<br>Quichean–Mamean</td>
+        <td align='center' nowrap='nowrap'>Mayan ›<br>Quichean–Mamean</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>乌斯潘坦语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Wolaytta</td>
+        <td align='center' nowrap='nowrap'>Wolaytta ›<br>瓦拉莫语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>wal</td>
         <td align='center' nowrap='nowrap'>wal</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Omotic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Omotic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>瓦拉莫语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Wolof</td>
+        <td align='center' nowrap='nowrap'>Wolof ›<br>沃洛夫语</td>
         <td align='center' nowrap='nowrap'>wo</td>
         <td align='center' nowrap='nowrap'>wol</td>
         <td align='center' nowrap='nowrap'>wol</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin<br>Arabic<br>Garay</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>沃洛夫语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Zarma</td>
+        <td align='center' nowrap='nowrap'>Zarma ›<br>哲尔马语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>dje</td>
-        <td align='center' nowrap='nowrap'>Nilo-Saharan›<br>Songhay</td>
+        <td align='center' nowrap='nowrap'>Nilo-Saharan ›<br>Songhay</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>哲尔马语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Oriya</td>
+        <td align='center' nowrap='nowrap'>Oriya ›<br>奥利亚语</td>
         <td align='center' nowrap='nowrap'>or</td>
         <td align='center' nowrap='nowrap'>ori</td>
         <td align='center' nowrap='nowrap'>ori</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Odia<br>Odia Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>奥利亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Aceh</td>
+        <td align='center' nowrap='nowrap'>Aceh ›<br>亚齐语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ace</td>
         <td align='center' nowrap='nowrap'>ace</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Jawi</td>
+<br>Jawi</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>亚齐语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Faroese</td>
+        <td align='center' nowrap='nowrap'>Faroese ›<br>法罗语</td>
         <td align='center' nowrap='nowrap'>fo</td>
         <td align='center' nowrap='nowrap'>fao</td>
         <td align='center' nowrap='nowrap'>fao</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Faroese Braille</td>
+<br>Faroese Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>法罗语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tetun</td>
+        <td align='center' nowrap='nowrap'>Tetun ›<br>德顿语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>tet</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>德顿语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Brezhoneg</td>
+        <td align='center' nowrap='nowrap'>Brezhoneg ›<br>布列塔尼语</td>
         <td align='center' nowrap='nowrap'>br</td>
         <td align='center' nowrap='nowrap'>bre</td>
         <td align='center' nowrap='nowrap'>bre</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Celtic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Celtic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>布列塔尼语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Chuvash</td>
+        <td align='center' nowrap='nowrap'>Chuvash ›<br>楚瓦什语</td>
         <td align='center' nowrap='nowrap'>cv</td>
         <td align='center' nowrap='nowrap'>chv</td>
         <td align='center' nowrap='nowrap'>chv</td>
-        <td align='center' nowrap='nowrap'>Turkic›<br>Oghur</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Oghur</td>
         <td align='center' nowrap='nowrap'>Cyrillic</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>楚瓦什语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Divehi</td>
+        <td align='center' nowrap='nowrap'>Divehi ›<br>迪维希语</td>
         <td align='center' nowrap='nowrap'>dv</td>
         <td align='center' nowrap='nowrap'>div</td>
         <td align='center' nowrap='nowrap'>div</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Thaana</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>迪维希语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Montenegrin</td>
+        <td align='center' nowrap='nowrap'>Montenegrin ›<br>黑山语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>cnr</td>
         <td align='center' nowrap='nowrap'>cnr</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Cyrillic<br>Latin<br>Yugoslav Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>黑山语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Dzongkha</td>
+        <td align='center' nowrap='nowrap'>Dzongkha ›<br>宗喀语</td>
         <td align='center' nowrap='nowrap'>dz</td>
         <td align='center' nowrap='nowrap'>dzo</td>
         <td align='center' nowrap='nowrap'>dzo</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Tibeto-Kanauri</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Tibeto-Kanauri</td>
         <td align='center' nowrap='nowrap'>Tibetan<br>Dzongkha Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>宗喀语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Dyula</td>
+        <td align='center' nowrap='nowrap'>Dyula ›<br>迪尤拉语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>dyu</td>
         <td align='center' nowrap='nowrap'>dyu</td>
-        <td align='center' nowrap='nowrap'>Mande›<br>Western Mande</td>
+        <td align='center' nowrap='nowrap'>Mande ›<br>Western Mande</td>
         <td align='center' nowrap='nowrap'>N'Ko<br>Latin<br>Arabic</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>迪尤拉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Northern Kurdish</td>
+        <td align='center' nowrap='nowrap'>Northern Kurdish ›<br>北库尔德语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>kmr</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Hawar<br>Sorani<br>Arabic<br>Cyrillic</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>北库尔德语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Manipuri</td>
+        <td align='center' nowrap='nowrap'>Manipuri ›<br>曼尼普尔语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>mni</td>
         <td align='center' nowrap='nowrap'>mni</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Tibeto-Burman</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Tibeto-Burman</td>
         <td align='center' nowrap='nowrap'>Ancient Meitei<br>Meetei Mayek<br>Bengali<br>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>曼尼普尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Wali</td>
+        <td align='center' nowrap='nowrap'>Wali ›<br>瓦利语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>wlx</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>瓦利语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>South Azerbaijani</td>
+        <td align='center' nowrap='nowrap'>South Azerbaijani ›<br>南阿塞拜疆语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>azb</td>
-        <td align='center' nowrap='nowrap'>Turkic›<br>Common Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Perso-Arabic<br>Cyrillic<br>Georgian</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>南阿塞拜疆语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Ika</td>
+        <td align='center' nowrap='nowrap'>Ika ›<br>伊卡语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ikk</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>伊卡语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Cañar Highland Quichua</td>
+        <td align='center' nowrap='nowrap'>Cañar Highland Quichua ›<br>卡纳尔高地-基丘亚语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>qxr</td>
         <td align='center' nowrap='nowrap'>Quechuan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>卡纳尔高地-基丘亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Poqomchi’</td>
+        <td align='center' nowrap='nowrap'>Poqomchi’ ›<br>波孔奇语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>poh</td>
-        <td align='center' nowrap='nowrap'>Mayan›<br>Quichean–Mamean</td>
+        <td align='center' nowrap='nowrap'>Mayan ›<br>Quichean–Mamean</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>波孔奇语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kuanua</td>
+        <td align='center' nowrap='nowrap'>Kuanua ›<br>库阿努阿语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ksd</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin<br>Tolai Braille</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>库阿努阿语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Central Ifugao</td>
+        <td align='center' nowrap='nowrap'>Central Ifugao ›<br>中部伊富高语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ifa</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>中部伊富高语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Motu</td>
+        <td align='center' nowrap='nowrap'>Motu ›<br>摩图语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>meu</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin<br>Motu Braille</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>摩图语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Cusco Quechua</td>
+        <td align='center' nowrap='nowrap'>Cusco Quechua ›<br>库斯科克丘亚语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>quz</td>
         <td align='center' nowrap='nowrap'>Quechuan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>库斯科克丘亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Marshallese</td>
+        <td align='center' nowrap='nowrap'>Marshallese ›<br>马绍尔语</td>
         <td align='center' nowrap='nowrap'>mh</td>
         <td align='center' nowrap='nowrap'>mah</td>
         <td align='center' nowrap='nowrap'>mah</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>马绍尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Zotung Chin</td>
+        <td align='center' nowrap='nowrap'>Zotung Chin ›<br>佐通钦语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>czt</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Tibeto-Burman</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Tibeto-Burman</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>佐通钦语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Wa</td>
+        <td align='center' nowrap='nowrap'>Wa ›<br>佤语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>prk</td>
-        <td align='center' nowrap='nowrap'>Austroasiatic›<br>Khasi–Palaungic</td>
+        <td align='center' nowrap='nowrap'>Austroasiatic ›<br>Khasi–Palaungic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>佤语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Ayangan Ifugao</td>
+        <td align='center' nowrap='nowrap'>Ayangan Ifugao ›<br>阿雅安伊富高语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ifb</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>阿雅安伊富高语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bambara</td>
+        <td align='center' nowrap='nowrap'>Bambara ›<br>班巴拉语</td>
         <td align='center' nowrap='nowrap'>bm</td>
         <td align='center' nowrap='nowrap'>bam</td>
         <td align='center' nowrap='nowrap'>bam</td>
-        <td align='center' nowrap='nowrap'>Niger-Congo›<br>Mande</td>
+        <td align='center' nowrap='nowrap'>Niger-Congo ›<br>Mande</td>
         <td align='center' nowrap='nowrap'>Latin<br>N'Ko</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>班巴拉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Northern Mam</td>
+        <td align='center' nowrap='nowrap'>Northern Mam ›<br>北部马姆语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>mam</td>
-        <td align='center' nowrap='nowrap'>Mayan›<br>Eastern Mayan</td>
+        <td align='center' nowrap='nowrap'>Mayan ›<br>Eastern Mayan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>北部马姆语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>South Bolivian Quechua</td>
+        <td align='center' nowrap='nowrap'>South Bolivian Quechua ›<br>南玻利维亚克丘亚语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>quh</td>
         <td align='center' nowrap='nowrap'>Quechuan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>南玻利维亚克丘亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Hawaiian Creole English</td>
+        <td align='center' nowrap='nowrap'>Hawaiian Creole English ›<br>夏威夷克里奥尔英语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>hwc</td>
         <td align='center' nowrap='nowrap'>English Creole</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>夏威夷克里奥尔英语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Hakha Chin</td>
+        <td align='center' nowrap='nowrap'>Hakha Chin ›<br>哈卡钦语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>cnh</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Tibeto-Burman</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Tibeto-Burman</td>
         <td align='center' nowrap='nowrap'>Latin<br>Burmese</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>哈卡钦语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Lomwe</td>
+        <td align='center' nowrap='nowrap'>Lomwe ›<br>隆韦语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ngl</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>隆韦语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kiribati</td>
+        <td align='center' nowrap='nowrap'>Kiribati ›<br>基里巴斯语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>gil</td>
         <td align='center' nowrap='nowrap'>gil</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>基里巴斯语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Hiri Motu</td>
+        <td align='center' nowrap='nowrap'>Hiri Motu ›<br>希里莫图语</td>
         <td align='center' nowrap='nowrap'>ho</td>
         <td align='center' nowrap='nowrap'>hmo</td>
         <td align='center' nowrap='nowrap'>hmo</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>希里莫图语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tampulma</td>
+        <td align='center' nowrap='nowrap'>Tampulma ›<br>坦普尔马语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>tpm</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>坦普尔马语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Enxet</td>
+        <td align='center' nowrap='nowrap'>Enxet ›<br>恩舍特语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>enx</td>
         <td align='center' nowrap='nowrap'>Mascoian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>恩舍特语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Maranao</td>
+        <td align='center' nowrap='nowrap'>Maranao ›<br>马拉瑙语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>mrw</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin<br>Arabic</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>马拉瑙语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tedim Chin</td>
+        <td align='center' nowrap='nowrap'>Tedim Chin ›<br>特丁钦语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ctd</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Tibeto-Burman</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Tibeto-Burman</td>
         <td align='center' nowrap='nowrap'>Latin<br>Pau Cin Hau</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>特丁钦语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Aymara</td>
+        <td align='center' nowrap='nowrap'>Aymara ›<br>艾马拉语</td>
         <td align='center' nowrap='nowrap'>ay</td>
         <td align='center' nowrap='nowrap'>aym</td>
         <td align='center' nowrap='nowrap'>aym</td>
         <td align='center' nowrap='nowrap'>Aymaran</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>艾马拉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Acateco</td>
+        <td align='center' nowrap='nowrap'>Acateco ›<br>阿卡特克语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>knj</td>
-        <td align='center' nowrap='nowrap'>Mayan›<br>Qʼanjobalan–Chujean</td>
+        <td align='center' nowrap='nowrap'>Mayan ›<br>Qʼanjobalan–Chujean</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>阿卡特克语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Ditammari</td>
+        <td align='center' nowrap='nowrap'>Ditammari ›<br>迪塔马利语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>tbz</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>迪塔马利语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Jingpho</td>
+        <td align='center' nowrap='nowrap'>Jingpho ›<br>景颇语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>kac</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Sal</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Sal</td>
         <td align='center' nowrap='nowrap'>Latin<br>Burmese</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>景颇语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Maale</td>
+        <td align='center' nowrap='nowrap'>Maale ›<br>马勒语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>mdy</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Omotic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Omotic</td>
         <td align='center' nowrap='nowrap'>Ethiopic</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>马勒语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Western Lawa</td>
+        <td align='center' nowrap='nowrap'>Western Lawa ›<br>西部拉威语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>lcp</td>
-        <td align='center' nowrap='nowrap'>Austroasiatic›<br>Khasi–Palaungic</td>
+        <td align='center' nowrap='nowrap'>Austroasiatic ›<br>Khasi–Palaungic</td>
         <td align='center' nowrap='nowrap'>Thai</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>西部拉威语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Sidamo</td>
+        <td align='center' nowrap='nowrap'>Sidamo ›<br>锡达莫语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>sid</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Cushitic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Cushitic</td>
         <td align='center' nowrap='nowrap'>Ethiopic<br>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>锡达莫语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bariba</td>
+        <td align='center' nowrap='nowrap'>Bariba ›<br>巴里巴语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>bba</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>巴里巴语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Izi</td>
+        <td align='center' nowrap='nowrap'>Izi ›<br>伊兹语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>izz</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>伊兹语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Roviana</td>
+        <td align='center' nowrap='nowrap'>Roviana ›<br>罗维那语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>rug</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>罗维那语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Dadibi</td>
+        <td align='center' nowrap='nowrap'>Dadibi ›<br>达迪比语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>mps</td>
         <td align='center' nowrap='nowrap'>Papuan Gulf</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>达迪比语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Lun Bawang</td>
+        <td align='center' nowrap='nowrap'>Lun Bawang ›<br>弄巴湾语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>lnd</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>弄巴湾语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Chechen</td>
+        <td align='center' nowrap='nowrap'>Chechen ›<br>车臣语</td>
         <td align='center' nowrap='nowrap'>ce</td>
         <td align='center' nowrap='nowrap'>che</td>
         <td align='center' nowrap='nowrap'>che</td>
-        <td align='center' nowrap='nowrap'>Northeast Caucasian›<br>Nakh</td>
+        <td align='center' nowrap='nowrap'>Northeast Caucasian ›<br>Nakh</td>
         <td align='center' nowrap='nowrap'>Cyrillic</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>车臣语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kapingamarangi</td>
+        <td align='center' nowrap='nowrap'>Kapingamarangi ›<br>卡平阿马朗伊语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>kpg</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>卡平阿马朗伊语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Western Bukidnon Manobo</td>
+        <td align='center' nowrap='nowrap'>Western Bukidnon Manobo ›<br>西布基农马诺布语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>mbb</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>西布基农马诺布语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Crimean Tatar</td>
+        <td align='center' nowrap='nowrap'>Crimean Tatar ›<br>克里米亚鞑靼语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>crh</td>
         <td align='center' nowrap='nowrap'>crh</td>
-        <td align='center' nowrap='nowrap'>Turkic›<br>Common Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Cyrillic<br>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>克里米亚鞑靼语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Guajajára</td>
+        <td align='center' nowrap='nowrap'>Guajajára ›<br>瓜哈哈拉语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>gub</td>
-        <td align='center' nowrap='nowrap'>Tupian›<br>Tupí–Guaraní</td>
+        <td align='center' nowrap='nowrap'>Tupian ›<br>Tupí–Guaraní</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>瓜哈哈拉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Timugon Murut</td>
+        <td align='center' nowrap='nowrap'>Timugon Murut ›<br>蒂穆贡-穆鲁特语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>tih</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>蒂穆贡-穆鲁特语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Lacid</td>
+        <td align='center' nowrap='nowrap'>Lacid ›<br>勒期语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>lsi</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Tibeto-Burman</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Tibeto-Burman</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>勒期语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Huli</td>
+        <td align='center' nowrap='nowrap'>Huli ›<br>胡里语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>hui</td>
-        <td align='center' nowrap='nowrap'>Engan›<br>South Engan</td>
+        <td align='center' nowrap='nowrap'>Engan ›<br>South Engan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>胡里语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Antipolo Ifugao</td>
+        <td align='center' nowrap='nowrap'>Antipolo Ifugao ›<br>安蒂波洛伊富高语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ify</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>安蒂波洛伊富高语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Central Dusun</td>
+        <td align='center' nowrap='nowrap'>Central Dusun ›<br>中部杜顺语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>dtp</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>中部杜顺语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Madurese</td>
+        <td align='center' nowrap='nowrap'>Madurese ›<br>马都拉语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>mad</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Carakan
-    <br>Pegon</td>
+<br>Carakan
+<br>Pegon</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>马都拉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Yom</td>
+        <td align='center' nowrap='nowrap'>Yom ›<br>约姆语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>pil</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>约姆语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tuvan</td>
+        <td align='center' nowrap='nowrap'>Tuvan ›<br>图瓦语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>tyv</td>
-        <td align='center' nowrap='nowrap'>Turkic›<br>Common Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Cyrillic<br>Old Turkic</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>图瓦语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bokobaru</td>
+        <td align='center' nowrap='nowrap'>Bokobaru ›<br>博科巴鲁语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>bus</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Mande</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Mande</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>博科巴鲁语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Busa</td>
+        <td align='center' nowrap='nowrap'>Busa ›<br>布萨语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>bqp</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Mande</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Mande</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>布萨语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Achi</td>
+        <td align='center' nowrap='nowrap'>Achi ›<br>阿奇语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>acr</td>
-        <td align='center' nowrap='nowrap'>Mayan›<br>Quichean›<br>Mamean</td>
+        <td align='center' nowrap='nowrap'>Mayan ›<br>Quichean ›<br>Mamean</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>阿奇语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Mossi</td>
+        <td align='center' nowrap='nowrap'>Mossi ›<br>莫西语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>mos</td>
         <td align='center' nowrap='nowrap'>mos</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>莫西语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Nigerian Fulfulde</td>
+        <td align='center' nowrap='nowrap'>Nigerian Fulfulde ›<br>尼日利亚富拉语</td>
         <td align='center' nowrap='nowrap'>ff</td>
         <td align='center' nowrap='nowrap'>ful</td>
         <td align='center' nowrap='nowrap'>fuv</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Adlam
-    <br>Arabic</td>
+<br>Adlam
+<br>Arabic</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>尼日利亚富拉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Goffa</td>
+        <td align='center' nowrap='nowrap'>Goffa ›<br>果发语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>gof</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Omotic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Omotic</td>
         <td align='center' nowrap='nowrap'>Ethiopic<br>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>果发语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kasem</td>
+        <td align='center' nowrap='nowrap'>Kasem ›<br>格森语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>xsm</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>格森语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Eastern Cagayan Agta</td>
+        <td align='center' nowrap='nowrap'>Eastern Cagayan Agta ›<br>东部卡加延-阿格塔语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>duo</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>东部卡加延-阿格塔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Shipibo</td>
+        <td align='center' nowrap='nowrap'>Shipibo ›<br>西皮沃语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>shp</td>
-        <td align='center' nowrap='nowrap'>Panoan›<br>Mainline Panoan</td>
+        <td align='center' nowrap='nowrap'>Panoan ›<br>Mainline Panoan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>西皮沃语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bola</td>
+        <td align='center' nowrap='nowrap'>Bola ›<br>波拉语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>bnp</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>波拉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Ambai</td>
+        <td align='center' nowrap='nowrap'>Ambai ›<br>安拜语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>amk</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>安拜语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Yabem</td>
+        <td align='center' nowrap='nowrap'>Yabem ›<br>雅比姆语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>jae</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>雅比姆语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Numanggang</td>
+        <td align='center' nowrap='nowrap'>Numanggang ›<br>努曼干语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>nop</td>
-        <td align='center' nowrap='nowrap'>Trans–New Guinea›<br>Finisterre–Huon</td>
+        <td align='center' nowrap='nowrap'>Trans–New Guinea ›<br>Finisterre–Huon</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>努曼干语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Yongkom</td>
+        <td align='center' nowrap='nowrap'>Yongkom ›<br>永贡语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>yon</td>
-        <td align='center' nowrap='nowrap'>Trans–New Guinea›<br>Central & South New Guinea</td>
+        <td align='center' nowrap='nowrap'>Trans–New Guinea ›<br>Central & South New Guinea</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>永贡语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kalmyk-Oirat</td>
+        <td align='center' nowrap='nowrap'>Kalmyk-Oirat ›<br>卡尔梅克卫拉特语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>xal</td>
         <td align='center' nowrap='nowrap'>xal</td>
-        <td align='center' nowrap='nowrap'>Mongolic›<br>Central Mongolic</td>
+        <td align='center' nowrap='nowrap'>Mongolic ›<br>Central Mongolic</td>
         <td align='center' nowrap='nowrap'>Cyrillic<br>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>卡尔梅克卫拉特语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tuma-Irumu</td>
+        <td align='center' nowrap='nowrap'>Tuma-Irumu ›<br>图马伊鲁穆语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>iou</td>
-        <td align='center' nowrap='nowrap'>Trans–New Guinea›<br>Finisterre–Huon</td>
+        <td align='center' nowrap='nowrap'>Trans–New Guinea ›<br>Finisterre–Huon</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>图马伊鲁穆语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Siroi</td>
+        <td align='center' nowrap='nowrap'>Siroi ›<br>西罗伊语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ssd</td>
-        <td align='center' nowrap='nowrap'>Trans–New Guinea›<br>Madang</td>
+        <td align='center' nowrap='nowrap'>Trans–New Guinea ›<br>Madang</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>西罗伊语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Lingao</td>
+        <td align='center' nowrap='nowrap'>Lingao ›<br>临高语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>onb</td>
-        <td align='center' nowrap='nowrap'>Kra–Dai›<br>Be–Tai</td>
+        <td align='center' nowrap='nowrap'>Kra–Dai ›<br>Be–Tai</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>临高语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Waskia</td>
+        <td align='center' nowrap='nowrap'>Waskia ›<br>瓦吉语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>wsk</td>
-        <td align='center' nowrap='nowrap'>Trans–New Guinea›<br>Madang</td>
+        <td align='center' nowrap='nowrap'>Trans–New Guinea ›<br>Madang</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>瓦吉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Halbi</td>
+        <td align='center' nowrap='nowrap'>Halbi ›<br>亥比语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>hlb</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Devanagari</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>亥比语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Nateni</td>
+        <td align='center' nowrap='nowrap'>Nateni ›<br>纳特尼语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ntm</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>纳特尼语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Yongbei Zhuang</td>
+        <td align='center' nowrap='nowrap'>Yongbei Zhuang ›<br>邕北壮语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>zyb</td>
         <td align='center' nowrap='nowrap'>Kra–Dai</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>邕北壮语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bariai</td>
+        <td align='center' nowrap='nowrap'>Bariai ›<br>巴里亚语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>bch</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>巴里亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bantoanon</td>
+        <td align='center' nowrap='nowrap'>Bantoanon ›<br>班通安隆语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>bno</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>班通安隆语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Gbaya</td>
+        <td align='center' nowrap='nowrap'>Gbaya ›<br>格巴亚语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>krs</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>格巴亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Keliko</td>
+        <td align='center' nowrap='nowrap'>Keliko ›<br>克利科语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>kbo</td>
-        <td align='center' nowrap='nowrap'>Nilo-Saharan›<br>Central Sudanic</td>
+        <td align='center' nowrap='nowrap'>Nilo-Saharan ›<br>Central Sudanic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>克利科语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tennet</td>
+        <td align='center' nowrap='nowrap'>Tennet ›<br>腾内特语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>tex</td>
-        <td align='center' nowrap='nowrap'>Nilo-Saharan›<br>Eastern Sudanic</td>
+        <td align='center' nowrap='nowrap'>Nilo-Saharan ›<br>Eastern Sudanic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>腾内特语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Oroko</td>
+        <td align='center' nowrap='nowrap'>Oroko ›<br>奥罗科语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>bdu</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>奥罗科语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bandial</td>
+        <td align='center' nowrap='nowrap'>Bandial ›<br>班迪亚勒语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>bqj</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>班迪亚勒语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tungag</td>
+        <td align='center' nowrap='nowrap'>Tungag ›<br>通加格语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>lcm</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>通加格语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Baka</td>
+        <td align='center' nowrap='nowrap'>Baka ›<br>巴卡语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>bdh</td>
-        <td align='center' nowrap='nowrap'>Ubangian›<br>Sere–Mba</td>
+        <td align='center' nowrap='nowrap'>Ubangian ›<br>Sere–Mba</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>巴卡语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Suau</td>
+        <td align='center' nowrap='nowrap'>Suau ›<br>苏奥语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>swp</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>苏奥语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Muthuvan</td>
+        <td align='center' nowrap='nowrap'>Muthuvan ›<br>穆图凡语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>muv</td>
         <td align='center' nowrap='nowrap'>Dravidian</td>
         <td align='center' nowrap='nowrap'>Tamil</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>穆图凡语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Pele-Ata</td>
+        <td align='center' nowrap='nowrap'>Pele-Ata ›<br>佩勒-阿塔语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ata</td>
         <td align='center' nowrap='nowrap'>West New Britain</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>佩勒-阿塔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Samberigi</td>
+        <td align='center' nowrap='nowrap'>Samberigi ›<br>桑贝里吉语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ssx</td>
         <td align='center' nowrap='nowrap'>Engan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>桑贝里吉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Western Bolivian Guarani</td>
+        <td align='center' nowrap='nowrap'>Western Bolivian Guarani ›<br>西部玻利维亚瓜拉尼语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>gnw</td>
-        <td align='center' nowrap='nowrap'>Tupian›<br>Tupi–Guarani</td>
+        <td align='center' nowrap='nowrap'>Tupian ›<br>Tupi–Guarani</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>西部玻利维亚瓜拉尼语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Sabaot</td>
+        <td align='center' nowrap='nowrap'>Sabaot ›<br>萨鲍特语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>spy</td>
-        <td align='center' nowrap='nowrap'>Nilo-Saharan›<br>Eastern Sudanic</td>
+        <td align='center' nowrap='nowrap'>Nilo-Saharan ›<br>Eastern Sudanic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>萨鲍特语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bambam</td>
+        <td align='center' nowrap='nowrap'>Bambam ›<br>邦邦语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ptu</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>邦邦语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Tsimané</td>
+        <td align='center' nowrap='nowrap'>Tsimané ›<br>齐马内语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>cas</td>
-        <td align='center' nowrap='nowrap'>Moseten–Chonan›<br>Chimane</td>
+        <td align='center' nowrap='nowrap'>Moseten–Chonan ›<br>Chimane</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>齐马内语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Waris</td>
+        <td align='center' nowrap='nowrap'>Waris ›<br>瓦里斯语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>wrs</td>
-        <td align='center' nowrap='nowrap'>Border›<br>Bewani Range</td>
+        <td align='center' nowrap='nowrap'>Border ›<br>Bewani Range</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>瓦里斯语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Yipma</td>
+        <td align='center' nowrap='nowrap'>Yipma ›<br>伊普马语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>byr</td>
-        <td align='center' nowrap='nowrap'>Trans–New Guinea›<br>Angan</td>
+        <td align='center' nowrap='nowrap'>Trans–New Guinea ›<br>Angan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>伊普马语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Adhola</td>
+        <td align='center' nowrap='nowrap'>Adhola ›<br>阿多拉语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>adh</td>
-        <td align='center' nowrap='nowrap'>Nilo-Saharan›<br>Eastern Sudanic</td>
+        <td align='center' nowrap='nowrap'>Nilo-Saharan ›<br>Eastern Sudanic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>阿多拉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Agni Sanvi</td>
+        <td align='center' nowrap='nowrap'>Agni Sanvi ›<br>阿格尼桑维语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>any</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>阿格尼桑维语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Ashéninka</td>
+        <td align='center' nowrap='nowrap'>Ashéninka ›<br>阿舍宁卡语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>cpb</td>
         <td align='center' nowrap='nowrap'>Arawakan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>阿舍宁卡语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Teso</td>
+        <td align='center' nowrap='nowrap'>Teso ›<br>特索语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>teo</td>
-        <td align='center' nowrap='nowrap'>Nilo-Saharan›<br>Eastern Sudanic</td>
+        <td align='center' nowrap='nowrap'>Nilo-Saharan ›<br>Eastern Sudanic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>特索语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bari</td>
+        <td align='center' nowrap='nowrap'>Bari ›<br>巴里语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>bfa</td>
-        <td align='center' nowrap='nowrap'>Nilo-Saharan›<br>Eastern Sudanic</td>
+        <td align='center' nowrap='nowrap'>Nilo-Saharan ›<br>Eastern Sudanic</td>
         <td align='center' nowrap='nowrap'>Arabic<br>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>巴里语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Chakma</td>
+        <td align='center' nowrap='nowrap'>Chakma ›<br>查克玛语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ccp</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Bengali <br>Chakma<br>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>查克玛语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bualkhaw Chin</td>
+        <td align='center' nowrap='nowrap'>Bualkhaw Chin ›<br>布阿尔考钦语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>cbl</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Tibeto-Burman</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Tibeto-Burman</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>布阿尔考钦语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Falam Chin</td>
+        <td align='center' nowrap='nowrap'>Falam Chin ›<br>法兰钦语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>cfm</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Tibeto-Burman</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Tibeto-Burman</td>
         <td align='center' nowrap='nowrap'>Bengali<br>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>法兰钦语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Chiru</td>
+        <td align='center' nowrap='nowrap'>Chiru ›<br>茨鲁语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>cdf</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Tibeto-Burman</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Tibeto-Burman</td>
         <td align='center' nowrap='nowrap'>Bengali<br>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>茨鲁语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Frafra</td>
+        <td align='center' nowrap='nowrap'>Frafra ›<br>法拉法拉语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>gur</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>法拉法拉语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Northern Grebo</td>
+        <td align='center' nowrap='nowrap'>Northern Grebo ›<br>北部格雷博语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>grb</td>
         <td align='center' nowrap='nowrap'>gbo</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>北部格雷博语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>San Mateo del Mar Huave</td>
+        <td align='center' nowrap='nowrap'>San Mateo del Mar Huave ›<br>圣马特奥德马尔-瓦维语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>huv</td>
         <td align='center' nowrap='nowrap'>Language isolate</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>圣马特奥德马尔-瓦维语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kakwa</td>
+        <td align='center' nowrap='nowrap'>Kakwa ›<br>卡库瓦语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>keo</td>
-        <td align='center' nowrap='nowrap'>Puinave-Maku›<br>Northwestern Puinave-Maku</td>
+        <td align='center' nowrap='nowrap'>Puinave-Maku ›<br>Northwestern Puinave-Maku</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>卡库瓦语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kaqchikel</td>
+        <td align='center' nowrap='nowrap'>Kaqchikel ›<br>喀克其奎语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>myn</td>
         <td align='center' nowrap='nowrap'>cki</td>
-        <td align='center' nowrap='nowrap'>Mayan›<br>Quichean–Mamean</td>
+        <td align='center' nowrap='nowrap'>Mayan ›<br>Quichean–Mamean</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>喀克其奎语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kaulong</td>
+        <td align='center' nowrap='nowrap'>Kaulong ›<br>卡乌龙语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>pss</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Oceania</td>
-        <td align='center' nowrap='nowrap'>卡乌龙语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Western Kayah</td>
+        <td align='center' nowrap='nowrap'>Western Kayah ›<br>西部克耶语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>kyu</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Karen</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Karen</td>
         <td align='center' nowrap='nowrap'>Kayah Li
-    <br>Latin
-    <br>Myanmar</td>
+<br>Latin
+<br>Myanmar</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>西部克耶语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kisiha</td>
+        <td align='center' nowrap='nowrap'>Kisiha ›<br>斯哈语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>jmc</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>斯哈语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Nyakyusa</td>
+        <td align='center' nowrap='nowrap'>Nyakyusa ›<br>尼亚库萨语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>nyy</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>尼亚库萨语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Vunjo</td>
+        <td align='center' nowrap='nowrap'>Vunjo ›<br>文约语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>vun</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>文约语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kulung</td>
+        <td align='center' nowrap='nowrap'>Kulung ›<br>库隆语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>kle</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Mahakiranti</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Mahakiranti</td>
         <td align='center' nowrap='nowrap'>Devanagari</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>库隆语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Yi language</td>
+        <td align='center' nowrap='nowrap'>Yi language ›<br>彝语</td>
         <td align='center' nowrap='nowrap'>ii</td>
         <td align='center' nowrap='nowrap'>iii</td>
         <td align='center' nowrap='nowrap'>iii</td>
-        <td align='center' nowrap='nowrap'>Sino-Tibetan›<br>Lolo–Burmese</td>
+        <td align='center' nowrap='nowrap'>Sino-Tibetan ›<br>Lolo–Burmese</td>
         <td align='center' nowrap='nowrap'>Yi</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>彝语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Mongolian</td>
+        <td align='center' nowrap='nowrap'>Mongolian ›<br>蒙古语</td>
         <td align='center' nowrap='nowrap'>mn</td>
         <td align='center' nowrap='nowrap'>mon</td>
         <td align='center' nowrap='nowrap'>mon</td>
         <td align='center' nowrap='nowrap'>Mongolic</td>
         <td align='center' nowrap='nowrap'>Traditional Mongolian</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>蒙古语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Zhuang language</td>
+        <td align='center' nowrap='nowrap'>Zhuang language ›<br>壮语</td>
         <td align='center' nowrap='nowrap'>za</td>
         <td align='center' nowrap='nowrap'>zha</td>
         <td align='center' nowrap='nowrap'>zha</td>
-        <td align='center' nowrap='nowrap'>Kra–Dai›<br>Tai</td>
+        <td align='center' nowrap='nowrap'>Kra–Dai ›<br>Tai</td>
         <td align='center' nowrap='nowrap'>Zhuang<br>Old Zhuang<br>Sawndip<br>Sawgoek</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>壮语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Esperanto</td>
+        <td align='center' nowrap='nowrap'>Esperanto ›<br>世界语</td>
         <td align='center' nowrap='nowrap'>eo</td>
         <td align='center' nowrap='nowrap'>epo</td>
         <td align='center' nowrap='nowrap'>epo</td>
         <td align='center' nowrap='nowrap'>Constructed language</td>
         <td align='center' nowrap='nowrap'>Latin<br>Esperanto Braille</td>
         <td align='center' nowrap='nowrap'>N/A</td>
-        <td align='center' nowrap='nowrap'>世界语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Abkhaz</td>
+        <td align='center' nowrap='nowrap'>Abkhaz ›<br>阿布哈兹语</td>
         <td align='center' nowrap='nowrap'>ab</td>
         <td align='center' nowrap='nowrap'>abk</td>
         <td align='center' nowrap='nowrap'>abk</td>
-        <td align='center' nowrap='nowrap'>Northwest Caucasian›<br>Abkhaz–Abaza</td>
+        <td align='center' nowrap='nowrap'>Northwest Caucasian ›<br>Abkhaz–Abaza</td>
         <td align='center' nowrap='nowrap'>Cyrillic</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>阿布哈兹语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Aragonese</td>
+        <td align='center' nowrap='nowrap'>Aragonese ›<br>阿拉贡语</td>
         <td align='center' nowrap='nowrap'>an</td>
         <td align='center' nowrap='nowrap'>arg</td>
         <td align='center' nowrap='nowrap'>arg</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>阿拉贡语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Algerian Arabic</td>
+        <td align='center' nowrap='nowrap'>Algerian Arabic ›<br>阿尔及利亚阿拉伯语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>arq</td>
-        <td align='center' nowrap='nowrap'>Afro-Asiatic›<br>Semitic</td>
+        <td align='center' nowrap='nowrap'>Afro-Asiatic ›<br>Semitic</td>
         <td align='center' nowrap='nowrap'>Arabic</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>阿尔及利亚阿拉伯语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Assamese</td>
+        <td align='center' nowrap='nowrap'>Assamese ›<br>阿萨姆语</td>
         <td align='center' nowrap='nowrap'>as</td>
         <td align='center' nowrap='nowrap'>asm</td>
         <td align='center' nowrap='nowrap'>asm</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Eastern Nagari <br>Ahom<br>Assamese Braille <br>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>阿萨姆语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Asturian</td>
+        <td align='center' nowrap='nowrap'>Asturian ›<br>阿斯图里亚斯语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>ast</td>
         <td align='center' nowrap='nowrap'>ast</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>阿斯图里亚斯语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Cornish</td>
+        <td align='center' nowrap='nowrap'>Cornish ›<br>康沃尔语</td>
         <td align='center' nowrap='nowrap'>kw</td>
         <td align='center' nowrap='nowrap'>cor</td>
         <td align='center' nowrap='nowrap'>cor</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Celtic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Celtic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>康沃尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Malay trade and creole</td>
+        <td align='center' nowrap='nowrap'>Malay trade and creole ›<br>马来语克里奥尔语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>crp</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>Creole</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia<br>Oceania</td>
-        <td align='center' nowrap='nowrap'>马来语克里奥尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kashubian</td>
+        <td align='center' nowrap='nowrap'>Kashubian ›<br>卡舒比语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>csb</td>
         <td align='center' nowrap='nowrap'>csb</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>卡舒比语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Lower Sorbian</td>
+        <td align='center' nowrap='nowrap'>Lower Sorbian ›<br>下索布语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>dsb</td>
         <td align='center' nowrap='nowrap'>dsb</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>下索布语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Canadian French</td>
+        <td align='center' nowrap='nowrap'>Canadian French ›<br>加拿大法语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>加拿大法语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Middle French</td>
+        <td align='center' nowrap='nowrap'>Middle French ›<br>中古法语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>frm</td>
         <td align='center' nowrap='nowrap'>frm</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>中古法语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Franco-Provençal</td>
+        <td align='center' nowrap='nowrap'>Franco-Provençal ›<br>法兰克-普罗旺斯语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>frp</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>法兰克-普罗旺斯语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Friulian</td>
+        <td align='center' nowrap='nowrap'>Friulian ›<br>弗留利语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>fur</td>
         <td align='center' nowrap='nowrap'>fur</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>弗留利语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Guarani</td>
+        <td align='center' nowrap='nowrap'>Guarani ›<br>瓜拉尼语</td>
         <td align='center' nowrap='nowrap'>gn</td>
         <td align='center' nowrap='nowrap'>grn</td>
         <td align='center' nowrap='nowrap'>grn</td>
-        <td align='center' nowrap='nowrap'>Tupian›<br>Tupi–Guarani</td>
+        <td align='center' nowrap='nowrap'>Tupian ›<br>Tupi–Guarani</td>
         <td align='center' nowrap='nowrap'>Guarani<br>Latin</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>瓜拉尼语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Chhattisgarhi</td>
+        <td align='center' nowrap='nowrap'>Chhattisgarhi ›<br>恰蒂斯加尔语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>hne</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Devanagari<br>Odia</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>恰蒂斯加尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Upper Sorbian</td>
+        <td align='center' nowrap='nowrap'>Upper Sorbian ›<br>上索布语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>hsb</td>
         <td align='center' nowrap='nowrap'>hsb</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Sorbian</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>上索布语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Hupa</td>
+        <td align='center' nowrap='nowrap'>Hupa ›<br>胡帕语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>hup</td>
         <td align='center' nowrap='nowrap'>hup</td>
         <td align='center' nowrap='nowrap'>Dené–Yeniseian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>胡帕语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Interlingua</td>
+        <td align='center' nowrap='nowrap'>Interlingua ›<br>因特语</td>
         <td align='center' nowrap='nowrap'>ia</td>
         <td align='center' nowrap='nowrap'>ina</td>
         <td align='center' nowrap='nowrap'>ina</td>
         <td align='center' nowrap='nowrap'>Constructed language</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>N/A</td>
-        <td align='center' nowrap='nowrap'>因特语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Interlingue</td>
+        <td align='center' nowrap='nowrap'>Interlingue ›<br>西方国际语</td>
         <td align='center' nowrap='nowrap'>ie</td>
         <td align='center' nowrap='nowrap'>ile</td>
         <td align='center' nowrap='nowrap'>ile</td>
         <td align='center' nowrap='nowrap'>Constructed language</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>N/A</td>
-        <td align='center' nowrap='nowrap'>西方国际语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Ido</td>
+        <td align='center' nowrap='nowrap'>Ido ›<br>伊多语</td>
         <td align='center' nowrap='nowrap'>io</td>
         <td align='center' nowrap='nowrap'>ido</td>
         <td align='center' nowrap='nowrap'>ido</td>
         <td align='center' nowrap='nowrap'>Constructed language</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>N/A</td>
-        <td align='center' nowrap='nowrap'>伊多语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Jakun</td>
+        <td align='center' nowrap='nowrap'>Jakun ›<br>贾昆语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>jak</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>贾昆语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Lojban</td>
+        <td align='center' nowrap='nowrap'>Lojban ›<br>逻辑语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>jbo</td>
         <td align='center' nowrap='nowrap'>jbo</td>
         <td align='center' nowrap='nowrap'>Constructed language</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>N/A</td>
-        <td align='center' nowrap='nowrap'>逻辑语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Greenlandic</td>
+        <td align='center' nowrap='nowrap'>Greenlandic ›<br>格陵兰语</td>
         <td align='center' nowrap='nowrap'>kl</td>
         <td align='center' nowrap='nowrap'>kal</td>
         <td align='center' nowrap='nowrap'>kal</td>
         <td align='center' nowrap='nowrap'>Eskimo–Aleut</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Scandinavian Braille</td>
+<br>Scandinavian Braille</td>
         <td align='center' nowrap='nowrap'>North America</td>
-        <td align='center' nowrap='nowrap'>格陵兰语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kanuri</td>
+        <td align='center' nowrap='nowrap'>Kanuri ›<br>卡努里语</td>
         <td align='center' nowrap='nowrap'>kr</td>
         <td align='center' nowrap='nowrap'>kau</td>
         <td align='center' nowrap='nowrap'>kau</td>
-        <td align='center' nowrap='nowrap'>Nilo-Saharan›<br>Saharan</td>
+        <td align='center' nowrap='nowrap'>Nilo-Saharan ›<br>Saharan</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>卡努里语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Kashmiri</td>
+        <td align='center' nowrap='nowrap'>Kashmiri ›<br>克什米尔语</td>
         <td align='center' nowrap='nowrap'>ks</td>
         <td align='center' nowrap='nowrap'>kas</td>
         <td align='center' nowrap='nowrap'>kas</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Perso-Arabic
-    <br>Devanagari
-    <br>Sharada</td>
+<br>Devanagari
+<br>Sharada</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>克什米尔语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Lingua Franca Nova</td>
+        <td align='center' nowrap='nowrap'>Lingua Franca Nova ›<br>新通用语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>lfn</td>
         <td align='center' nowrap='nowrap'>Constructed language</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Cyrillic</td>
+<br>Cyrillic</td>
         <td align='center' nowrap='nowrap'>N/A</td>
-        <td align='center' nowrap='nowrap'>新通用语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Limburgs</td>
+        <td align='center' nowrap='nowrap'>Limburgs ›<br>林堡语</td>
         <td align='center' nowrap='nowrap'>li</td>
         <td align='center' nowrap='nowrap'>lim</td>
         <td align='center' nowrap='nowrap'>lim</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>林堡语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Maithili</td>
+        <td align='center' nowrap='nowrap'>Maithili ›<br>迈蒂利语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>mai</td>
         <td align='center' nowrap='nowrap'>mai</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Tirhuta <br>Kaithi<br>Devanagari</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>迈蒂利语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Mirandese</td>
+        <td align='center' nowrap='nowrap'>Mirandese ›<br>米兰达语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>mwl</td>
         <td align='center' nowrap='nowrap'>mwl</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>米兰达语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Bokmål</td>
+        <td align='center' nowrap='nowrap'>Bokmål ›<br>书面挪威语</td>
         <td align='center' nowrap='nowrap'>nb</td>
         <td align='center' nowrap='nowrap'>nob</td>
         <td align='center' nowrap='nowrap'>nob</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>书面挪威语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Low German</td>
+        <td align='center' nowrap='nowrap'>Low German ›<br>低地德语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>nds</td>
         <td align='center' nowrap='nowrap'>nds</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>低地德语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Nynorsk</td>
+        <td align='center' nowrap='nowrap'>Nynorsk ›<br>新挪威语</td>
         <td align='center' nowrap='nowrap'>nn</td>
         <td align='center' nowrap='nowrap'>nno</td>
         <td align='center' nowrap='nowrap'>nno</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Germanic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Germanic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>新挪威语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Southern Ndebele</td>
+        <td align='center' nowrap='nowrap'>Southern Ndebele ›<br>南恩德贝莱语</td>
         <td align='center' nowrap='nowrap'>nr</td>
         <td align='center' nowrap='nowrap'>nbl</td>
         <td align='center' nowrap='nowrap'>nbl</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin<br>Ndebele Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>南恩德贝莱语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Northern Sotho</td>
+        <td align='center' nowrap='nowrap'>Northern Sotho ›<br>北索托语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>nso</td>
         <td align='center' nowrap='nowrap'>nso</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin
-    <br>Sotho Braille</td>
+<br>Sotho Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>北索托语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Occitan</td>
+        <td align='center' nowrap='nowrap'>Occitan ›<br>奥克语</td>
         <td align='center' nowrap='nowrap'>oc</td>
         <td align='center' nowrap='nowrap'>oci</td>
         <td align='center' nowrap='nowrap'>oci</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>奥克语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Pampanga</td>
+        <td align='center' nowrap='nowrap'>Pampanga ›<br>邦板牙语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>pam</td>
         <td align='center' nowrap='nowrap'>pam</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin<br>Kulitan</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>邦板牙语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Iranian Persian</td>
+        <td align='center' nowrap='nowrap'>Iranian Persian ›<br>伊朗波斯语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>pes</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Perso-Arabic</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>伊朗波斯语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Plateau Malagasy</td>
+        <td align='center' nowrap='nowrap'>Plateau Malagasy ›<br>高原马达加斯加语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>plt</td>
-        <td align='center' nowrap='nowrap'>Austronesian›<br>Malayo-Polynesian</td>
+        <td align='center' nowrap='nowrap'>Austronesian ›<br>Malayo-Polynesian</td>
         <td align='center' nowrap='nowrap'>Latin <br>Malagasy Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>高原马达加斯加语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Brazilian Portuguese</td>
+        <td align='center' nowrap='nowrap'>Brazilian Portuguese ›<br>巴西葡萄牙语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Portuguese Braille</td>
         <td align='center' nowrap='nowrap'>South America</td>
-        <td align='center' nowrap='nowrap'>巴西葡萄牙语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Romansh</td>
+        <td align='center' nowrap='nowrap'>Romansh ›<br>罗曼什语</td>
         <td align='center' nowrap='nowrap'>rm</td>
         <td align='center' nowrap='nowrap'>roh</td>
         <td align='center' nowrap='nowrap'>roh</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>罗曼什语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Sanskrit</td>
+        <td align='center' nowrap='nowrap'>Sanskrit ›<br>梵语</td>
         <td align='center' nowrap='nowrap'>sa</td>
         <td align='center' nowrap='nowrap'>san</td>
         <td align='center' nowrap='nowrap'>san</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Indo-Iranian</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Indo-Iranian</td>
         <td align='center' nowrap='nowrap'>Devanagari<br>Brahmic</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>梵语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Sardinian</td>
+        <td align='center' nowrap='nowrap'>Sardinian ›<br>撒丁语</td>
         <td align='center' nowrap='nowrap'>sc</td>
         <td align='center' nowrap='nowrap'>srd</td>
         <td align='center' nowrap='nowrap'>srd</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>撒丁语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Northern Sami</td>
+        <td align='center' nowrap='nowrap'>Northern Sami ›<br>北萨米语</td>
         <td align='center' nowrap='nowrap'>se</td>
         <td align='center' nowrap='nowrap'>sme</td>
         <td align='center' nowrap='nowrap'>sme</td>
-        <td align='center' nowrap='nowrap'>Uralic›<br>Finno-Ugric</td>
+        <td align='center' nowrap='nowrap'>Uralic ›<br>Finno-Ugric</td>
         <td align='center' nowrap='nowrap'>Latin<br>Northern Sami Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>北萨米语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Serbo-Croatian</td>
+        <td align='center' nowrap='nowrap'>Serbo-Croatian ›<br>塞尔维亚-克罗地亚语</td>
         <td align='center' nowrap='nowrap'>sh</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>hbs</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Balto-Slavic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Balto-Slavic</td>
         <td align='center' nowrap='nowrap'>Latin<br>Cyrillic<br>Yugoslav Braille</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>塞尔维亚-克罗地亚语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Shan</td>
+        <td align='center' nowrap='nowrap'>Shan ›<br>掸语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>shn</td>
         <td align='center' nowrap='nowrap'>shn</td>
-        <td align='center' nowrap='nowrap'>Kra–Dai›<br>Kam–Tai</td>
+        <td align='center' nowrap='nowrap'>Kra–Dai ›<br>Kam–Tai</td>
         <td align='center' nowrap='nowrap'>Burmese</td>
         <td align='center' nowrap='nowrap'>Asia</td>
-        <td align='center' nowrap='nowrap'>掸语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Swazi</td>
+        <td align='center' nowrap='nowrap'>Swazi ›<br>斯威士语</td>
         <td align='center' nowrap='nowrap'>ss</td>
         <td align='center' nowrap='nowrap'>ssw</td>
         <td align='center' nowrap='nowrap'>ssw</td>
-        <td align='center' nowrap='nowrap'>Niger–Congo›<br>Atlantic–Congo</td>
+        <td align='center' nowrap='nowrap'>Niger–Congo ›<br>Atlantic–Congo</td>
         <td align='center' nowrap='nowrap'>Latin<br>Swazi Braille</td>
         <td align='center' nowrap='nowrap'>Africa</td>
-        <td align='center' nowrap='nowrap'>斯威士语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Klingon</td>
+        <td align='center' nowrap='nowrap'>Klingon ›<br>克林贡语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>tlh</td>
         <td align='center' nowrap='nowrap'>tlh</td>
         <td align='center' nowrap='nowrap'>Constructed language</td>
         <td align='center' nowrap='nowrap'>Latin<br>Klingon</td>
         <td align='center' nowrap='nowrap'>N/A</td>
-        <td align='center' nowrap='nowrap'>克林贡语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Toki Pona</td>
+        <td align='center' nowrap='nowrap'>Toki Pona ›<br>道本语</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>Constructed language</td>
         <td align='center' nowrap='nowrap'>N/A</td>
         <td align='center' nowrap='nowrap'>N/A</td>
-        <td align='center' nowrap='nowrap'>道本语</td>
     </tr>
     <tr>
-        <td align='center' nowrap='nowrap'>Walon</td>
+        <td align='center' nowrap='nowrap'>Walon ›<br>瓦隆语</td>
         <td align='center' nowrap='nowrap'>wa</td>
         <td align='center' nowrap='nowrap'>wln</td>
         <td align='center' nowrap='nowrap'>wln</td>
-        <td align='center' nowrap='nowrap'>Indo-European›<br>Italic</td>
+        <td align='center' nowrap='nowrap'>Indo-European ›<br>Italic</td>
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
-        <td align='center' nowrap='nowrap'>瓦隆语</td>
     </tr>
 </table>
 
