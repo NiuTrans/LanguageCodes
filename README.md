@@ -3294,11 +3294,11 @@ It is hard to tell the exact number of human languages on this planet because th
 - [↑](#4) <a id="1">["How many languages are there in the world"](https://www.ethnologue.com/guides/how-many-languages). Ethnologue: Languages of the World. Retrieved 29 April 2021.</a>
 - [↑](#5) <a id="2">[List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes). Wikipedia.org. Retrieved 29 April 2021.</a>
 - [↑](#6) <a id="3">[Numeral Systems of the World's Languages](https://mpi-lingweb.shh.mpg.de/numeral/)  Retrieved June 2020.</a>
-- [World language and its name, language family, writing systems and the number and distribution of its native speakers](https://iso639-3.sil.org/). Wikipedia.org. Retrieved March 21, 2020.
-- [Glottolog report for language families](https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/). Glottolog.org. Retrieved July 21, 2020.
-- [World Continents classification](https://zh.wikipedia.org/wiki/%E4%BB%A5%E6%AF%8D%E8%AA%9E%E4%BA%BA%E5%8F%A3%E6%8E%92%E5%BA%8F%E7%9A%84%E8%AA%9E%E8%A8%80%E5%88%97%E8%A1%A8) Retrieved October 21, 2020.
-- [SIL report for language and its codes](http://www.360doc.com/content/17/0302/14/19062466_633344811.shtml). Retrieved March 20, 2021.
-- [Ethnologue report for language names, codes, writing systems and etc](https://www.ethnologue.com/language/ata). Retrieved October 11, 2020.
+- [World language and its name, language family, writing systems and the number and distribution of its native speakers](https://en.wikipedia.org/wiki/Index_of_language_articles). Wikipedia.org. Retrieved March 21, 2020.
+- [Glottolog report for language families](https://glottolog.org/glottolog/language). Glottolog.org. Retrieved July 21, 2020.
+- [World Continents classification](https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/) Retrieved October 21, 2020.
+- [SIL report for language and its codes](https://iso639-3.sil.org/). Retrieved March 20, 2021.
+- [Ethnologue report for language names, codes, writing systems and etc](https://www.ethnologue.com/browse/names). Retrieved October 11, 2020.
 - [Wikidata report for language codes and writing systems](https://www.wikidata.org/). Retrieved May 10, 2021.
 - [Omniglot report on writing systems by language](https://omniglot.com/writing/langalph.htm#latin). Retrieved May 10, 2021.
 - [Scriptsource report on language features, writing systems, spoken countries and its status](https://scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=dop). 11.Retrieved May 10, 2021.
