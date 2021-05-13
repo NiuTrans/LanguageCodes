@@ -9,7 +9,7 @@ It is hard to tell the exact number of human languages on this planet because th
     <tr>
         <th align='center' rowspan='2' nowrap="nowrap">Language ›<br>Chinese Name</th>
         <th align='center' colspan='3' nowrap="nowrap">ISO 639</th>
-        <th align='center' rowspan='2' nowrap="nowrap">Language Family ›<br>Branch</th>
+        <th align='center' rowspan='2' nowrap="nowrap">Language Family›<br>Branch</th>
         <th align='center' rowspan='2' nowrap="nowrap">Writing System</th>
         <th align='center' rowspan='2' nowrap="nowrap">Macro-area</th>
     </tr>
@@ -65,7 +65,7 @@ It is hard to tell the exact number of human languages on this planet because th
     </tr>
 </table> -->
 
-<table>
+<table style="font-size:12px;">
     <tr>
         <th align='center' rowspan='2' nowrap="nowrap">Language ›<br>Chinese Name</th>
         <th align='center' colspan='3' nowrap="nowrap">ISO 639</th>
@@ -3289,6 +3289,7 @@ It is hard to tell the exact number of human languages on this planet because th
   ##### [PAWS-X](https://github.com/google-research-datasets/paws/tree/master/pawsx)	A cross-lingual adversarial dataset for paraphrase identification. It contains 23,659 human translated PAWS evaluation pairs and 296,406 machine translated training pairs in six typologically distinct languages: French, Spanish, German, Chinese, Japanese, and Korean. All translated pairs are sourced from examples in PAWS-Wiki.  
 
   ##### [EVBCorpus](https://github.com/qhungngo/EVBCorpus)	A multi-layer English-Vietnamese bilingual corpus for studying tasks in comparative linguistics. It contains over 20 million words from 15 bilingual books, 100 parallel English-Vietnamese/Vietnamese-English texts, 250 parallel law and ordinance texts, 5,000 news articles, and 2,000 film subtitles. 
+
 
 ## References
 - [↑](#4) <a id="1">["How many languages are there in the world"](https://www.ethnologue.com/guides/how-many-languages). Ethnologue: Languages of the World. Retrieved 29 April 2021.</a>
