@@ -3302,4 +3302,4 @@ It is hard to tell the exact number of human languages on this planet because th
 - [Ethnologue report for language names, codes, writing systems and etc](https://www.ethnologue.com/browse/names). Retrieved October 11, 2020.
 - [Wikidata report for language codes and writing systems](https://www.wikidata.org/). Retrieved May 10, 2021.
 - [Omniglot report on writing systems by language](https://omniglot.com/writing/langalph.htm#latin). Retrieved May 10, 2021.
-- [Scriptsource report on language features, writing systems, spoken countries and its status](https://scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=dop). 11.Retrieved May 10, 2021.
+- [Scriptsource report on language features, writing systems, spoken countries and its status](https://scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=dop). Retrieved May 10, 2021.
