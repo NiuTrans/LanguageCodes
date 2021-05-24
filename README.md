@@ -3284,15 +3284,15 @@ It is hard to tell the exact number of human languages on this planet because th
 
 - ### Multi-lingual Data Shared by MT Conference：
 
-  ##### [CCMT](http://nlp.nju.edu.cn/cwmt2018/)	A dataset of parallel sentences in the textual content of Wikipedia for all possible language pairs in 85 languages. It extracts 135 million parallel sentences for 1620 different language pairs, out of which only 34 million are aligned with English.  
+  ##### [CCMT](http://mteval.cipsc.org.cn:81/CCMT2021/index.html)	A dataset of parallel sentences in the textual content of Wikipedia for all possible language pairs in 85 languages. It extracts 135 million parallel sentences for 1620 different language pairs, out of which only 34 million are aligned with English.  
 
-  ##### [WMT](https://github.com/google-research-datasets/paws/tree/master/pawsx)	A cross-lingual adversarial dataset for paraphrase identification. It contains 23,659 human translated PAWS evaluation pairs and 296,406 machine translated training pairs in six typologically distinct languages: French, Spanish, German, Chinese, Japanese, and Korean. All translated pairs are sourced from examples in PAWS-Wiki.  
+  ##### [WMT](http://www.statmt.org/wmt21/)	This conference builds on a series of annual workshops and conferences on statistical machine translation, going back to 2006. It proposed multilingual low-resource translation shared task in 2021 for the first time. 
 
   ##### [NIST](https://github.com/qhungngo/EVBCorpus)	A multi-layer English-Vietnamese bilingual corpus for studying tasks in comparative linguistics. It contains over 20 million words from 15 bilingual books, 100 parallel English-Vietnamese/Vietnamese-English texts, 250 parallel law and ordinance texts, 5,000 news articles, and 2,000 film subtitles. 
 
   ##### [IWSLT](http://lotus.kuee.kyoto-u.ac.jp/WAT/)	A multi-layer English-Vietnamese bilingual corpus for studying tasks in comparative linguistics. It contains over 20 million words from 15 bilingual books, 100 parallel English-Vietnamese/Vietnamese-English texts, 250 parallel law and ordinance texts, 5,000 news articles, and 2,000 film subtitles. 
 
-  ##### [WAT](http://lotus.kuee.kyoto-u.ac.jp/WAT/)	A multi-layer English-Vietnamese bilingual corpus for studying tasks in comparative linguistics. It contains over 20 million words from 15 bilingual books, 100 parallel English-Vietnamese/Vietnamese-English texts, 250 parallel law and ordinance texts, 5,000 news articles, and 2,000 film subtitles.
+  ##### [WAT](http://lotus.kuee.kyoto-u.ac.jp/WAT/)	The Workshop on Asian Translation (WAT) is a new open evaluation campaign focusing on Asian languages.
 
   ##### [NTCIR](https://github.com/qhungngo/EVBCorpus)	A multi-layer English-Vietnamese bilingual corpus for studying tasks in comparative linguistics. It contains over 20 million words from 15 bilingual books, 100 parallel English-Vietnamese/Vietnamese-English texts, 250 parallel law and ordinance texts, 5,000 news articles, and 2,000 film subtitles.
 
