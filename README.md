@@ -3282,9 +3282,9 @@ It is hard to tell the exact number of human languages on this planet because th
 
 
 
-- ### Multi-lingual Data Shared on Github：
+- ### Multi-lingual Data Shared by MT conference：
 
-  ##### [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix)	A dataset of parallel sentences in the textual content of Wikipedia for all possible language pairs in 85 languages. It extracts 135 million parallel sentences for 1620 different language pairs, out of which only 34 million are aligned with English.  
+  ##### [CCMT](http://nlp.nju.edu.cn/cwmt2018/)	A dataset of parallel sentences in the textual content of Wikipedia for all possible language pairs in 85 languages. It extracts 135 million parallel sentences for 1620 different language pairs, out of which only 34 million are aligned with English.  
 
   ##### [PAWS-X](https://github.com/google-research-datasets/paws/tree/master/pawsx)	A cross-lingual adversarial dataset for paraphrase identification. It contains 23,659 human translated PAWS evaluation pairs and 296,406 machine translated training pairs in six typologically distinct languages: French, Spanish, German, Chinese, Japanese, and Korean. All translated pairs are sourced from examples in PAWS-Wiki.  
 
