@@ -3296,7 +3296,7 @@ It is hard to tell the exact number of human languages on this planet because th
   
   ##### [WAT](http://lotus.kuee.kyoto-u.ac.jp/WAT/)	The Workshop on Asian Translation (WAT) is a new open evaluation campaign focusing on Asian languages.
 
-  ##### [NTCIR](https://github.com/qhungngo/EVBCorpus)	A multi-layer English-Vietnamese bilingual corpus for studying tasks in comparative linguistics. It contains over 20 million words from 15 bilingual books, 100 parallel English-Vietnamese/Vietnamese-English texts, 250 parallel law and ordinance texts, 5,000 news articles, and 2,000 film subtitles.
+  ##### [NTCIR](http://research.nii.ac.jp/ntcir/ntcir-16/index.html)	A multi-layer English-Vietnamese bilingual corpus for studying tasks in comparative linguistics. It contains over 20 million words from 15 bilingual books, 100 parallel English-Vietnamese/Vietnamese-English texts, 250 parallel law and ordinance texts, 5,000 news articles, and 2,000 film subtitles.
 
 
 ## References
