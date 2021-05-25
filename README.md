@@ -3284,7 +3284,7 @@ It is hard to tell the exact number of human languages on this planet because th
 
 - ### Multi-lingual Data Shared by MT Conference：
 
-  ##### [CCMT](http://mteval.cipsc.org.cn:81/CCMT2021/index.html)	A dataset of parallel sentences in the textual content of Wikipedia for all possible language pairs in 85 languages. It extracts 135 million parallel sentences for 1620 different language pairs, out of which only 34 million are aligned with English.  
+  [CCMT](http://mteval.cipsc.org.cn:81/CCMT2021/index.html)	China Conference on Machine Translation (CCMT) , formerly known as China Workshop on Machine Translation (CWMT), is an annual conference starting from 2005. It is the flagship conference of machine translation in China. CCMT has organized multiple evaluation which has profoundly influenced domestic machine translation technology. Its evaluations focus mainly on Chinese, English and domestic minority languages (Mongolian, Tibetan, Uyghur, etc.) in domains of news, spoken languages, governmental documents, etc. Automatic evaluation is mainly used. The metrics for automatic evaluation generally include BLEU-SBP, BLEU-NIST, TER, METEOR, NIST, GTM, mWER, mPER, and ICT. The conference attracts nearly dozens of companies and scientific research institutions domestic and overseas to participate every year.  
 
   ##### [WMT](http://www.statmt.org/wmt21/)	This conference builds on a series of annual workshops and conferences on statistical machine translation, going back to 2006. It proposed multilingual low-resource translation shared task in 2021 for the first time. 
 
