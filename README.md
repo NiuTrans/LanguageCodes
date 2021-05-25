@@ -3278,7 +3278,7 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap='nowrap'><a href="https://ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory">DGT</a></td>
         <td align='center' nowrap='nowrap'>Multilingual Parallel</td>
         <td nowrap='nowrap'>bg cs da de el en es et fi<br> fr ga hr hu it lt lv mt nl pl<br> pt ro sh sk sl sv</td>
-        <td nowrap='nowrap'>25 languages, 299 bitexts<br>files: 817,410<br>tokens: 2.13G<br>sentence fragments: 113.52M</td>
+        <td nowrap='nowrap'>25 languages, 299 bitexts<br>sentence fragments: 113.52M</td>
         <td align='center' nowrap='nowrap'>Law</td>
      </tr>
 	<tr>
