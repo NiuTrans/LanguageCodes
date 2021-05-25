@@ -3300,7 +3300,7 @@ It is hard to tell the exact number of human languages on this planet because th
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
 		<td nowrap='nowrap'>bg cs da de el en es et fi fr<br> hu it lt lv nl pl pt ro sk sl sv</td>
 		<td nowrap='nowrap'>21 languages, 211 bitexts<br>files: 207,775<br>tokens: 759.05M<br>sentence fragments: 30.32M</td>
-		<td align='center' nowrap='nowrap''>European Parliament web site</td>
+		<td align='center' nowrap='nowrap''>Parliament Proceedings</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://dumps.wikimedia.org/other/contenttranslation/'>wikimedia v20210402</a></td>
