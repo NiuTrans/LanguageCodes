@@ -3266,7 +3266,7 @@ It is hard to tell the exact number of human languages on this planet because th
 ## Corpora 
 - ### Multi-lingual Data Projects：
 
-<table style="font-size:12px;">
+<table style="font-size:11px;">
     <tr>
         <th align='center' nowrap="nowrap">Corpora</th>
         <th align='center' nowrap="nowrap">Type</th>
