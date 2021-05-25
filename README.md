@@ -3376,7 +3376,7 @@ It is hard to tell the exact number of human languages on this planet because th
 		<td align='center' nowrap='nowrap'><a href='https://cims.nyu.edu/~sbowman/xnli/'>XNLI</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
 		<td nowrap='nowrap'>fr es de el bg ru tr ar vi<br> th zh hi sw ur en</td>
-		<td nowrap='nowrap'>15 languages, bitexts 105<br>tokens: 112.5k<br>sentence fragments: 1.5 M</td>
+		<td nowrap='nowrap'>15 languages, bitexts 105<br>sentence fragments: 1.5 M</td>
 		<td align='center' nowrap='nowrap''>Mixed</td>
 	</tr>
 	<tr>
