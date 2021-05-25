@@ -3266,19 +3266,26 @@ It is hard to tell the exact number of human languages on this planet because th
 ## Corpora 
 - ### Multi-lingual Data Projects：
 
-  #####          [Opus](http://opus.nlpl.eu/)	The biggest collection of openly available parallel corpora, which covers over 200 languages and language variants with a total of about 3.2 billion sentences and sentence fragments containing over 28 billion tokens. The collection contains data from various sources and domains and each sub-corpus is provided in common data formats to make it easy to integrate them in research and development.
+ <table style="font-size:12px;">
+    <tr>
+        <th align='center' nowrap="nowrap">Corpora</th>
+        <th align='center' nowrap="nowrap">Type</th>
+        <th align='center' nowrap="nowrap">Language Supported</th>
+        <th align='center' nowrap="nowrap">Size</th>
+        <th align='center' nowrap="nowrap">Domain</th>
+    </tr>
+    <tr>
+        <td align='center' nowrap='nowrap'><a href="https://ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory">DGT</a></td>
+        <td align='center' nowrap='nowrap'>Multilingual Parallel</td>
+        <td nowrap='nowrap'>bg cs da de el en es et fi <br> fr ga hr hu it lt lv mt nl<br>  pl pt ro sh sk sl sv</td>
+        <td nowrap='nowrap'>25 languages, 299 bitexts<br>total number of files: 817,410<br>total number of tokens: 2.13G<br>total number of sentence fragments: 113.52M</td>
+        <td align='center' nowrap='nowrap'>Law</td>
+     </tr>
 
-  #####          [LDC](https://www.ldc.upenn.edu/)	 A consortium of member organizations that pool resources to support language-related research, education and technology development. Its corpora are sorted by release year, containing 964 corpora updated from 1993 to 2021. Most corpora are multilingual, with Chinese, English, French, Japanes and Arabic as the core.
 
-  #####          [Tatoeba Project](http://www.manythings.org/anki/)	A free collaborative online database of example sentences geared towards foreign language learners. Its  bilingual sentence pairs are tab-delimited, which contains 9,598,742 sentences in 401 languages.
 
-  #####          [Europa](https://data.europa.eu/data/datasets?locale=en&minScoring=0)	It collects a very wide variety of high-value open data across EU policy domains, including the economy, employment, science, environment and education, which contains 1,125,030 datasets of 81 catalogues. 
+</table>
 
-  #####          [BCC  Corpus](http://bcc.blcu.edu.cn/)	 A contemporary Chinese corpus of 15 billion characters in the field of journal (2 billion), literature (3 bilion), Weibo (3 billion), science (3 billion), ancient Chinese (2 billion) and other fields.
-
-  #####         [Clarin](https://www.clarin.eu/resource-families/parallel-corpora)	A European Research Infrastructure for Language Resources and Technology, 47 bilingual corpora, mostly containing European language pairs but also non-European languages such as Hindi, Tamil, and Vietnamese. 39 corpora are multilingual, with 5 containing texts in more than 50 languages. Almost half of the corpora are sentence-aligned. 
-
-  #####         [XNLI](https://cims.nyu.edu/~sbowman/xnli/)	An evaluation corpus for language transfer and cross-lingual sentence classification in 15 languages. It collects 5,000 test and 2,500 dev pairs for the MultiNLI corpus. The pairs are annotated with textual entailment and translated into 14 languages: French, Spanish, German, Greek, Bulgarian, Russian, Turkish, Arabic, Vietnamese, Thai, Chinese, Hindi, Swahili and Urdu. This results in 112,500 annotated pairs. Each premise can be associated with the corresponding hypothesis in the 15 languages, summing up to more than 1.5 million combinations. 
 
 
 
