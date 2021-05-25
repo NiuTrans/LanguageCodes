@@ -3284,7 +3284,7 @@ It is hard to tell the exact number of human languages on this planet because th
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://www.statmt.org/cc-aligned/'>CCAligned</a></td>
 		<td align='center' nowrap='nowrap'>English at core</td>
-		<td nowrap='nowrap'>af ak am ar as ay az be bg<br> bm bn br bs ca cb cs cx cy<br> da de el es et fa ff fi fr gu<br> ha he, etc .</td>
+		<td nowrap='nowrap'>af ak am ar as ay az be bg<br> bm bn br bs ca cb, etc.</td>
 		<td nowrap='nowrap'>113 languages, 112 bitexts<br>files: 36,185<br>tokens: 26.39G<br>sentence fragments: 2.25G</td>
 		<td align='center' nowrap='nowrap''>Web-document</td>
 	</tr>
@@ -3298,14 +3298,14 @@ It is hard to tell the exact number of human languages on this planet because th
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://www.statmt.org/europarl/'>Europarl</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>bg cs da de el en es et fi fr<br> hu it lt lv nl pl pt ro sk sl sv</td>
+		<td nowrap='nowrap'>bg cs da de el en es et fi<br> fr hu it lt lv nl, etc.</td>
 		<td nowrap='nowrap'>21 languages, 211 bitexts<br>files: 207,775<br>tokens: 759.05M<br>sentence fragments: 30.32M</td>
 		<td align='center' nowrap='nowrap''>Parliament Proceedings</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://dumps.wikimedia.org/other/contenttranslation/'>wikimedia</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>ab ace ady af ak am an ang<br> ar arc ary arz as ast atj av<br> avk awa ay az azb ba ban<br> bar bcl be bg bho bi bjn, etc.</td>
+		<td nowrap='nowrap'>ab ace ady af ak am an ang<br> ar arc ary arz as ast atj, etc.</td>
 		<td nowrap='nowrap'>306 languages, 2,575 bitexts<br>files: 306<br>tokens: 918.05M<br>sentence fragments: 31.62M</td>
 		<td align='center' nowrap='nowrap''>Mixed</td>
 	</tr>
@@ -3319,7 +3319,7 @@ It is hard to tell the exact number of human languages on this planet because th
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://ai.facebook.com/blog/wikimatrix/'>WikiMatrix</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>an ar arz as az azb ba bar<br> be bg bn br bs ca ceb cs<br> da de el en eo es et eu fa<br> fi fo fr fy gl, etc.</td>
+		<td nowrap='nowrap'>an ar arz as az azb ba bar<br> be bg bn br bs ca ceb, etc.</td>
 		<td nowrap='nowrap'>86 languages, 1,620 bitexts<br>files: 86<br>tokens: 6.06G<br>sentence fragments: 300.27M</td>
 		<td align='center' nowrap='nowrap''>Wikipedia Article</td>
 	</tr>
@@ -3333,21 +3333,21 @@ It is hard to tell the exact number of human languages on this planet because th
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://www.paracrawl.eu/index.php/moredata'>MultiParaCrawl</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>bg ca cs da de el es et eu<br> fi fr ga gl ha hr hu ig is it<br> km lt lv mt my nb ne nl<br> nn pl ps, etc.</td>
+		<td nowrap='nowrap'>bg ca cs da de el es et eu<br> fi fr ga gl ha hr, etc.</td>
 		<td nowrap='nowrap'>40 languages, 669 bitexts<br>files: 40<br>tokens: 10.14G<br>sentence fragments: 505.48M</td>
 		<td align='center' nowrap='nowrap''>Mixed</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://tilde-model.s3-eu-west-1.amazonaws.com/Tilde_MODEL_Corpus.html'>TildeMODEL</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>bg cs da de el en es et fi<br> fr hr hu is it lt lv mt nl no<br> pl pt ro ru sk sl sq sr sv<br> tr uk</td>
+		<td nowrap='nowrap'>bg cs da de el en es et fi<br> fr hr hu is it lt, etc.</td>
 		<td nowrap='nowrap'>30 languages, 274 bitexts <br>files: 125 <br>tokens: 1.43G <br>sentence fragments: 62.44M</td>
 		<td align='center' nowrap='nowrap''>Mixed</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://www.manythings.org/anki/'>Tatoeba</a></td>
 		<td align='center' nowrap='nowrap'>English at core</td>
-		<td nowrap='nowrap'>ab acm ady af afb afh aii ain<br> ajp akl aln alt am an ang aoz<br> apc ar arq ary arz as ast avk<br> awa ayl az ba bal bar, ect.</td>
+		<td nowrap='nowrap'>ab acm ady af afb afh aii ain<br> ajp akl aln alt am an ang, ect.</td>
 		<td nowrap='nowrap'>366 languages, 3,632 bitexts<br>files: 929<br>tokens: 69.26M<br>sentence fragments: 9.52M</td>
 		<td align='center' nowrap='nowrap''>Oral</td>
 	</tr>
@@ -3361,14 +3361,14 @@ It is hard to tell the exact number of human languages on this planet because th
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://linguatools.org/tools/corpora/wikipedia-parallel-titles-corpora/'>Wikititles</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>ar bg cs da de el en es fa<br> fi fr hu it ja ko nl pl pt ro<br> ru sv tr zh</td>
+		<td nowrap='nowrap'>ar bg cs da de el en es fa<br> fi fr hu it ja ko, etc.</td>
 		<td nowrap='nowrap'>23 languages, 506 bitexts<br>files: 253<br>sentence fragments: 24.25M</td>
 		<td align='center' nowrap='nowrap''>Title</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://www.opensubtitles.org/'>OpenSubtile</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>af ar bg bn br bs ca cs da<br> de el en eo es et eu fa fi<br> fr gl he hi hr hu hy id is<br> it ja ka, ect.</td>
+		<td nowrap='nowrap'>af ar bg bn br bs ca cs da<br> de el en eo es et, ect.</td>
 		<td nowrap='nowrap'>62 languages, 1,782 bitexts<br>files: 3,735,070<br>tokens: 22.10G<br>sentence fragments: 3.35G</td>
 		<td align='center' nowrap='nowrap''>Subtitles</td>
 	</tr>
