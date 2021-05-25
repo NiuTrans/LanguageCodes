@@ -3266,7 +3266,7 @@ It is hard to tell the exact number of human languages on this planet because th
 ## Corpora 
 - ### Multi-lingual Data Projects：
 
- <table style="font-size:12px;">
+<table style="font-size:12px;">
     <tr>
         <th align='center' nowrap="nowrap">Corpora</th>
         <th align='center' nowrap="nowrap">Type</th>
@@ -3277,16 +3277,144 @@ It is hard to tell the exact number of human languages on this planet because th
     <tr>
         <td align='center' nowrap='nowrap'><a href="https://ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory">DGT</a></td>
         <td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-        <td nowrap='nowrap'>bg cs da de el en es et fi <br> fr ga hr hu it lt lv mt nl<br>  pl pt ro sh sk sl sv</td>
+        <td nowrap='nowrap'>bg cs da de el en es et fi<br> fr ga hr hu it lt lv mt nl pl<br> pt ro sh sk sl sv</td>
         <td nowrap='nowrap'>25 languages, 299 bitexts<br>total number of files: 817,410<br>total number of tokens: 2.13G<br>total number of sentence fragments: 113.52M</td>
         <td align='center' nowrap='nowrap'>Law</td>
      </tr>
-
-
-
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='http://www.statmt.org/cc-aligned/'>CCAligned</a></td>
+		<td align='center' nowrap='nowrap'>English at core</td>
+		<td nowrap='nowrap'>af ak am ar as ay az be bg<br> bm bn br bs ca cb cs cx cy<br> da de el es et fa ff fi fr gu<br> ha he, etc .</td>
+		<td nowrap='nowrap'>113 languages, 112 bitexts<br>total number of files: 36,185<br>total number of tokens: 26.39G<br>total number of sentence fragments: 2.25G</td>
+		<td align='center' nowrap='nowrap''>Web-document</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='http://data.statmt.org/news-commentary/v16/'>News-Commentary v16</a></td>
+		<td align='center' nowrap='nowrap'>Multilingual Parallel（partial）</td>
+		<td nowrap='nowrap'>ar cs de en es fr hi id it<br> ja kk nl pt ru zh</td>
+		<td nowrap='nowrap'>15 languages, 109 bitexts<br>total number of files: 89,207<br>total number of tokens: 82.91M<br>total number of sentence fragments: 2.97M</td>
+		<td align='center' nowrap='nowrap''>News Commentaries</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='http://www.statmt.org/europarl/'>Europarl</a></td>
+		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
+		<td nowrap='nowrap'>bg cs da de el en es et fi fr<br> hu it lt lv nl pl pt ro sk sl sv</td>
+		<td nowrap='nowrap'>21 languages, 211 bitexts<br>total number of files: 207,775<br>total number of tokens: 759.05M<br>total number of sentence fragments: 30.32M</td>
+		<td align='center' nowrap='nowrap''>European Parliament web site</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='https://dumps.wikimedia.org/other/contenttranslation/'>wikimedia v20210402</a></td>
+		<td align='center' nowrap='nowrap'>Multilingual Parallel（partial）</td>
+		<td nowrap='nowrap'>ab ace ady af ak am an ang<br> ar arc ary arz as ast atj av<br> avk awa ay az azb ba ban<br> bar bcl be bg bho bi bjn, etc.</td>
+		<td nowrap='nowrap'>306 languages, 2,575 bitexts<br>total number of files: 306<br>total number of tokens: 918.05M<br>total number of sentence fragments: 31.62M</td>
+		<td align='center' nowrap='nowrap''>Mixed</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='https://europat.net/'>EuroPat v2</a></td>
+		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
+		<td nowrap='nowrap'>de en es fr hr no pl</td>
+		<td nowrap='nowrap'>7 languages, 21 bitexts<br>total number of files: 7<br>total number of tokens: 4.66G<br>total number of sentence fragments: 143.74M</td>
+		<td align='center' nowrap='nowrap''>Patent</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='https://ai.facebook.com/blog/wikimatrix/'>WikiMatrix</a></td>
+		<td align='center' nowrap='nowrap'>Multilingual Parallel（partial）</td>
+		<td nowrap='nowrap'>an ar arz as az azb ba bar<br> be bg bn br bs ca ceb cs<br> da de el en eo es et eu fa<br> fi fo fr fy gl, etc.</td>
+		<td nowrap='nowrap'>86 languages, 1,620 bitexts<br>total number of files: 86<br>total number of tokens: 6.06G<br>total number of sentence fragments: 300.27M</td>
+		<td align='center' nowrap='nowrap''>Wikipedia Article</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='https://conferences.unite.un.org/UNCorpus'>UNPC</a></td>
+		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
+		<td nowrap='nowrap'>ar en es fr ru zh</td>
+		<td nowrap='nowrap'>6 languages, 15 bitexts<br>total number of files: 799,276<br>total number of tokens: 3.96G<br>total number of sentence fragments: 172.04M</td>
+		<td align='center' nowrap='nowrap''>Parliamentary Records</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='https://www.paracrawl.eu/index.php/moredata'>MultiParaCrawl v 7.1</a></td>
+		<td align='center' nowrap='nowrap'>Multilingual Parallel（partial）</td>
+		<td nowrap='nowrap'>bg ca cs da de el es et eu<br> fi fr ga gl ha hr hu ig is it<br> km lt lv mt my nb ne nl<br> nn pl ps, etc.</td>
+		<td nowrap='nowrap'>40 languages, 669 bitexts<br>total number of files: 40<br>total number of tokens: 10.14G<br>total number of sentence fragments: 505.48M</td>
+		<td align='center' nowrap='nowrap''>Mixed</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='https://tilde-model.s3-eu-west-1.amazonaws.com/Tilde_MODEL_Corpus.html'>TildeMODEL</a></td>
+		<td align='center' nowrap='nowrap'>Multilingual Parallel（partial）</td>
+		<td nowrap='nowrap'>bg cs da de el en es et fi<br> fr hr hu is it lt lv mt nl no<br> pl pt ro ru sk sl sq sr sv<br> tr uk</td>
+		<td nowrap='nowrap'>30 languages, 274 bitexts <br>total number of files: 125 <br>total number of tokens: 1.43G <br>total number of sentence fragments: 62.44M</td>
+		<td align='center' nowrap='nowrap''>Mixed</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='http://www.manythings.org/anki/'>Tatoeba</a></td>
+		<td align='center' nowrap='nowrap'>English at core</td>
+		<td nowrap='nowrap'>ab acm ady af afb afh aii ain<br> ajp akl aln alt am an ang aoz<br> apc ar arq ary arz as ast avk<br> awa ayl az ba bal bar, ect.</td>
+		<td nowrap='nowrap'>366 languages, 3,632 bitexts<br>total number of files: 929<br>total number of tokens: 69.26M<br>total number of sentence fragments: 9.52M</td>
+		<td align='center' nowrap='nowrap''>Oral</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='http://nlp.ffzg.hr/resources/corpora/setimes/'>SETIMES</a></td>
+		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
+		<td nowrap='nowrap'>bg bs el en hr mk ro sq sr tr</td>
+		<td nowrap='nowrap'>10 languages, 45 bitexts<br>total number of files: 90<br>total number of tokens: 425.89M<br>total number of sentence fragments: 17.60M</td>
+		<td align='center' nowrap='nowrap''>Official Documents</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='https://linguatools.org/tools/corpora/wikipedia-parallel-titles-corpora/'>Wikititles Corpus</a></td>
+		<td align='center' nowrap='nowrap'>Multilingual Parallel（partial）</td>
+		<td nowrap='nowrap'>ar bg cs da de el en es fa<br> fi fr hu it ja ko nl pl pt ro<br> ru sv tr zh</td>
+		<td nowrap='nowrap'>23 languages, 506 bitexts<br>total number of files: 253<br>total number of sentence fragments: 24.25M</td>
+		<td align='center' nowrap='nowrap''>Title</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='http://www.opensubtitles.org/'>OpenSubtile</a></td>
+		<td align='center' nowrap='nowrap'>Multilingual Parallel（partial）</td>
+		<td nowrap='nowrap'>af ar bg bn br bs ca cs da<br> de el en eo es et eu fa fi<br> fr gl he hi hr hu hy id is<br> it ja ka, ect.</td>
+		<td nowrap='nowrap'>62 languages, 1,782 bitexts<br>total number of files: 3,735,070<br>total number of tokens: 22.10G<br>total number of sentence fragments: 3.35G</td>
+		<td align='center' nowrap='nowrap''>Subtitles</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='https://cims.nyu.edu/~sbowman/xnli/'>XNLI</a></td>
+		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
+		<td nowrap='nowrap'>fr es de el bg ru tr ar vi<br> th zh hi sw ur en</td>
+		<td nowrap='nowrap'>15 languages, bitexts 105<br>total number of tokens: 112.5k<br>total number of sentence fragments: 1.5 M</td>
+		<td align='center' nowrap='nowrap''>Mixed</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='https://nlp.stanford.edu/projects/nmt/'>stanford</a></td>
+		<td align='center' nowrap='nowrap'>English at core</td>
+		<td nowrap='nowrap'>cs de vi</td>
+		<td nowrap='nowrap'>3 languages, 3 bitexts<br>total number of files: 41<br>total number of sentence fragments: 20.3M</td>
+		<td align='center' nowrap='nowrap''>Mixed</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='http://nlp2ct.cis.umac.mo/um-corpus/'>Um-Corpus</a></td>
+		<td align='center' nowrap='nowrap'>Bilingual Parallel</td>
+		<td nowrap='nowrap'>en-zh</td>
+		<td nowrap='nowrap'>total number of sentence fragments: 2.0M</td>
+		<td align='center' nowrap='nowrap''>Mixed</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='https://jipsti.jst.go.jp/aspec/'>ASPEC</a></td>
+		<td align='center' nowrap='nowrap'>Bilingual Parallel</td>
+		<td nowrap='nowrap'>en-ja</td>
+		<td nowrap='nowrap'>total number of sentence fragments: 3.0M</td>
+		<td align='center' nowrap='nowrap''>Paper Abstract</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='https://code.google.com/archive/p/evbcorpus/'>EVBCorpus</a></td>
+		<td align='center' nowrap='nowrap'>Bilingual Parallel</td>
+		<td nowrap='nowrap'>en-vi</td>
+		<td nowrap='nowrap'>total number of sentence fragments: 10.0M</td>
+		<td align='center' nowrap='nowrap''>Book</td>
+	</tr>
+	<tr>
+		<td align='center' nowrap='nowrap'><a href='https://www.cfilt.iitb.ac.in/~parallelcorp/iitb_en_hi_parallel/'>IIT</a></td>
+		<td align='center' nowrap='nowrap'>Bilingual Parallel</td>
+		<td nowrap='nowrap'>en-hi</td>
+		<td nowrap='nowrap'>total number of sentence fragments: 1.6M</td>
+		<td align='center' nowrap='nowrap''>Mixed</td>
+	</tr>
 </table>
-
-
 
 
 - ### Multi-lingual Data Shared by MT Conference：
