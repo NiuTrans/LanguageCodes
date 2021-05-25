@@ -3271,7 +3271,7 @@ It is hard to tell the exact number of human languages on this planet because th
         <th align='center' nowrap="nowrap">Corpora</th>
         <th align='center' nowrap="nowrap">Type</th>
         <th align='center' nowrap="nowrap">Language Supported</th>
-        <th align='center' nowrap="nowrap">Size</th>
+        <th align='center' nowrap="nowrap">Detail</th>
         <th align='center' nowrap="nowrap">Domain</th>
     </tr>
     <tr>
@@ -3389,28 +3389,28 @@ It is hard to tell the exact number of human languages on this planet because th
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://nlp2ct.cis.umac.mo/um-corpus/'>Um-Corpus</a></td>
 		<td align='center' nowrap='nowrap'>Bilingual Parallel</td>
-		<td nowrap='nowrap'>en-zh</td>
+		<td nowrap='nowrap'>en zh</td>
 		<td nowrap='nowrap'>sentence fragments: 2.0M</td>
 		<td align='center' nowrap='nowrap''>Mixed</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://jipsti.jst.go.jp/aspec/'>ASPEC</a></td>
 		<td align='center' nowrap='nowrap'>Bilingual Parallel</td>
-		<td nowrap='nowrap'>en-ja</td>
+		<td nowrap='nowrap'>en ja</td>
 		<td nowrap='nowrap'>sentence fragments: 3.0M</td>
 		<td align='center' nowrap='nowrap''>Paper Abstract</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://code.google.com/archive/p/evbcorpus/'>EVB</a></td>
 		<td align='center' nowrap='nowrap'>Bilingual Parallel</td>
-		<td nowrap='nowrap'>en-vi</td>
+		<td nowrap='nowrap'>en vi</td>
 		<td nowrap='nowrap'>sentence fragments: 10.0M</td>
 		<td align='center' nowrap='nowrap''>Book</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://www.cfilt.iitb.ac.in/~parallelcorp/iitb_en_hi_parallel/'>IIT</a></td>
 		<td align='center' nowrap='nowrap'>Bilingual Parallel</td>
-		<td nowrap='nowrap'>en-hi</td>
+		<td nowrap='nowrap'>en hi</td>
 		<td nowrap='nowrap'>sentence fragments: 1.6M</td>
 		<td align='center' nowrap='nowrap''>Mixed</td>
 	</tr>
