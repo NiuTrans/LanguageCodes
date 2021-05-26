@@ -3263,12 +3263,12 @@ It is hard to tell the exact number of human languages on this planet because th
  2.	For several minority languages without official Chinese name, we consult to other reliable sources<sup><a id="6">[[3]](#3)</a></sup> or use its transliteration name.
 
 
-## Corpora 
+## Corpus
 - ### Multi-lingual Data Projects：
 
 <table style="font-size:12px;">
     <tr>
-        <th align='center' nowrap="nowrap">Corpora</th>
+        <th align='center' nowrap="nowrap">Corpus</th>
         <th align='center' nowrap="nowrap">Type</th>
         <th align='center' nowrap="nowrap">Language Supported</th>
         <th align='center' nowrap="nowrap">Detail</th>
