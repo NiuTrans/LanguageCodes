@@ -3398,7 +3398,7 @@ It is hard to tell the exact number of human languages on this planet because th
 		<td align='center' nowrap='nowrap'>Bilingual Parallel</td>
 		<td nowrap='nowrap'>en ja</td>
 		<td nowrap='nowrap'>3.0M sents.</td>
-		<td align='center' nowrap='nowrap''>Paper Abstract</td>
+		<td align='center' nowrap='nowrap''>Paper<br> Abstract</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://code.google.com/archive/p/evbcorpus/'>EVB</a></td>
