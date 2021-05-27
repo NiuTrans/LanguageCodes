@@ -3270,148 +3270,148 @@ It is hard to tell the exact number of human languages on this planet because th
     <tr>
         <th align='center' nowrap="nowrap">Corpora</th>
         <th align='center' nowrap="nowrap">Type</th>
-        <th align='center' nowrap="nowrap">Language Supported</th>
+        <th align='center' nowrap="nowrap">Language</th>
         <th align='center' nowrap="nowrap">Detail</th>
         <th align='center' nowrap="nowrap">Domain</th>
     </tr>
     <tr>
         <td align='center' nowrap='nowrap'><a href="https://ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory">DGT</a></td>
         <td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-        <td nowrap='nowrap'>bg cs da de el en es et fi<br> fr ga hr hu it lt, etc.</td>
-        <td nowrap='nowrap'>25 languages, 299 bitexts<br>sentence fragments: 113.52M</td>
+        <td nowrap='nowrap'>bg cs da de el <br> en es et fi fr ga<br> hr hu it lt, etc.</td>
+        <td nowrap='nowrap'>25 languages,<br> 299 bitexts, <br>113.52M sents. </td>
         <td align='center' nowrap='nowrap'>Law</td>
      </tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://www.statmt.org/cc-aligned/'>CCAligned</a></td>
 		<td align='center' nowrap='nowrap'>English at core</td>
-		<td nowrap='nowrap'>af ak am ar as ay az be bg<br> bm bn br bs ca cb, etc.</td>
-		<td nowrap='nowrap'>113 languages, 112 bitexts<br>sentence fragments: 2.25G</td>
-		<td align='center' nowrap='nowrap''>Web-document</td>
+		<td nowrap='nowrap'>af ak am ar as<br> ay az be bg bm<br> bn br bs ca cb, etc.</td>
+		<td nowrap='nowrap'>113 languages,<br> 112 bitexts,<br>2.25G sents.</td>
+		<td align='center' nowrap='nowrap''>Web<br> Document</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://data.statmt.org/news-commentary/v16/'>News-Commentary</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>ar cs de en es fr hi id it<br> ja kk nl pt ru zh</td>
-		<td nowrap='nowrap'>15 languages, 109 bitexts<br>sentence fragments: 2.97M</td>
-		<td align='center' nowrap='nowrap''>News Commentaries</td>
+		<td nowrap='nowrap'>ar cs de en es<br> fr hi id it ja<br> kk nl pt ru zh</td>
+		<td nowrap='nowrap'>15 languages,<br> 109 bitexts,<br>2.97M sents.</td>
+		<td align='center' nowrap='nowrap''>News<br> Commentaries</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://www.statmt.org/europarl/'>Europarl</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>bg cs da de el en es et fi<br> fr hu it lt lv nl, etc.</td>
-		<td nowrap='nowrap'>21 languages, 211 bitexts<br>sentence fragments: 30.32M</td>
-		<td align='center' nowrap='nowrap''>Parliament Proceedings</td>
+		<td nowrap='nowrap'>bg cs da de el<br> en es et fi fr<br> hu it lt lv nl, etc.</td>
+		<td nowrap='nowrap'>21 languages,<br> 211 bitexts,<br>30.32M sents.</td>
+		<td align='center' nowrap='nowrap''>Parliament<br> Proceedings</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://dumps.wikimedia.org/other/contenttranslation/'>wikimedia</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>ab ace ady af ak am an ang<br> ar arc ary arz as ast atj, etc.</td>
-		<td nowrap='nowrap'>306 languages, 2,575 bitexts<br>sentence fragments: 31.62M</td>
+		<td nowrap='nowrap'>ab ace ady af<br> ak am an ang<br> ar arc ary arz as<br> ast atj, etc.</td>
+		<td nowrap='nowrap'>306 languages,<br> 2,575 bitexts,<br>31.62M sents.</td>
 		<td align='center' nowrap='nowrap''>Mixed</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://europat.net/'>EuroPat</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>de en es fr hr no pl</td>
-		<td nowrap='nowrap'>7 languages, 21 bitexts<br>sentence fragments: 143.74M</td>
+		<td nowrap='nowrap'>de en es fr<br> hr no pl</td>
+		<td nowrap='nowrap'>7 languages,<br> 21 bitexts,<br>143.74M sents.</td>
 		<td align='center' nowrap='nowrap''>Patent</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://ai.facebook.com/blog/wikimatrix/'>WikiMatrix</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>an ar arz as az azb ba bar<br> be bg bn br bs ca ceb, etc.</td>
-		<td nowrap='nowrap'>86 languages, 1,620 bitexts<br>sentence fragments: 300.27M</td>
-		<td align='center' nowrap='nowrap''>Wikipedia Article</td>
+		<td nowrap='nowrap'>an ar arz as<br> az azb ba bar<br> be bg bn br bs<br> ca ceb, etc.</td>
+		<td nowrap='nowrap'>86 languages,<br> 1,620 bitexts,<br>300.27M sents.</td>
+		<td align='center' nowrap='nowrap''>Wikipedia<br> Article</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://conferences.unite.un.org/UNCorpus'>UNPC</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
 		<td nowrap='nowrap'>ar en es fr ru zh</td>
-		<td nowrap='nowrap'>6 languages, 15 bitexts<br>sentence fragments: 172.04M</td>
-		<td align='center' nowrap='nowrap''>Parliamentary Records</td>
+		<td nowrap='nowrap'>6 languages,<br> 15 bitexts,<br>172.04M sents.</td>
+		<td align='center' nowrap='nowrap''>Parliamentary<br> Records</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://www.paracrawl.eu/index.php/moredata'>MultiParaCrawl</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>bg ca cs da de el es et eu<br> fi fr ga gl ha hr, etc.</td>
-		<td nowrap='nowrap'>40 languages, 669 bitexts<br>sentence fragments: 505.48M</td>
+		<td nowrap='nowrap'>bg ca cs da de<br> el es et eu fi<br> fr ga gl ha<br> hr, etc.</td>
+		<td nowrap='nowrap'>40 languages,<br> 669 bitexts,<br>505.48M sents.</td>
 		<td align='center' nowrap='nowrap''>Mixed</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://tilde-model.s3-eu-west-1.amazonaws.com/Tilde_MODEL_Corpus.html'>TildeMODEL</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>bg cs da de el en es et fi<br> fr hr hu is it lt, etc.</td>
-		<td nowrap='nowrap'>30 languages, 274 bitexts <br>sentence fragments: 62.44M</td>
+		<td nowrap='nowrap'>bg cs da de el<br> en es et fi fr<br> hr hu is it<br> lt, etc.</td>
+		<td nowrap='nowrap'>30 languages,<br> 274 bitexts,<br> 62.44M sents.</td>
 		<td align='center' nowrap='nowrap''>Mixed</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://www.manythings.org/anki/'>Tatoeba</a></td>
 		<td align='center' nowrap='nowrap'>English at core</td>
-		<td nowrap='nowrap'>ab acm ady af afb afh aii ain<br> ajp akl aln alt am an ang, ect.</td>
-		<td nowrap='nowrap'>366 languages, 3,632 bitexts<br>sentence fragments: 9.52M</td>
+		<td nowrap='nowrap'>ab acm ady af<br> afb afh aii ain<br> ajp akl aln alt<br> am an ang, ect.</td>
+		<td nowrap='nowrap'>366 languages,<br> 3,632 bitexts,<br>9.52M sents.</td>
 		<td align='center' nowrap='nowrap''>Oral</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://nlp.ffzg.hr/resources/corpora/setimes/'>SETIMES</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>bg bs el en hr mk ro sq sr tr</td>
-		<td nowrap='nowrap'>10 languages, 45 bitexts<br>sentence fragments: 17.60M</td>
-		<td align='center' nowrap='nowrap''>Official Documents</td>
+		<td nowrap='nowrap'>bg bs el en hr<br> mk ro sq sr tr</td>
+		<td nowrap='nowrap'>10 languages,<br> 45 bitexts,<br>17.60M sents.</td>
+		<td align='center' nowrap='nowrap''>Official<br> Documents</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://linguatools.org/tools/corpora/wikipedia-parallel-titles-corpora/'>Wikititles</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>ar bg cs da de el en es fa<br> fi fr hu it ja ko, etc.</td>
-		<td nowrap='nowrap'>23 languages, 506 bitexts<br>sentence fragments: 24.25M</td>
+		<td nowrap='nowrap'>ar bg cs da de<br> el en es fa fi<br> fr hu it ja<br> ko, etc.</td>
+		<td nowrap='nowrap'>23 languages,<br> 506 bitexts,<br> 24.25M sents.</td>
 		<td align='center' nowrap='nowrap''>Title</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://www.opensubtitles.org/'>OpenSubtile</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>af ar bg bn br bs ca cs da<br> de el en eo es et, ect.</td>
-		<td nowrap='nowrap'>62 languages, 1,782 bitexts<br>sentence fragments: 3.35G</td>
+		<td nowrap='nowrap'>af ar bg bn br<br> bs ca cs da de<br> el en eo es<br> et, ect.</td>
+		<td nowrap='nowrap'>62 languages,<br> 1,782 bitexts,<br>3.35G sents.</td>
 		<td align='center' nowrap='nowrap''>Subtitles</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://cims.nyu.edu/~sbowman/xnli/'>XNLI</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>fr es de el bg ru tr ar vi<br> th zh hi sw ur en</td>
-		<td nowrap='nowrap'>15 languages, bitexts 105<br>sentence fragments: 1.5 M</td>
+		<td nowrap='nowrap'>fr es de el bg<br> ru tr ar vi th<br> zh hi sw ur en</td>
+		<td nowrap='nowrap'>15 languages,<br> bitexts 105,<br>1.5 M sents.</td>
 		<td align='center' nowrap='nowrap''>Mixed</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://nlp.stanford.edu/projects/nmt/'>stanford</a></td>
 		<td align='center' nowrap='nowrap'>English at core</td>
 		<td nowrap='nowrap'>cs de vi</td>
-		<td nowrap='nowrap'>3 languages, 3 bitexts<br>sentence fragments: 20.3M</td>
+		<td nowrap='nowrap'>3 languages,<br> 3 bitexts,<br>20.3M sents.</td>
 		<td align='center' nowrap='nowrap''>Mixed</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://nlp2ct.cis.umac.mo/um-corpus/'>Um-Corpus</a></td>
 		<td align='center' nowrap='nowrap'>Bilingual Parallel</td>
 		<td nowrap='nowrap'>en zh</td>
-		<td nowrap='nowrap'>sentence fragments: 2.0M</td>
+		<td nowrap='nowrap'>2.0M sents.</td>
 		<td align='center' nowrap='nowrap''>Mixed</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://jipsti.jst.go.jp/aspec/'>ASPEC</a></td>
 		<td align='center' nowrap='nowrap'>Bilingual Parallel</td>
 		<td nowrap='nowrap'>en ja</td>
-		<td nowrap='nowrap'>sentence fragments: 3.0M</td>
-		<td align='center' nowrap='nowrap''>Paper Abstract</td>
+		<td nowrap='nowrap'>3.0M sents.</td>
+		<td align='center' nowrap='nowrap''>Paper<br> Abstract</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://code.google.com/archive/p/evbcorpus/'>EVB</a></td>
 		<td align='center' nowrap='nowrap'>Bilingual Parallel</td>
 		<td nowrap='nowrap'>en vi</td>
-		<td nowrap='nowrap'>sentence fragments: 10.0M</td>
+		<td nowrap='nowrap'>10.0M sents.</td>
 		<td align='center' nowrap='nowrap''>Book</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='https://www.cfilt.iitb.ac.in/~parallelcorp/iitb_en_hi_parallel/'>IIT</a></td>
 		<td align='center' nowrap='nowrap'>Bilingual Parallel</td>
 		<td nowrap='nowrap'>en hi</td>
-		<td nowrap='nowrap'>sentence fragments: 1.6M</td>
+		<td nowrap='nowrap'>1.6M sents.</td>
 		<td align='center' nowrap='nowrap''>Mixed</td>
 	</tr>
 </table>
@@ -3419,7 +3419,7 @@ It is hard to tell the exact number of human languages on this planet because th
 
 - ### Multi-lingual Data Shared by MT Conference/Workshop：
 
-  [CCMT](http://mteval.cipsc.org.cn:81/CCMT2021/index.html)  China Conference on Machine Translation (CCMT) , formerly known as China Workshop on Machine Translation (CWMT), is a flagship conference of machine translation in China. It has organized multiple evaluations since 2005 which has profoundly influenced domestic machine translation technology. Its evaluations focus mainly on Chinese, English and domestic minority languages (Mongolian, Tibetan, Uyghur, etc.) in domains of news, spoken languages, governmental documents, etc. In addition, CCMT publishes all evaluation-related data on line.
+  [CCMT](http://mteval.cipsc.org.cn:81/CCMT2021/index.html)  China Conference on Machine Translation (CCMT) , formerly known as China Workshop on Machine Translation (CWMT), is a flagship conference of machine translation in China.Its evaluations focus mainly on Chinese, English and domestic minority languages (Mongolian, Tibetan, Uyghur, etc.) in domains of news, spoken languages, governmental documents, etc. In addition, CCMT publishes all evaluation-related data on line.
 
    [WMT](http://www.statmt.org/wmt21/)  WMT is hosted by Special Interest Group for Machine Translation (SIGMT) annually since 2006. WMT evaluation campaigns focuses on languages between English and over ten languages such as English, German, Finnish, Czech, Romanian, Polish, Russian, etc. in domains of news, information technology, biomedicine. WMT publishes all evaluation resources specific to each evaluation task, you can find it at **Shared Task**-**Provided Data**.
    
