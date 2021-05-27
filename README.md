@@ -3434,6 +3434,7 @@ It is hard to tell the exact number of human languages on this planet because th
 - [↑](#4) <a id="1">["How many languages are there in the world"](https://www.ethnologue.com/guides/how-many-languages). Ethnologue: Languages of the World. Retrieved 29 April 2021.</a>
 - [↑](#5) <a id="2">[List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes). Wikipedia.org. Retrieved 29 April 2021.</a>
 - [↑](#6) <a id="3">[Numeral Systems of the World's Languages](https://mpi-lingweb.shh.mpg.de/numeral/)  Retrieved June 2020.</a>
+
 - [World language and its name, language family, writing systems and the number and distribution of its native speakers](https://en.wikipedia.org/wiki/Index_of_language_articles). Wikipedia.org. Retrieved March 21, 2020.
 - [Glottolog report for language families](https://glottolog.org/glottolog/language). Glottolog.org. Retrieved July 21, 2020.
 - [World Continents classification](https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/) Retrieved October 21, 2020.
