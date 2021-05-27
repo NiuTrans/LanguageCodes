@@ -3270,36 +3270,36 @@ It is hard to tell the exact number of human languages on this planet because th
     <tr>
         <th align='center' nowrap="nowrap">Corpora</th>
         <th align='center' nowrap="nowrap">Type</th>
-        <th align='center' nowrap="nowrap">Language Supported</th>
+        <th align='center' nowrap="nowrap">Language</th>
         <th align='center' nowrap="nowrap">Detail</th>
         <th align='center' nowrap="nowrap">Domain</th>
     </tr>
     <tr>
         <td align='center' nowrap='nowrap'><a href="https://ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory">DGT</a></td>
         <td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-        <td nowrap='nowrap'>bg cs da de el en<br> es et fi fr ga<br> hr hu it lt, etc.</td>
+        <td nowrap='nowrap'>bg cs da de el <br> en es et fi fr ga<br> hr hu it lt, etc.</td>
         <td nowrap='nowrap'>25 languages,<br> 299 bitexts, <br>113.52M sents. </td>
         <td align='center' nowrap='nowrap'>Law</td>
      </tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://www.statmt.org/cc-aligned/'>CCAligned</a></td>
 		<td align='center' nowrap='nowrap'>English at core</td>
-		<td nowrap='nowrap'>af ak am ar as ay az be bg<br> bm bn br bs ca cb, etc.</td>
-		<td nowrap='nowrap'>113 languages, 112 bitexts<br>sentence fragments: 2.25G</td>
+		<td nowrap='nowrap'>af ak am ar as<br> ay az be bg bm<br> bn br bs ca cb, etc.</td>
+		<td nowrap='nowrap'>113 languages,<br> 112 bitexts,<br>2.25G sents.</td>
 		<td align='center' nowrap='nowrap''>Web-document</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://data.statmt.org/news-commentary/v16/'>News-Commentary</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>ar cs de en es fr hi id it<br> ja kk nl pt ru zh</td>
-		<td nowrap='nowrap'>15 languages, 109 bitexts<br>sentence fragments: 2.97M</td>
+		<td nowrap='nowrap'>ar cs de en es<br> fr hi id it ja<br> kk nl pt ru zh</td>
+		<td nowrap='nowrap'>15 languages,<br> 109 bitexts,<br>2.97M sents.</td>
 		<td align='center' nowrap='nowrap''>News Commentaries</td>
 	</tr>
 	<tr>
 		<td align='center' nowrap='nowrap'><a href='http://www.statmt.org/europarl/'>Europarl</a></td>
 		<td align='center' nowrap='nowrap'>Multilingual Parallel</td>
-		<td nowrap='nowrap'>bg cs da de el en es et fi<br> fr hu it lt lv nl, etc.</td>
-		<td nowrap='nowrap'>21 languages, 211 bitexts<br>sentence fragments: 30.32M</td>
+		<td nowrap='nowrap'>bg cs da de el<br> en es et fi fr<br> hu it lt lv nl, etc.</td>
+		<td nowrap='nowrap'>21 languages,<br> 211 bitexts,<br>30.32M sents.</td>
 		<td align='center' nowrap='nowrap''>Parliament Proceedings</td>
 	</tr>
 	<tr>
