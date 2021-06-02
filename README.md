@@ -415,7 +415,7 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap='nowrap'>kk</td>
         <td align='center' nowrap='nowrap'>kaz</td>
         <td align='center' nowrap='nowrap'>kaz</td>
-        <td align='center' nowrap='nowrap'>Turkic ›<br>Common<br>Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Arabic</td>
         <td align='center' nowrap='nowrap'>Asia</td>
     </tr>
@@ -424,7 +424,7 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap='nowrap'>kk</td>
         <td align='center' nowrap='nowrap'>kaz</td>
         <td align='center' nowrap='nowrap'>kaz</td>
-        <td align='center' nowrap='nowrap'>Turkic ›<br>Common<br>Turkic</td>
+        <td align='center' nowrap='nowrap'>Turkic ›<br>Common Turkic</td>
         <td align='center' nowrap='nowrap'>Cyrillic<br>Kazakh Braille</td>
         <td align='center' nowrap='nowrap'>Asia</td>
     </tr>
