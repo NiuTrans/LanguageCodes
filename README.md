@@ -1,6 +1,6 @@
 # Language Codes
 
-It is hard to tell the exact number of human languages on this planet because the definition of "language" varies depending on how one defines the distinction between languages and dialects. E.g., some languages can be grouped into a language family, and show small differences from others. For a general definition of language, the number of living languages is over 7,000<sup><a id="4">[[1]](#1)</a></sup> but most of them are non-digitized. Here we list 353 languages with their codes, families, regions and etc. This list covers most of the majority languages in the world and a large number of minority languages. Also, we collect links to sites of multi-lingual corpora. They might help when one studies these languages and/or develop multi-lingual natural language processing (NLP) systems.
+It is hard to tell the exact number of human languages on this planet because the definition of "language" varies depending on how one defines the distinction between languages and dialects. E.g., some languages can be grouped into a language family, and show small differences from others. For a general definition of language, the number of living languages is over 7,000<sup><a id="4">[[1]](#1)</a></sup> but most of them are non-digitized. Here we list 383 languages with their codes, families, regions and etc. This list covers most of the majority languages in the world and a large number of minority languages. Also, we collect links to sites of multi-lingual corpora. They might help when one studies these languages and/or develop multi-lingual natural language processing (NLP) systems.
 
 ## The Language List
 
@@ -3254,12 +3254,12 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
     </tr>
-     <tr>
+    <tr>
 <td align='center' nowrap="nowrap">Bouyei ›<br>布依语</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">tai</td>
 <td align='center' nowrap="nowrap">pcc</td>
-<td align='center' nowrap="nowrap">Kra–Dai›<br>Tai</td>
+<td align='center' nowrap="nowrap">Kra–Dai ›<br>Tai</td>
 <td align='center' nowrap="nowrap">Latin<br>Sawndip</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3268,7 +3268,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">doc</td>
-<td align='center' nowrap="nowrap">Kra–Dai›<br>Kam–Sui</td>
+<td align='center' nowrap="nowrap">Kra–Dai ›<br>Kam–Sui</td>
 <td align='center' nowrap="nowrap">Kam<br>Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3277,7 +3277,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">kmc</td>
-<td align='center' nowrap="nowrap">Kra–Dai›<br>Kam–Sui</td>
+<td align='center' nowrap="nowrap">Kra–Dai ›<br>Kam–Sui</td>
 <td align='center' nowrap="nowrap">Kam<br>Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3286,7 +3286,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">bwx</td>
-<td align='center' nowrap="nowrap">Hmong–Mien›<br>Hmongic</td>
+<td align='center' nowrap="nowrap">Hmong–Mien ›<br>Hmongic</td>
 <td align='center' nowrap="nowrap">Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3304,7 +3304,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">bca</td>
-<td align='center' nowrap="nowrap">Sino-Tibetan›<br>Sinitic</td>
+<td align='center' nowrap="nowrap">Sino-Tibetan ›<br>Sinitic</td>
 <td align='center' nowrap="nowrap">Han<br>Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3313,7 +3313,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">bfs</td>
-<td align='center' nowrap="nowrap">Sino-Tibetan›<br>Sinitic</td>
+<td align='center' nowrap="nowrap">Sino-Tibetan ›<br>Sinitic</td>
 <td align='center' nowrap="nowrap">Han<br>Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3322,7 +3322,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">tji</td>
-<td align='center' nowrap="nowrap">Sino-Tibetan›<br>Sinitic</td>
+<td align='center' nowrap="nowrap">Sino-Tibetan ›<br>Sinitic</td>
 <td align='center' nowrap="nowrap">Han</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3331,7 +3331,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">tjs</td>
-<td align='center' nowrap="nowrap">Sino-Tibetan›<br>Sinitic</td>
+<td align='center' nowrap="nowrap">Sino-Tibetan ›<br>Sinitic</td>
 <td align='center' nowrap="nowrap">Han</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3340,7 +3340,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">hni</td>
-<td align='center' nowrap="nowrap">Sino-Tibetan›<br>Tibeto-Burman</td>
+<td align='center' nowrap="nowrap">Sino-Tibetan ›<br>Tibeto-Burman</td>
 <td align='center' nowrap="nowrap">Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3349,7 +3349,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">tai</td>
 <td align='center' nowrap="nowrap">tdd</td>
-<td align='center' nowrap="nowrap">Kra–Dai›<br>Tai</td>
+<td align='center' nowrap="nowrap">Kra–Dai ›<br>Tai</td>
 <td align='center' nowrap="nowrap">Tai Le</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3358,7 +3358,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">tai</td>
 <td align='center' nowrap="nowrap">khb</td>
-<td align='center' nowrap="nowrap">Kra–Dai›<br>Tai</td>
+<td align='center' nowrap="nowrap">Kra–Dai ›<br>Tai</td>
 <td align='center' nowrap="nowrap">Tai Tham<br>Thai<br>New Tai</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3367,7 +3367,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">tai</td>
 <td align='center' nowrap="nowrap">tiz</td>
-<td align='center' nowrap="nowrap">Kra–Dai›<br>Tai</td>
+<td align='center' nowrap="nowrap">Kra–Dai ›<br>Tai</td>
 <td align='center' nowrap="nowrap">Xinping Tai</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3376,7 +3376,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">tai</td>
 <td align='center' nowrap="nowrap">twh</td>
-<td align='center' nowrap="nowrap">Kra–Dai›<br>Tai</td>
+<td align='center' nowrap="nowrap">Kra–Dai ›<br>Tai</td>
 <td align='center' nowrap="nowrap">Tai Viet</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3403,7 +3403,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">lis</td>
-<td align='center' nowrap="nowrap">Sino-Tibetan›<br>Tibeto-Burman</td>
+<td align='center' nowrap="nowrap">Sino-Tibetan ›<br>Tibeto-Burman</td>
 <td align='center' nowrap="nowrap">Fraser<br>Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3412,7 +3412,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">shx</td>
-<td align='center' nowrap="nowrap">Hmong–Mien›<br>Hmongic</td>
+<td align='center' nowrap="nowrap">Hmong–Mien ›<br>Hmongic</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3421,7 +3421,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">tsu</td>
-<td align='center' nowrap="nowrap">Austronesian›<br>Formosan</td>
+<td align='center' nowrap="nowrap">Austronesian ›<br>Formosan</td>
 <td align='center' nowrap="nowrap">Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3430,7 +3430,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">pwn</td>
-<td align='center' nowrap="nowrap">Austronesian›<br>Formosan</td>
+<td align='center' nowrap="nowrap">Austronesian ›<br>Formosan</td>
 <td align='center' nowrap="nowrap">Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3439,7 +3439,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">bnn</td>
-<td align='center' nowrap="nowrap">Austronesian›<br>Formosan</td>
+<td align='center' nowrap="nowrap">Austronesian ›<br>Formosan</td>
 <td align='center' nowrap="nowrap">Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3448,7 +3448,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">dru</td>
-<td align='center' nowrap="nowrap">Austronesian›<br>Formosan</td>
+<td align='center' nowrap="nowrap">Austronesian ›<br>Formosan</td>
 <td align='center' nowrap="nowrap">Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3457,7 +3457,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">pyu</td>
-<td align='center' nowrap="nowrap">Austronesian›<br>Formosan</td>
+<td align='center' nowrap="nowrap">Austronesian ›<br>Formosan</td>
 <td align='center' nowrap="nowrap">Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3466,7 +3466,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">lhu</td>
-<td align='center' nowrap="nowrap">Sino-Tibetan›<br>Tibeto-Burman</td>
+<td align='center' nowrap="nowrap">Sino-Tibetan ›<br>Tibeto-Burman</td>
 <td align='center' nowrap="nowrap">Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3475,7 +3475,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">lhi</td>
-<td align='center' nowrap="nowrap">Sino-Tibetan›<br>Tibeto-Burman</td>
+<td align='center' nowrap="nowrap">Sino-Tibetan ›<br>Tibeto-Burman</td>
 <td align='center' nowrap="nowrap">Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3484,7 +3484,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">lkc</td>
-<td align='center' nowrap="nowrap">Sino-Tibetan›<br>Tibeto-Burman</td>
+<td align='center' nowrap="nowrap">Sino-Tibetan ›<br>Tibeto-Burman</td>
 <td align='center' nowrap="nowrap">Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3493,7 +3493,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">swi</td>
-<td align='center' nowrap="nowrap">Kra–Dai›<br>Kam–Sui</td>
+<td align='center' nowrap="nowrap">Kra–Dai ›<br>Kam–Sui</td>
 <td align='center' nowrap="nowrap">Latin<br>Sui<br>Han</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3502,7 +3502,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">sce</td>
-<td align='center' nowrap="nowrap">Mongolic›<br>Shirongolic</td>
+<td align='center' nowrap="nowrap">Mongolic ›<br>Shirongolic</td>
 <td align='center' nowrap="nowrap">Arabic<br>Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3511,7 +3511,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">nxq</td>
-<td align='center' nowrap="nowrap">Sino-Tibetan›<br>Tibeto-Burman</td>
+<td align='center' nowrap="nowrap">Sino-Tibetan ›<br>Tibeto-Burman</td>
 <td align='center' nowrap="nowrap">Geba<br>Dongba<br>Latini<br>Han</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3520,10 +3520,10 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">nru</td>
-<td align='center' nowrap="nowrap">Sino-Tibetan›<br>Tibeto-Burman</td>
+<td align='center' nowrap="nowrap">Sino-Tibetan ›<br>Tibeto-Burman</td>
 <td align='center' nowrap="nowrap">Geba<br>Dongba<br>Latini<br>Han</td>
 <td align='center' nowrap="nowrap">Asia</td>
-    </tr>
+    </tr>   
 </table>
 
 
