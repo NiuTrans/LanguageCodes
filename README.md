@@ -3507,7 +3507,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
     <tr>
-<td align='center' nowrap="nowrap">Western Naxi<br>西部纳西语</td>
+<td align='center' nowrap="nowrap">Western Naxi <br>西部纳西语</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">nxq</td>
@@ -3516,7 +3516,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
     <tr>
-<td align='center' nowrap="nowrap">Eastern Naxi<br>东部纳西语</td>
+<td align='center' nowrap="nowrap">Eastern Naxi <br>东部纳西语</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">nru</td>
@@ -3524,7 +3524,6 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">Geba<br>Dongba<br>Latini<br>Han</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
-<td align='center' nowrap="nowrap"></td>
 </table>
 
 
