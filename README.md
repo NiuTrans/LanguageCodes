@@ -3295,7 +3295,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">lbc</td>
-<td align='center' nowrap="nowrap">Kra–Dai›<br>N/A</td>
+<td align='center' nowrap="nowrap">Kra–Dai</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3385,7 +3385,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">lic</td>
-<td align='center' nowrap="nowrap">Kra–Dai›<br>N/A</td>
+<td align='center' nowrap="nowrap">Kra–Dai</td>
 <td align='center' nowrap="nowrap">Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
@@ -3394,7 +3394,7 @@ It is hard to tell the exact number of human languages on this planet because th
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">N/A</td>
 <td align='center' nowrap="nowrap">jio</td>
-<td align='center' nowrap="nowrap">Kra–Dai›<br>N/A</td>
+<td align='center' nowrap="nowrap">Kra–Dai</td>
 <td align='center' nowrap="nowrap">Latin</td>
 <td align='center' nowrap="nowrap">Asia</td>
     </tr>
