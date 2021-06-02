@@ -3254,6 +3254,276 @@ It is hard to tell the exact number of human languages on this planet because th
         <td align='center' nowrap='nowrap'>Latin</td>
         <td align='center' nowrap='nowrap'>Europe</td>
     </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Bouyei ›<br>布依语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">tai</td>
+<td align='center' nowrap="nowrap">pcc</td>
+<td align='center' nowrap="nowrap">Tai</td>
+<td align='center' nowrap="nowrap">Latin<br>Sawndip</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Northern Dong ›<br>北部侗语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">doc</td>
+<td align='center' nowrap="nowrap">Kam–Sui</td>
+<td align='center' nowrap="nowrap">Kam<br>Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Southern Dong ›<br>南部侗语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">kmc</td>
+<td align='center' nowrap="nowrap">Kam–Sui</td>
+<td align='center' nowrap="nowrap">Kam<br>Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Bunu ›<br>布努语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">bwx</td>
+<td align='center' nowrap="nowrap">Hmongic</td>
+<td align='center' nowrap="nowrap">Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Lakkia ›<br>拉珈语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">lbc</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Central Bai ›<br>中部白语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">bca</td>
+<td align='center' nowrap="nowrap">Sinitic</td>
+<td align='center' nowrap="nowrap">Han<br>Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Southern Bai ›<br>南部白语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">bfs</td>
+<td align='center' nowrap="nowrap">Sinitic</td>
+<td align='center' nowrap="nowrap">Han<br>Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Northern Tujia ›<br>北部土家语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">tji</td>
+<td align='center' nowrap="nowrap">Sinitic</td>
+<td align='center' nowrap="nowrap">Han</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Southern Tujia ›<br>南部土家语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">tjs</td>
+<td align='center' nowrap="nowrap">Sinitic</td>
+<td align='center' nowrap="nowrap">Han</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Hani ›<br>哈尼语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">hni</td>
+<td align='center' nowrap="nowrap">Tibeto-Burman</td>
+<td align='center' nowrap="nowrap">Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Tai Nuea ›<br>傣那语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">tai</td>
+<td align='center' nowrap="nowrap">tdd</td>
+<td align='center' nowrap="nowrap">Tai</td>
+<td align='center' nowrap="nowrap">Tai Le</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Tai Lue ›<br>傣仂语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">tai</td>
+<td align='center' nowrap="nowrap">khb</td>
+<td align='center' nowrap="nowrap">Tai</td>
+<td align='center' nowrap="nowrap">Tai Tham<br>Thai<br>New Tai</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Tai Hongjin ›<br>红金傣语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">tai</td>
+<td align='center' nowrap="nowrap">tiz</td>
+<td align='center' nowrap="nowrap">Tai</td>
+<td align='center' nowrap="nowrap">Xinping Tai</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">White Tai ›<br>白傣语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">tai</td>
+<td align='center' nowrap="nowrap">twh</td>
+<td align='center' nowrap="nowrap">Tai</td>
+<td align='center' nowrap="nowrap">Tai Viet</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Hlai ›<br>黎语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">lic</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Jiamao ›<br>加茂语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">jio</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Lisu ›<br>傈僳语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">lis</td>
+<td align='center' nowrap="nowrap">Tibeto-Burman</td>
+<td align='center' nowrap="nowrap">Fraser<br>Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">She ›<br>畲语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">shx</td>
+<td align='center' nowrap="nowrap">Hmongic</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Tsou ›<br>邹语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">tsu</td>
+<td align='center' nowrap="nowrap">Formosan</td>
+<td align='center' nowrap="nowrap">Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Paiwan ›<br>排湾语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">pwn</td>
+<td align='center' nowrap="nowrap">Formosan</td>
+<td align='center' nowrap="nowrap">Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Bunun ›<br>布农语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">bnn</td>
+<td align='center' nowrap="nowrap">Formosan</td>
+<td align='center' nowrap="nowrap">Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Rukai ›<br>鲁凯语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">dru</td>
+<td align='center' nowrap="nowrap">Formosan</td>
+<td align='center' nowrap="nowrap">Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Puyuma ›<br>卑南语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">pyu</td>
+<td align='center' nowrap="nowrap">Formosan</td>
+<td align='center' nowrap="nowrap">Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Lahu ›<br>拉祜语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">lhu</td>
+<td align='center' nowrap="nowrap">Tibeto-Burman</td>
+<td align='center' nowrap="nowrap">Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Lahu Shi ›<br>拉祜西语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">lhi</td>
+<td align='center' nowrap="nowrap">Tibeto-Burman</td>
+<td align='center' nowrap="nowrap">Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Kucong ›<br>苦聪语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">lkc</td>
+<td align='center' nowrap="nowrap">Tibeto-Burman</td>
+<td align='center' nowrap="nowrap">Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Sui ›<br>水语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">swi</td>
+<td align='center' nowrap="nowrap">Kam–Sui</td>
+<td align='center' nowrap="nowrap">Latin<br>Sui<br>Han</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Dongxiang ›<br>东乡语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">sce</td>
+<td align='center' nowrap="nowrap">Shirongolic</td>
+<td align='center' nowrap="nowrap">Arabic<br>Latin</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Western Naxi ›<br>西部纳西语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">nxq</td>
+<td align='center' nowrap="nowrap">Tibeto-Burman</td>
+<td align='center' nowrap="nowrap">Geba<br>Dongba<br>Latini<br>Han</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
+    <tr>
+<td align='center' nowrap="nowrap">Eastern Naxi ›<br>东部纳西语</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">N/A</td>
+<td align='center' nowrap="nowrap">nru</td>
+<td align='center' nowrap="nowrap">Tibeto-Burman</td>
+<td align='center' nowrap="nowrap">Geba<br>Dongba<br>Latini<br>Han</td>
+<td align='center' nowrap="nowrap">Asia</td>
+    </tr>
 </table>
 
 
